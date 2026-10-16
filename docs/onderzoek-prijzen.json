@@ -1,0 +1,1150 @@
+{
+  "_meta": {
+    "opgehaald": "2026-10-12",
+    "methode": "Elke bron is effectief geopend (WebFetch) op 2026-10-12; bedragen komen van de pagina zelf, niet uit zoeksnippets, tenzij uitdrukkelijk vermeld. null = niet gevonden of niet verifieerbaar.",
+    "niet_te_openen_bronnen": [
+      "werk.belgie.be (FOD WASO, robots)",
+      "financien.belgium.be (robots)",
+      "vlaamsenutsregulator.be FAQ-pagina's (fout bij ophalen)",
+      "dirkvervaet.be (robots)",
+      "bkfservice.be (geen inhoud leesbaar)",
+      "wts-group.be (prijzen enkel via online calculator)",
+      "dezondag.be en oximo.be (fout bij ophalen)"
+    ]
+  },
+  "verhuisfirma": {
+    "feiten": [
+      {
+        "claim": "Kleine verhuis (tot 25 m3, studio of appartement), richtprijs totaal",
+        "bedrag_of_waarde": "600 tot 850 euro (btw niet vermeld)",
+        "bron_url": "https://callmepower.be/nl/verhuizen/verhuisfirma",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Middelgrote verhuis (tot 50 m3, halfopen woning), richtprijs totaal",
+        "bedrag_of_waarde": "900 tot 1.200 euro (btw niet vermeld)",
+        "bron_url": "https://callmepower.be/nl/verhuizen/verhuisfirma",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Grote verhuis (meer dan 50 m3, open bebouwing of villa), richtprijs totaal",
+        "bedrag_of_waarde": "1.400 tot 1.700 euro (btw niet vermeld)",
+        "bron_url": "https://callmepower.be/nl/verhuizen/verhuisfirma",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Uurtarief per verhuizer",
+        "bedrag_of_waarde": "30 tot 40 euro per uur per persoon (btw niet vermeld)",
+        "bron_url": "https://callmepower.be/nl/verhuizen/verhuisfirma",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Verhuiswagen met 1 verhuizer",
+        "bedrag_of_waarde": "ongeveer 65 euro per uur (btw niet vermeld)",
+        "bron_url": "https://callmepower.be/nl/verhuizen/verhuisfirma",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Weekendtoeslag",
+        "bedrag_of_waarde": "ongeveer 25% tot 50%, zondag meestal duurst; pagina bijgewerkt op 11 juni 2026",
+        "bron_url": "https://callmepower.be/nl/verhuizen/verhuisfirma",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Kleine verhuis (appartement, studio, kleine woning), weekdag binnen 50 km",
+        "bedrag_of_waarde": "1 verhuizer 350 tot 700 euro; 2 verhuizers 500 tot 900 euro (btw niet vermeld)",
+        "bron_url": "https://www.bobex.be/nl-be/verhuisfirmas/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Gemiddelde verhuis (standaard eengezinswoning)",
+        "bedrag_of_waarde": "1 verhuizer 600 tot 1.000 euro; 2 verhuizers 800 tot 1.400 euro (btw niet vermeld)",
+        "bron_url": "https://www.bobex.be/nl-be/verhuisfirmas/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Grote verhuis (ruime woning, extra diensten)",
+        "bedrag_of_waarde": "1 verhuizer 1.000 tot 1.600 euro; 2 verhuizers 1.400 tot 2.400 euro (btw niet vermeld)",
+        "bron_url": "https://www.bobex.be/nl-be/verhuisfirmas/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Gemiddelde prijs verhuis in Belgie volgens Bobex",
+        "bedrag_of_waarde": "rond 800 euro (btw niet vermeld)",
+        "bron_url": "https://www.bobex.be/nl-be/verhuisfirmas/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Verhuiswagen 20 m3 met 1 verhuizer",
+        "bedrag_of_waarde": "65 tot 70 euro per uur (btw niet vermeld)",
+        "bron_url": "https://www.bobex.be/nl-be/verhuisfirmas/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Verhuiswagen 50 m3 met 1 verhuizer",
+        "bedrag_of_waarde": "75 tot 80 euro per uur (btw niet vermeld)",
+        "bron_url": "https://www.bobex.be/nl-be/verhuisfirmas/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Extra verhuizer of handyman",
+        "bedrag_of_waarde": "30 tot 40 euro per uur; zaterdag tot 25% extra; km-vergoeding 0,5 tot 1 euro per km; parkeervergunning 20 tot 50 euro",
+        "bron_url": "https://www.bobex.be/nl-be/verhuisfirmas/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Verhuisfirma Limburg: twee- of driekamerappartement, 1 verhuizer",
+        "bedrag_of_waarde": "600 tot 850 euro (btw niet vermeld)",
+        "bron_url": "https://be.verhuisoffertes.com/regio/verhuisfirma-limburg/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Verhuisfirma Limburg: twee-onder-een-kapwoning, 2 verhuizers plus inpakker",
+        "bedrag_of_waarde": "900 tot 1.200 euro (btw niet vermeld)",
+        "bron_url": "https://be.verhuisoffertes.com/regio/verhuisfirma-limburg/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Verhuisfirma Limburg: vrijstaande woning of villa, 4 verhuizers",
+        "bedrag_of_waarde": "1.400 tot 1.700 euro (btw niet vermeld)",
+        "bron_url": "https://be.verhuisoffertes.com/regio/verhuisfirma-limburg/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Verhuisfirma Limburg: wagen 20 m3 met 1 verhuizer / wagen 50 m3 met 1 verhuizer / extra verhuizer",
+        "bedrag_of_waarde": "ca. 60 euro per uur / ca. 75 euro per uur / 30 tot 35 euro per uur; eerste 20 km gratis, daarna 0,50 tot 1 euro per km; zaterdag gemiddeld +25%, zondag gemiddeld +75%",
+        "bron_url": "https://be.verhuisoffertes.com/regio/verhuisfirma-limburg/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Verhuisbus 20 m3 met 1 verhuizer en 1 bestuurder (weekdag)",
+        "bedrag_of_waarde": "60 euro per uur incl. btw",
+        "bron_url": "https://locationlift.be/verhuislift-genk/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Verhuiswagen 50 m3 met 1 verhuizer en 1 bestuurder / met 2 verhuizers en 1 bestuurder (weekdag)",
+        "bedrag_of_waarde": "70 euro per uur / 100 euro per uur incl. btw; extra verhuizer 30 euro per uur (zaterdag 40)",
+        "bron_url": "https://locationlift.be/verhuislift-genk/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Gepubliceerd tarief verhuisfirma (Roeselare): lichte vrachtwagen 20 m3 met 2 verhuizers",
+        "bedrag_of_waarde": "110 euro per uur excl. btw (128 euro met lift)",
+        "bron_url": "https://verhuizingendeceuninck.be/tarieven/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Gepubliceerd tarief verhuisfirma (Roeselare): vrachtwagen 50 m3 met 2 verhuizers",
+        "bedrag_of_waarde": "120 euro per uur excl. btw (140 euro met lift); extra verhuizer 49 euro per uur; minimum 2 uur, tijd telt vanaf depot per 30 minuten; 1 euro per km buiten de provincie",
+        "bron_url": "https://verhuizingendeceuninck.be/tarieven/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Budgetaanbieder (studentverhuizers.be): verhuizer per uur",
+        "bedrag_of_waarde": "32,50 euro per persoon excl. btw, minimum 3 uur en minimum 2 verhuizers; wagen 95 euro (4 uur) of 125 euro (8 uur); 2 verhuizers met wagen 100 euro per uur; voorrijkosten niet inbegrepen",
+        "bron_url": "https://studentverhuizers.be/tarieven/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Belfius richtprijs professionele verhuizer",
+        "bedrag_of_waarde": "ongeveer 30 euro per uur (btw niet vermeld, pagina ongedateerd)",
+        "bron_url": "https://www.belfius.be/retail/nl/sleutelmomenten/wonen/verhuizen/faq/kosten-verhuis/index.aspx",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Verhuisfirma-gids: kleine / middelgrote / grote verhuis",
+        "bedrag_of_waarde": "500 tot 900 / 700 tot 1.100 / 900 tot 1.300 euro (btw niet vermeld)",
+        "bron_url": "https://www.verhuisfirma-gids.be/meubelopslag/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Prijs per m3 voor een verhuis",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Aparte richtprijzen voor studio, appartement met 2 slaapkamers en rijwoning (bronnen werken met klein/middel/groot of m3-klassen)",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Test-Aankoop of Livios prijsgids voor verhuisfirma's",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      }
+    ],
+    "samenvatting": "Belgische vergelijkers rekenen voor een kleine verhuis ruwweg 500 tot 900 euro, voor een gemiddelde woning 700 tot 1.400 euro en voor een grote woning 1.400 tot 2.400 euro. Een verhuizer kost 30 tot 40 euro per uur, een ploeg van 2 verhuizers met vrachtwagen 100 tot 120 euro per uur exclusief btw bij firma's die hun tarief publiceren. De meeste vergelijkers vermelden niet of hun bedragen inclusief btw zijn. Een prijs per m3 en aparte prijzen per woningtype (studio, 2 slaapkamers, rijwoning) zijn niet gevonden.",
+    "richtprijs_tabel": [
+      {
+        "omschrijving": "Extra verhuizer per uur",
+        "van": 30,
+        "tot": 40,
+        "eenheid": "euro per uur",
+        "btw": "onbekend"
+      },
+      {
+        "omschrijving": "Verhuiswagen 20 m3 met 1 verhuizer",
+        "van": 60,
+        "tot": 70,
+        "eenheid": "euro per uur",
+        "btw": "onbekend"
+      },
+      {
+        "omschrijving": "Verhuiswagen 50 m3 met 1 verhuizer",
+        "van": 70,
+        "tot": 80,
+        "eenheid": "euro per uur",
+        "btw": "onbekend"
+      },
+      {
+        "omschrijving": "Ploeg van 2 verhuizers met vrachtwagen (gepubliceerde firmatarieven)",
+        "van": 100,
+        "tot": 120,
+        "eenheid": "euro per uur",
+        "btw": "excl"
+      },
+      {
+        "omschrijving": "Kleine verhuis (studio, appartement, tot ca. 25 m3) totaal",
+        "van": 500,
+        "tot": 900,
+        "eenheid": "euro",
+        "btw": "onbekend"
+      },
+      {
+        "omschrijving": "Middelgrote verhuis (eengezinswoning, tot ca. 50 m3) totaal",
+        "van": 700,
+        "tot": 1400,
+        "eenheid": "euro",
+        "btw": "onbekend"
+      },
+      {
+        "omschrijving": "Grote verhuis (ruime woning of villa, meer dan 50 m3) totaal",
+        "van": 1400,
+        "tot": 2400,
+        "eenheid": "euro",
+        "btw": "onbekend"
+      }
+    ]
+  },
+  "verhuislift": {
+    "feiten": [
+      {
+        "claim": "Ladderlift met 1 bediener, verdieping 1 tot 6 (pagina's Hasselt en Genk, zelfde tarieven)",
+        "bedrag_of_waarde": "70 euro per uur op weekdag, 90 euro per uur op zaterdag, incl. btw",
+        "bron_url": "https://locationlift.be/verhuislift-hasselt/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Ladderlift met 2 bedieners, verdieping 1 tot 6",
+        "bedrag_of_waarde": "105 euro per uur weekdag, 130 euro zaterdag, incl. btw",
+        "bron_url": "https://locationlift.be/verhuislift-hasselt/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Ladderwagen met 2 bedieners, verdieping 7 en hoger (tot ca. 18e)",
+        "bedrag_of_waarde": "120 euro per uur weekdag, 150 euro zaterdag, incl. btw",
+        "bron_url": "https://locationlift.be/verhuislift-hasselt/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Lift zonder bediener: elektrische lift verdieping 1 tot 3 / standaard verhuislift tot 16 m (5e verdieping)",
+        "bedrag_of_waarde": "100 euro per dag / vanaf 90 euro per dag, incl. btw",
+        "bron_url": "https://locationlift.be/verhuislift-genk/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "locationlift.be is een landelijke aanvraagsite met stadspagina's; geen bewezen Limburgse vestiging; minimumafname, verplaatsingskost en max gewicht staan er niet",
+        "bedrag_of_waarde": null,
+        "bron_url": "https://locationlift.be/verhuislift-hasselt/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Ladderlift met 1 bediener / ladderwagen met 2 bedieners",
+        "bedrag_of_waarde": "50 tot 90 euro per uur / 150 tot 200 euro per uur (btw niet vermeld)",
+        "bron_url": "https://www.bobex.be/nl-be/verhuisfirmas/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Ladderlift met 1 bediener (1 tot 6 verdiepingen) / met 2 bedieners / ladderwagen met 2 bedieners (7 tot 14 verdiepingen)",
+        "bedrag_of_waarde": "50 tot 90 / 90 tot 130 / 150 tot 200 euro per uur incl. btw; weekend +20%; artikel laatst gewijzigd 18-12-2023",
+        "bron_url": "https://vandaagwonen.be/prijs-verhuislift-huren/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Elektrische verhuislift zonder bediener (1 tot 3 verdiepingen)",
+        "bedrag_of_waarde": "90 tot 150 euro per dag incl. btw; waarborg 250 tot 750 euro; 2 personen nodig",
+        "bron_url": "https://vandaagwonen.be/prijs-verhuislift-huren/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Halve dag (ca. 4 uur) met operator, 1e tot 4e verdieping",
+        "bedrag_of_waarde": "vanaf 59 euro excl. btw (71,39 incl.); 5e tot 8e verdieping vanaf 79 euro excl. btw; hoger op aanvraag; weekend en feestdag +25%; altijd met operator",
+        "bron_url": "https://www.verhuiskampioen.be/verhuislift-huren/prijs/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Maximaal gewicht per rit volgens verhuiskampioen.be",
+        "bedrag_of_waarde": "300 kg; bereik tot 8e verdieping (compact) of 22e (vrachtwagenlift)",
+        "bron_url": "https://www.verhuiskampioen.be/verhuislift-huren/prijs/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Halve dag met bediening, verdieping 1 tot 4",
+        "bedrag_of_waarde": "vanaf ca. 70 euro incl. btw; weekend ca. +25%",
+        "bron_url": "https://callmepower.be/nl/verhuizen/materiaal/verhuislift",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Verhuisfirma Brussel (Jespers): lift met operator tot 5e verdieping",
+        "bedrag_of_waarde": "100 euro eerste uur, daarna 40 euro per half uur, excl. btw; vanaf 6e verdieping 105 euro en 45 euro per half uur; minimum 1 uur; verplaatsing 1 euro per km; tot 9e verdieping (paginatitel vermeldt 95 en 35 euro, tegenstrijdig)",
+        "bron_url": "https://verhuizingenjespers.com/verhuislift-huren-brussel/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "studentverhuizers.be: verhuislift met operator",
+        "bedrag_of_waarde": "59 euro per uur excl. btw, minimum 2 uur; objectservice 79 euro per 30 minuten (max 3 objecten); max 350 kg; tot 8e of 10e verdieping; voorrijkosten apart",
+        "bron_url": "https://studentverhuizers.be/verhuislift-huren/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Verhuisfirma Roeselare: liftservice alleen lift",
+        "bedrag_of_waarde": "startprijs 90 euro, daarna 28,92 euro per extra half uur, excl. btw; tot 8e verdieping",
+        "bron_url": "https://verhuizingendeceuninck.be/tarieven/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Boels ladderlift 18 m (verhuur zonder bediener)",
+        "bedrag_of_waarde": "hefvermogen 250 kg; prijs op aanvraag, prijzen excl. 21% btw, transportkost bij levering",
+        "bron_url": "https://www.boels.com/nl-be/huren/ladderlift-18-m/p/11801",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Boels demonteerbare ladderlift 13 m",
+        "bedrag_of_waarde": "hefvermogen 150 kg, opstelhoogte max 13 m; prijs niet gepubliceerd",
+        "bron_url": "https://www.boels.com/en-be/hire/detachable-ladder-lift-13-m/p/11805",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "WTS Verhuizingen & Liftservice (Genk) biedt verhuislift in Limburg aan; tarieven enkel via online calculator",
+        "bedrag_of_waarde": null,
+        "bron_url": "https://wts-group.be/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Gepubliceerde vaste tarieven van een verhuisliftbedrijf met vestiging in Belgisch Limburg",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      }
+    ],
+    "samenvatting": "Een ladderlift met bediener kost in Belgie doorgaans 50 tot 90 euro per uur, bij firma's die exclusief btw factureren 59 tot 100 euro voor het eerste uur. Een lift zonder bediener huur je vanaf ongeveer 90 tot 150 euro per dag. Minimumafname is 1 tot 2 uur en verplaatsing wordt vaak aan ongeveer 1 euro per km of als voorrijkost aangerekend. Het draagvermogen ligt tussen 150 en 350 kg naargelang het type; vaste tarieven van een echt Limburgse aanbieder zijn niet gevonden.",
+    "richtprijs_tabel": [
+      {
+        "omschrijving": "Ladderlift met 1 bediener",
+        "van": 50,
+        "tot": 90,
+        "eenheid": "euro per uur",
+        "btw": "onbekend"
+      },
+      {
+        "omschrijving": "Ladderlift met 1 bediener bij firma's met gepubliceerd tarief (eerste uur)",
+        "van": 59,
+        "tot": 100,
+        "eenheid": "euro per uur",
+        "btw": "excl"
+      },
+      {
+        "omschrijving": "Ladderlift met 2 bedieners",
+        "van": 90,
+        "tot": 130,
+        "eenheid": "euro per uur",
+        "btw": "incl"
+      },
+      {
+        "omschrijving": "Ladderwagen met 2 bedieners (hoge verdiepingen)",
+        "van": 120,
+        "tot": 200,
+        "eenheid": "euro per uur",
+        "btw": "onbekend"
+      },
+      {
+        "omschrijving": "Verhuislift zonder bediener",
+        "van": 90,
+        "tot": 150,
+        "eenheid": "euro per dag",
+        "btw": "incl"
+      },
+      {
+        "omschrijving": "Minimumafname",
+        "van": 1,
+        "tot": 2,
+        "eenheid": "uur",
+        "btw": "onbekend"
+      },
+      {
+        "omschrijving": "Draagvermogen ladderlift",
+        "van": 150,
+        "tot": 350,
+        "eenheid": "kg",
+        "btw": "onbekend"
+      }
+    ]
+  },
+  "verhuiswagen": {
+    "feiten": [
+      {
+        "claim": "Dagprijs kleine bestelwagen 3 tot 7 m3",
+        "bedrag_of_waarde": "ca. 40 tot 80 euro per dag incl. btw",
+        "bron_url": "https://callmepower.be/nl/verhuizen/materiaal/verhuiswagen",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Dagprijs bestelwagen 12 m3 / 20 m3 / 30 m3 en meer",
+        "bedrag_of_waarde": "ca. 60 tot 120 / 80 tot 150 / 120 tot 200 euro per dag incl. btw; laadklep ca. 20 tot 50 euro per dag extra",
+        "bron_url": "https://callmepower.be/nl/verhuizen/materiaal/verhuiswagen",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Kilometers",
+        "bedrag_of_waarde": "vaak 100 tot 200 km per dag inbegrepen, daarna 0,20 tot 0,35 euro per km",
+        "bron_url": "https://callmepower.be/nl/verhuizen/materiaal/verhuiswagen",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Rijbewijs",
+        "bedrag_of_waarde": "Rijbewijs B volstaat tot 3,5 ton maximaal toegelaten massa (MTM); daarboven rijbewijs C of C1",
+        "bron_url": "https://callmepower.be/nl/verhuizen/materiaal/verhuiswagen",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Dagprijzen per type",
+        "bedrag_of_waarde": "3 tot 5 m3: 40 tot 70 euro; 8 tot 12 m3: 60 tot 100 euro; 15 tot 20 m3: 80 tot 140 euro; 20 tot 35 m3 met laadklep: 120 tot 200 euro (btw niet vermeld); 100 tot 150 km inbegrepen, extra km 0,20 tot 0,35 euro",
+        "bron_url": "https://www.verhuiskampioen.be/verhuiswagen-huren/kosten/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Startprijzen huurwagen volgens Bobex",
+        "bedrag_of_waarde": "6 m3: 35 tot 55 euro per dag; 15 m3: 70 tot 110 euro; 20 m3: 110 tot 150 euro; 25 m3 met laadklep: 110 tot 160 euro (btw niet vermeld)",
+        "bron_url": "https://www.bobex.be/nl-be/verhuisfirmas/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Concreet tarief verhuurder (DEWA-rent, Oost- en West-Vlaanderen): grote bestelwagen 20 m3 met laadklep",
+        "bedrag_of_waarde": "137 euro per dag incl. btw met 100 km; extra km 0,31 euro; 2 dagen 260 euro; rijbewijs B, minimumleeftijd 23 jaar, laadvermogen 750 kg",
+        "bron_url": "https://dewa-rent.be/te-huur/verhuiswagens-trucks/camion-met-laadklep",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Halve-dagtarief verhuiswagen (zelf rijden)",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Concreet tarief van een verhuurder in Belgisch Limburg",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      }
+    ],
+    "samenvatting": "Een bestelwagen huren kost ongeveer 40 tot 80 euro per dag voor een klein model en 80 tot 150 euro per dag voor 20 m3. Meestal zijn 100 tot 200 km inbegrepen en betaal je daarna 0,20 tot 0,35 euro per km. Met rijbewijs B mag je rijden tot 3,5 ton maximaal toegelaten massa. Halve-dagtarieven en een concreet tarief van een Limburgse verhuurder zijn niet gevonden.",
+    "richtprijs_tabel": [
+      {
+        "omschrijving": "Kleine bestelwagen 3 tot 7 m3",
+        "van": 40,
+        "tot": 80,
+        "eenheid": "euro per dag",
+        "btw": "incl"
+      },
+      {
+        "omschrijving": "Bestelwagen ca. 12 m3",
+        "van": 60,
+        "tot": 120,
+        "eenheid": "euro per dag",
+        "btw": "incl"
+      },
+      {
+        "omschrijving": "Grote bestelwagen ca. 20 m3",
+        "van": 80,
+        "tot": 150,
+        "eenheid": "euro per dag",
+        "btw": "incl"
+      },
+      {
+        "omschrijving": "Extra kilometer boven het inbegrepen aantal",
+        "van": 0.2,
+        "tot": 0.35,
+        "eenheid": "euro per km",
+        "btw": "onbekend"
+      }
+    ]
+  },
+  "opslag": {
+    "feiten": [
+      {
+        "claim": "Self Storage Box (Genk, Maasmechelen, Lanklaar, Lanaken): prijzen per maand",
+        "bedrag_of_waarde": "1 m2 26 euro; 2 m2 48; 3 m2 54; 4 m2 72; 5 m2 84; 6 m2 99; 8 m2 129; 10 m2 159; 12 m2 179; 15 m2 215; 20 m2 265; 30 m2 363; alles incl. btw; waarborg 1 maand huur; minimum 1 maand",
+        "bron_url": "https://www.selfstoragebox.be/prijzen",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Shurgard Belgie startprijzen per maand",
+        "bedrag_of_waarde": "kleiner dan 4 m2 vanaf 15 euro; 4 tot 7 m2 vanaf 64; 7 tot 10 m2 vanaf 74; 10 tot 13 m2 vanaf 121; groter dan 13 m2 vanaf 132 (btw niet vermeld, verschilt per vestiging); verzekering vanaf 16 euro per maand; eenmalige administratiekost 20 euro; slot 14,90 euro",
+        "bron_url": "https://www.shurgard.com/nl-be/over-opslagruimte-huren/waarom-shurgard/opslagprijzen",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "T-Box Self Storage Oudenaarde (via The Storage Scanner)",
+        "bedrag_of_waarde": "ca. 2 m2 45,41 euro; 3 m2 56,23; 5,08 m2 88,01; 6 m2 102,67; 8 m2 146,71; 20 m2 289,87 per maand (btw niet vermeld)",
+        "bron_url": "https://thestoragescanner.com/nl-BE/opslagaanbieders/212-t-box-self-storage",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Meubelbewaring per maand volgens Bobex",
+        "bedrag_of_waarde": "10 m3 60 tot 80 euro; 15 m3 80 tot 100; 20 m3 110 tot 130; 30 m3 170 tot 200; 50 m3 240 tot 300 (btw niet vermeld)",
+        "bron_url": "https://www.bobex.be/nl-be/verhuisfirmas/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Meubelbewaring volgens locationlift.be",
+        "bedrag_of_waarde": "10 m3 75 euro per maand; 50 m3 310 euro per maand; self storage vanaf 5 euro per m3 (incl. btw volgens pagina)",
+        "bron_url": "https://locationlift.be/verhuislift-genk/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Verhuisfirma Roeselare: houten kist van 10 m3",
+        "bedrag_of_waarde": "40 euro per box per maand (excl. btw)",
+        "bron_url": "https://verhuizingendeceuninck.be/tarieven/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Tijdelijke opslag kleine box",
+        "bedrag_of_waarde": "vanaf ca. 80 euro per maand",
+        "bron_url": "https://callmepower.be/nl/verhuizen/verhuisfirma",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      }
+    ],
+    "samenvatting": "Self storage kost in Belgie ruwweg 13 tot 17 euro per m2 per maand voor boxen van 5 tot 20 m2; kleine boxen zijn per m2 duurder. In Limburg rekent Self Storage Box 84 euro voor 5 m2 en 159 euro voor 10 m2 per maand inclusief btw. Meubelbewaring bij een verhuisfirma wordt per m3 geprijsd, ongeveer 40 tot 80 euro per maand voor 10 m3. Reken daarbovenop met waarborg, verzekering en eventuele administratiekost.",
+    "richtprijs_tabel": [
+      {
+        "omschrijving": "Self storage box van 5 tot 20 m2",
+        "van": 13,
+        "tot": 17,
+        "eenheid": "euro per m2 per maand",
+        "btw": "onbekend"
+      },
+      {
+        "omschrijving": "Box ca. 5 m2",
+        "van": 84,
+        "tot": 88,
+        "eenheid": "euro per maand",
+        "btw": "onbekend"
+      },
+      {
+        "omschrijving": "Box ca. 20 m2",
+        "van": 265,
+        "tot": 290,
+        "eenheid": "euro per maand",
+        "btw": "onbekend"
+      },
+      {
+        "omschrijving": "Meubelbewaring 10 m3 bij verhuisfirma",
+        "van": 40,
+        "tot": 80,
+        "eenheid": "euro per maand",
+        "btw": "onbekend"
+      }
+    ]
+  },
+  "piano": {
+    "feiten": [
+      {
+        "claim": "Akoestische piano, gelijkvloers naar gelijkvloers",
+        "bedrag_of_waarde": "200 tot 400 euro (btw niet vermeld)",
+        "bron_url": "https://www.verhuiskampioen.be/verhuizingen/piano-verhuizing/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Akoestische piano met trap of lift",
+        "bedrag_of_waarde": "350 tot 700 euro (btw niet vermeld)",
+        "bron_url": "https://www.verhuiskampioen.be/verhuizingen/piano-verhuizing/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Vleugel gelijkvloers / met trap of kraan",
+        "bedrag_of_waarde": "400 tot 800 euro / 700 tot 1.500 euro (btw niet vermeld)",
+        "bron_url": "https://www.verhuiskampioen.be/verhuizingen/piano-verhuizing/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Digitale piano / stemming na verhuis / toeslag kraan of ladderlift",
+        "bedrag_of_waarde": "100 tot 200 euro / 80 tot 150 euro / 300 tot 600 euro extra",
+        "bron_url": "https://www.verhuiskampioen.be/verhuizingen/piano-verhuizing/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Gemiddelde totaalprijs pianoverhuizing",
+        "bedrag_of_waarde": "vanaf 250 euro; wagen met bestuurder 65 euro per uur; verhuizer 30 tot 40 euro per uur; lift 65 tot 85 euro per uur (btw niet vermeld, pagina gewijzigd 23-09-2025)",
+        "bron_url": "https://www.verhuisfirma-gids.be/piano-verhuizen/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Limburgse pianozaak Piano's Driesen doet pianoverhuis op maat; geen prijzen gepubliceerd",
+        "bedrag_of_waarde": null,
+        "bron_url": "https://www.pianosdriesen.be/piano-verhuizen",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Piano's Noton: transport op offerte, geen prijzen gepubliceerd",
+        "bedrag_of_waarde": null,
+        "bron_url": "https://www.pianosnoton.be/diensten/pianotransport/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      }
+    ],
+    "samenvatting": "Een gewone piano verhuizen op het gelijkvloers kost ongeveer 200 tot 400 euro. Met trappen of een lift loopt dat op tot 350 tot 700 euro en voor een vleugel tot 1.500 euro. Die hogere bedragen steunen op een enkele bron en gespecialiseerde pianoverhuizers publiceren zelf geen tarieven.",
+    "richtprijs_tabel": [
+      {
+        "omschrijving": "Akoestische (buffet)piano, gelijkvloers naar gelijkvloers",
+        "van": 200,
+        "tot": 400,
+        "eenheid": "euro",
+        "btw": "onbekend"
+      }
+    ]
+  },
+  "btw": {
+    "feiten": [
+      {
+        "claim": "Normaal btw-tarief in Belgie voor goederen en diensten",
+        "bedrag_of_waarde": "21% (sinds 1996)",
+        "bron_url": "https://www.wolterskluwer.com/nl-be/expert-insights/vat-tarifs",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Standaard btw-tarief 21%; verhuisdiensten staan niet bij de verlaagde tarieven van 6% of 12% (personenvervoer wel 6%)",
+        "bedrag_of_waarde": "21%",
+        "bron_url": "https://www.accountable.eu/nl-be/blog/btw-tarieven-belgie/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Verhuisfirma's rekenen in de praktijk 21% btw bovenop hun tarief excl. btw",
+        "bedrag_of_waarde": "21% (prijssimulator Deceuninck; verhuiskampioen vermeldt 'excl. 21% btw')",
+        "bron_url": "https://verhuizingendeceuninck.be/tarieven/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Officiele pagina FOD Financien die verhuisdiensten uitdrukkelijk bij 21% noemt",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      }
+    ],
+    "samenvatting": "Op verhuisdiensten voor particulieren geldt het normale btw-tarief van 21%. Verhuizen staat niet in de lijsten met verlaagde tarieven en verhuisfirma's rekenen in hun prijslijsten zelf 21%. Een officiele pagina van FOD Financien die verhuisdiensten letterlijk noemt kon niet geopend worden.",
+    "richtprijs_tabel": null
+  },
+  "erkenning": {
+    "feiten": [
+      {
+        "claim": "De Belgische Kamer der Verhuizers (BKV, Frans CBD) is de beroepsfederatie die de Belgische verhuissector vertegenwoordigt",
+        "bedrag_of_waarde": "sinds 1902; kwaliteitsnormen sinds 1930; adres Stroobantsstraat 48A, 1140 Evere",
+        "bron_url": "https://erkendeverhuizers.be/over-ons/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "'BKV Erkend Verhuizer' is het kwaliteitslabel van de BKV",
+        "bedrag_of_waarde": "Alleen bedrijven die wettelijk en juridisch in orde zijn en aan strenge kwaliteitseisen voldoen mogen het dragen; leden onderschrijven een kwaliteitscharter; zoekfunctie op erkendeverhuizers.be/vind-je-verhuizer/",
+        "bron_url": "https://erkendeverhuizers.be/over-ons/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Erkende verhuizers werken volgens het Kwaliteitshandboek Verhuis en Meubelbewaring van de BKV",
+        "bedrag_of_waarde": "PDF: https://erkendeverhuizers.be/wp-content/uploads/2024/02/Kwaliteitshandboek-Verhuis-en-Meubelbewaring-versie-201913.pdf (inhoud niet gelezen)",
+        "bron_url": "https://erkendeverhuizers.be/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Controleer of de verhuizer een vervoersvergunning heeft en of de nummerplaten in het register van wegvervoerders staan",
+        "bedrag_of_waarde": "van belang zodra de goederen meer dan 500 kg wegen",
+        "bron_url": "https://bkv-cbd.be/verhuizen/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Erkend personeel herken je aan de verhuizerskaart (P-kaart) van het Sociaal Fonds Verhuizingen",
+        "bedrag_of_waarde": null,
+        "bron_url": "https://bkv-cbd.be/verhuizen/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Aansprakelijkheid van de verhuizer volgens de sectorvoorwaarden",
+        "bedrag_of_waarde": "doorgaans begrensd tot 125 euro per m3",
+        "bron_url": "https://bkv-cbd.be/verhuizen/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "BKV nationale verhuisvoorwaarden art. 12.3",
+        "bedrag_of_waarde": "aansprakelijkheid beperkt tot 125 euro per kubieke meter verloren of beschadigde voorwerpen; geen beperking bij opzet of grove schuld",
+        "bron_url": "https://www.coppensverhuizingen.be/wp-content/uploads/2020/12/Algemene-Voorwaarden-Verhuizing.pdf",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "BKV nationale verhuisvoorwaarden art. 16: verzekering 'Alle Risico's' is een aanrader, geen verplichting",
+        "bedrag_of_waarde": "af te sluiten via Verzekerjeverhuis (makelaar erkend door BKV, i.s.m. Concordia), via de polis van de verhuizer of via eigen verzekeraar; zonder verzekering enkel vergoeding volgens art. 12.3",
+        "bron_url": "https://www.coppensverhuizingen.be/wp-content/uploads/2020/12/Algemene-Voorwaarden-Verhuizing.pdf",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Schade melden (art. 12.1)",
+        "bedrag_of_waarde": "zichtbare schade onmiddellijk bij aflevering; niet-zichtbare schade per e-mail of aangetekend binnen 2 werkdagen na levering",
+        "bron_url": "https://www.coppensverhuizingen.be/wp-content/uploads/2020/12/Algemene-Voorwaarden-Verhuizing.pdf",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Annuleringsvergoeding (art. 5)",
+        "bedrag_of_waarde": "10% bij meer dan 1 week vooraf, 25% bij minder dan 7 dagen, 50% bij minder dan 3 dagen, 100% bij minder dan 24 uur",
+        "bron_url": "https://www.coppensverhuizingen.be/wp-content/uploads/2020/12/Algemene-Voorwaarden-Verhuizing.pdf",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Een franchise combineren met een aansprakelijkheidsbeperking voor verhuisschade is volgens BKV onwettig; er zouden 10 keer meer bedrijven zich als verhuizer uitgeven dan er geregistreerd zijn",
+        "bedrag_of_waarde": null,
+        "bron_url": "https://bkv-cbd.be/verhuizen/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Wettelijk verplichte 'alle risico's'-verzekering voor verhuizers",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Toepassing van CMR op binnenlandse verhuizingen (geen bron gevonden; BKV-pagina noemt CMR niet)",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Aantal BKV-leden",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      }
+    ],
+    "samenvatting": "De Belgische Kamer der Verhuizers is de beroepsfederatie van de sector en kent het label BKV Erkend Verhuizer toe aan firma's die wettelijk in orde zijn en haar kwaliteitscharter volgen. Volgens de BKV-voorwaarden is de aansprakelijkheid van de verhuizer beperkt tot 125 euro per m3, tenzij je een verzekering alle risico's afsluit. Die verzekering is aangeraden maar niet verplicht. Een bron voor een wettelijk verplichte verzekering of voor CMR bij binnenlandse verhuizen is niet gevonden.",
+    "richtprijs_tabel": null
+  },
+  "adreswijziging": {
+    "feiten": [
+      {
+        "claim": "Termijn aangifte adreswijziging",
+        "bedrag_of_waarde": "binnen 8 werkdagen na de verhuis bij de dienst Burgerzaken van de nieuwe gemeente; ook bij verhuis binnen dezelfde gemeente",
+        "bron_url": "https://www.vlaanderen.be/aangifte-van-adreswijziging",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Termijn volgens federaal portaal",
+        "bedrag_of_waarde": "acht werkdagen om het nieuwe adres te melden bij de dienst bevolking; te late melding kan een gemeentelijke boete opleveren",
+        "bron_url": "https://www.belgium.be/nl/huisvesting/verhuizen/adreswijziging",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Hoe melden",
+        "bedrag_of_waarde": "online via het digitale loket van de (nieuwe) gemeente of aan het loket Burgerzaken; een meerderjarig gezinslid kan voor het hele gezin aangeven",
+        "bron_url": "https://www.vlaanderen.be/aangifte-van-adreswijziging",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Controle",
+        "bedrag_of_waarde": "een wijkagent of bevoegde ambtenaar controleert of je werkelijk op het adres je hoofdverblijfplaats hebt; daarna word je ingeschreven",
+        "bron_url": "https://www.vlaanderen.be/aangifte-van-adreswijziging",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "eID",
+        "bedrag_of_waarde": "na de vaststelling word je uitgenodigd om de chip van je identiteitskaart te laten aanpassen; eID met pincode meebrengen",
+        "bron_url": "https://www.vlaanderen.be/aangifte-van-adreswijziging",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Inschrijvingsbewijs voertuig",
+        "bedrag_of_waarde": "adreswijziging moet er niet langer op aangebracht worden",
+        "bron_url": "https://www.vlaanderen.be/aangifte-van-adreswijziging",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Automatisch verwittigd / zelf verwittigen",
+        "bedrag_of_waarde": "automatisch: sociale zekerheid, ziekenfonds, OCMW, Kind en Gezin, VDAB; zelf: werkgever, nutsbedrijven, telecom, bank, verzekeraar",
+        "bron_url": "https://www.belgium.be/nl/huisvesting/verhuizen/adreswijziging",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Kostprijs van de adreswijziging",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      }
+    ],
+    "samenvatting": "Je moet je adreswijziging binnen 8 werkdagen na de verhuis melden bij de nieuwe gemeente, online of aan het loket. Daarna komt de wijkagent controleren of je er echt woont en laat je de chip van je eID aanpassen met je pincode. Overheidsdiensten worden automatisch ingelicht, je werkgever, bank, verzekeraar en nutsbedrijven niet.",
+    "richtprijs_tabel": null
+  },
+  "verhuisverlof": {
+    "feiten": [
+      {
+        "claim": "Wettelijke lijst klein verlet (omstandigheidsverlof)",
+        "bedrag_of_waarde": "huwelijk, priesterwijding, geboorte, overlijden, plechtige communie, feest vrijzinnige jeugd, jury of getuige, bijzitter enz.; verhuizen staat er niet in",
+        "bron_url": "https://www.securex.be/nl/lex4you/werkgever/themas/vakantie-afwezigheid/tijd-voor-de-werknemer/wat-is-klein-verlet",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Sectoren kunnen gunstigere voorwaarden of extra redenen voorzien",
+        "bedrag_of_waarde": "na te vragen bij vakbond of personeelsdienst; volledige lijst staat bij FOD WASO",
+        "bron_url": "https://www.vlaanderen.be/werken/verlof-en-tijdelijk-minder-werken/omstandigheidsverlof-klein-verlet",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Een verhuis geeft in Belgie geen wettelijk recht op klein verlet; een verhuisdag hangt af van cao, arbeidsreglement of werkgever",
+        "bedrag_of_waarde": "geen wettelijk aantal dagen",
+        "bron_url": "https://callmepower.be/nl/verhuizen/proces/klein-verlet",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "TEGENSTRIJDIGE BRON: verhuiskampioen.be beweert een wettelijk recht op 1 dag betaald verlof bij verhuis (KB 28 augustus 1963) en 4 dagen voor federale ambtenaren",
+        "bedrag_of_waarde": "niet bevestigd door Securex of Vlaanderen.be; niet overnemen zonder controle",
+        "bron_url": "https://www.verhuiskampioen.be/verhuizen/verlof/",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Officiele lijst FOD WASO rechtstreeks geraadpleegd",
+        "bedrag_of_waarde": null,
+        "bron_url": "https://werk.belgie.be/nl/themas/feestdagen-en-verloven/klein-verlet",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Concrete paritaire comites met verhuisdag en aantal dagen",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      }
+    ],
+    "samenvatting": "Er bestaat in Belgie geen algemeen wettelijk recht op verlof voor een verhuis: verhuizen staat niet in de wettelijke lijst van klein verlet. Sommige sectoren, cao's of arbeidsreglementen geven wel een verhuisdag, dus kijk je arbeidsreglement na of vraag het aan HR of je vakbond. Een commerciele bron die 1 wettelijke dag claimt wordt tegengesproken door Securex en is niet betrouwbaar. Welke paritaire comites precies een verhuisdag toekennen is niet geverifieerd.",
+    "richtprijs_tabel": null
+  },
+  "parkeerverbod": {
+    "feiten": [
+      {
+        "claim": "Hasselt: aanvraag inname openbaar domein",
+        "bedrag_of_waarde": "online via Spotbooking (hasselt.spotbooking.be) of op afspraak bij de Verkeerswinkel; geen Eaglebe",
+        "bron_url": "https://www.hasselt.be/nl/inname-openbaar-domein",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Hasselt: termijnen",
+        "bedrag_of_waarde": "parkeerplaats reserveren ten laatste 5 werkdagen vooraf; hinder op stoep, fietspad of rijbaan ten laatste 10 werkdagen vooraf; borden minstens 24 uur vooraf (binnenstad en kleine ring) of 48 uur (elders); buren 7 dagen vooraf verwittigen",
+        "bron_url": "https://www.hasselt.be/nl/inname-openbaar-domein",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Hasselt: kostprijs",
+        "bedrag_of_waarde": "2,50 euro per m2 per dag binnen en op de kleine ring; 1 euro tussen kleine en grote ring; 0,50 euro buiten de grote ring; plaatsen parkeerverbodsborden of nadarhekken door de stad 25 euro",
+        "bron_url": "https://www.hasselt.be/nl/inname-openbaar-domein",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Genk: aanvraag voor verhuis, levering of kleine werken",
+        "bedrag_of_waarde": "online formulier, verwerking via EagleBe; minimum 10 werkdagen vooraf",
+        "bron_url": "https://www.genk.be/verhuizen-leveringen-of-kleine-werken",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Genk: kostprijs",
+        "bedrag_of_waarde": "eerste dag gratis; dag 2 tot 14: 10 euro per dag; vanaf dag 15: 25 euro per dag; parkeerverbodsborden laten plaatsen: eenmalig forfait 50 euro",
+        "bron_url": "https://www.genk.be/verhuizen-leveringen-of-kleine-werken",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Limburgse besturen in de referentielijst van Eaglebe (brochure 2026)",
+        "bedrag_of_waarde": "Genk, Tongeren-Borgloon, Lommel, Bilzen, Heers, Lummen, Maasmechelen, Riemst",
+        "bron_url": "https://eaglebe.com/wp-content/uploads/2026/06/EaglebespringNL.pdf",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Eaglebe module Inname Openbaar Domein",
+        "bedrag_of_waarde": "ondersteunt verhuisaanvragen en containerplaatsingen; aanvrager kan opvolgen, verlengen en betalen",
+        "bron_url": "https://eaglebe.com/wp-content/uploads/2026/06/EaglebespringNL.pdf",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Algemene Vlaamse regel of pagina op vlaanderen.be over tijdelijk parkeerverbod bij verhuis (is gemeentelijke bevoegdheid, termijn en prijs verschillen per gemeente)",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Werkwijze in andere Limburgse gemeenten (Sint-Truiden, Maaseik, Beringen, Kinrooi enz.)",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      }
+    ],
+    "samenvatting": "Een tijdelijk parkeerverbod voor een verhuis vraag je aan bij de gemeente waar de wagen of lift komt te staan; termijn en prijs verschillen per gemeente. Hasselt werkt met Spotbooking en vraagt minstens 5 werkdagen, Genk werkt met EagleBe en vraagt minstens 10 werkdagen. Ook Tongeren-Borgloon, Lommel, Bilzen, Heers, Lummen, Maasmechelen en Riemst staan in de klantenlijst van Eaglebe. Borden moeten 24 tot 48 uur vooraf staan en kosten in Hasselt 25 euro en in Genk 50 euro als de stad ze plaatst.",
+    "richtprijs_tabel": [
+      {
+        "omschrijving": "Plaatsen parkeerverbodsborden door de stad (Hasselt 25, Genk 50)",
+        "van": 25,
+        "tot": 50,
+        "eenheid": "euro forfait",
+        "btw": "onbekend"
+      },
+      {
+        "omschrijving": "Aanvraagtermijn voor een verhuis (Hasselt 5, Genk 10)",
+        "van": 5,
+        "tot": 10,
+        "eenheid": "werkdagen vooraf",
+        "btw": "onbekend"
+      }
+    ]
+  },
+  "nutsvoorzieningen": {
+    "feiten": [
+      {
+        "claim": "Energiecontract verhuist mee; leverancier zo snel mogelijk verwittigen, telefonisch volstaat nooit",
+        "bedrag_of_waarde": "oude leverancier binnen 30 dagen na verhuis contacteren; verhuis uiterlijk 7 kalenderdagen na de verhuisdatum melden om facturen voor het oude adres te vermijden",
+        "bron_url": "https://www.vlaanderen.be/energiecontracten-en-verhuis",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Energieovernamedocument legt de meterstanden vast; ook invullen met digitale meter",
+        "bedrag_of_waarde": "4 exemplaren per verhuis (2 voor oud adres, 2 voor nieuw adres), ondertekend door beide partijen; elk bezorgt de gegevens aan zijn eigen leverancier",
+        "bron_url": "https://www.vlaanderen.be/energiecontracten-en-verhuis",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Officieel energieovernamedocument (Vlaamse Nutsregulator, vroeger VREG)",
+        "bedrag_of_waarde": "https://assets.vlaamsenutsregulator.be/2025-12/energieovernamedocument_1.pdf (versie voor zonnepanelen: https://assets.vlaamsenutsregulator.be/2025-12/energieovernamedocument_hernieuwbare_energie_1.pdf)",
+        "bron_url": "https://www.vlaanderen.be/energiecontracten-en-verhuis",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Als de andere partij niet wil tekenen",
+        "bedrag_of_waarde": "gedateerde foto van de meterstanden nemen, document zelf invullen en met de foto aan de leverancier bezorgen",
+        "bron_url": "https://www.vlaanderen.be/energiecontracten-en-verhuis",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "De Watergroep: overname melden",
+        "bedrag_of_waarde": "digitaal (smartphone, met directe bevestiging) of via het overnamedocument; eigen waterwinning enkel via document",
+        "bron_url": "https://www.dewatergroep.be/nl-be/drinkwater/wat-te-doen-bij/verhuizen/ik-verhuis",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "De Watergroep overnameformulier",
+        "bedrag_of_waarde": "meternummer, meterstand, datum van opname en handtekening van vertrekker en overnemer; opladen via dewatergroep.be/opladenovername; geen termijn vermeld",
+        "bron_url": "https://www.dewatergroep.be/-/media/de-watergroep/drinkwater/wat-te-doen-bij/overnamedocumenten-2024/overnameformulier-nl.pdf",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "De Watergroep als watermaatschappij voor (het grootste deel van) Limburg: niet op een bronpagina bevestigd",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Internet en tv: verhuis 2 tot 4 weken vooraf melden",
+        "bedrag_of_waarde": "Proximus minstens 5 weken; Orange minstens 3 weken (6 bij nieuwe aansluiting); Telenet 8 dagen tot 8 weken; Easy Switch om tijdens de verhuis van operator te wisselen (Easy Switch-ID staat op de factuur)",
+        "bron_url": "https://selectra.be/nl/verhuizen/telecom",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "middel"
+      },
+      {
+        "claim": "Pagina's van de Vlaamse Nutsregulator zelf (FAQ energieovernamedocument) konden niet geopend worden",
+        "bedrag_of_waarde": null,
+        "bron_url": "https://www.vlaamsenutsregulator.be/nl/veelgestelde-vragen/wat-het-energieovernamedocument",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      }
+    ],
+    "samenvatting": "Bij een verhuis vul je samen met de vorige of volgende bewoner het officiele energieovernamedocument in met de meterstanden, ook als je een digitale meter hebt. Meld de verhuis uiterlijk 7 kalenderdagen na de verhuisdatum aan je energieleverancier. Voor water regel je de overname bij De Watergroep digitaal of met het overnameformulier, getekend door beide partijen. Internet en tv meld je best 2 tot 5 weken vooraf aan je operator.",
+    "richtprijs_tabel": null
+  },
+  "limburgnet": {
+    "feiten": [
+      {
+        "claim": "Grofvuil ophaling aan huis op afroep: aanvragen",
+        "bedrag_of_waarde": "online via het mijn Limburg.net-account: afvalsoort grofvuil kiezen, datum kiezen en online betalen",
+        "bron_url": "https://limburg.net/grofvuil-ophaling-aan-huis",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Prijs ophaling grofvuil aan huis",
+        "bedrag_of_waarde": "tot 2 m3: 30 euro; tussen 2 m3 en 4 m3: 60 euro; maximum 4 m3 per ophaling",
+        "bron_url": "https://limburg.net/grofvuil-ophaling-aan-huis",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Voorwaarden grofvuil aan huis",
+        "bedrag_of_waarde": "per stuk of bundel max 70 kg, max 2 m lang en 1 m breed; geen volle zakken of dozen; buitenzetten na zonsondergang de avond voordien of voor 06.00 uur; verschuiven kan tot 5 dagen vooraf",
+        "bron_url": "https://limburg.net/grofvuil-ophaling-aan-huis",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Grofvuil naar een Limburg.net-recyclagepark",
+        "bedrag_of_waarde": "0,25 euro per kg; enkel grote losse stukken; in gemeentelijke parken tarief navragen bij de gemeente",
+        "bron_url": "https://limburg.net/grofvuil-recyclagepark",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Tarieven recyclagepark andere fracties",
+        "bedrag_of_waarde": "recycleerbaar afval gratis en onbeperkt; hout 0,11 euro per kg; gemengd bouwpuin 0,08 euro per kg; tuinafval gratis tot 400 kg per gezin per jaar, daarna 0,05 euro per kg; zuiver bouwpuin gratis tot 1.000 kg, daarna 0,025 euro per kg",
+        "bron_url": "https://limburg.net/recyclageparken/tarieven",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Betalen op het recyclagepark",
+        "bedrag_of_waarde": "Bancontact aan de betaalzuil, voorschot of overschrijving (afhankelijk van de gemeente)",
+        "bron_url": "https://limburg.net/recyclageparken/tarieven",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "hoog"
+      },
+      {
+        "claim": "Telefonisch aanvragen van grofvuil (0800 90 720 is het algemene nummer van Limburg.net, enkel uit zoeksnippet)",
+        "bedrag_of_waarde": null,
+        "bron_url": "https://limburg.net/in-de-kijker/grofvuil-online-aanvragen-en-betalen",
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      },
+      {
+        "claim": "Specifieke Limburg.net-pagina over afval bij verhuis of aanpassing afvalrekening bij adreswijziging",
+        "bedrag_of_waarde": null,
+        "bron_url": null,
+        "opgehaald": "2026-10-12",
+        "zekerheid": "laag"
+      }
+    ],
+    "samenvatting": "Grofvuil laat je in Limburg op afroep ophalen via je mijn Limburg.net-account: 30 euro tot 2 m3 en 60 euro tot 4 m3. Zelf wegbrengen naar een recyclagepark van Limburg.net kost 0,25 euro per kg voor grofvuil, terwijl recycleerbaar afval gratis is. Herbruikbare spullen horen eerst naar de kringwinkel. Een aparte pagina van Limburg.net over verhuizen is niet gevonden.",
+    "richtprijs_tabel": null
+  }
+}

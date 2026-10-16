@@ -1,0 +1,2135 @@
+[
+  {
+    "slug": "hasselt",
+    "naam": "Hasselt",
+    "officieleNaam": "Hasselt",
+    "postcodes": [
+      "3500",
+      "3501",
+      "3510",
+      "3511",
+      "3512",
+      "3720",
+      "3721",
+      "3722",
+      "3723",
+      "3724"
+    ],
+    "deelgemeenten": [
+      "Hasselt",
+      "Kermt",
+      "Kuringen",
+      "Sint-Lambrechts-Herk",
+      "Spalbeek",
+      "Stevoort",
+      "Stokrooie",
+      "Wimmertingen",
+      "Kortessem",
+      "Guigoven",
+      "Vliermaal",
+      "Vliermaalroot",
+      "Wintershoven"
+    ],
+    "wijken": [
+      "Kiewit",
+      "Runkst",
+      "Banneuxwijk",
+      "Godsheide",
+      "Rapertingen"
+    ],
+    "buurgemeenten": [
+      "Heusden-Zolder",
+      "Zonhoven",
+      "Genk",
+      "Diepenbeek",
+      "Alken",
+      "Nieuwerkerken",
+      "Herk-de-Stad",
+      "Lummen",
+      "Tongeren-Borgloon"
+    ],
+    "streek": "Haspengouw en Kempen (grensgebied)",
+    "inwoners": {
+      "aantal": 90187,
+      "jaar": 2025,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    },
+    "woonprofiel": "De oude binnenstad ligt binnen de kleine ring (Groene Boulevard) en is grotendeels autovrij: het winkelcentrum is bijna volledig voetgangersgebied. In de binnenstad staan verzinkbare palen die enkel tussen 7 en 11 uur omlaag zijn, en voor innames geldt er een lengtebeperking van 10 meter. Een tweede, grote ring houdt het doorgaand verkeer uit het centrum en de belangrijkste woonwijken. Hasselt is een studentenstad met UHasselt, Hogeschool PXL en UCLL, en het Jessa Ziekenhuis heeft er twee zorgcampussen.",
+    "parkeerverbod": {
+      "procedure": "Inname openbaar domein",
+      "url": "https://www.hasselt.be/nl/inname-openbaar-domein",
+      "termijn": "Ten laatste 5 werkdagen vooraf voor het reserveren van een parkeerplaats; ten laatste 10 werkdagen vooraf bij hinder op stoep, fietspad, berm of rijbaan.",
+      "kostprijs": "Per m2 per dag: 2,50 euro binnen en op de kleine ring, 1 euro tussen kleine en grote ring, 0,50 euro buiten de grote ring. Plaatsen van parkeerverbodsborden en/of nadarhekken door de stad: 25 euro. Straat afsluiten per halve dag (max. 4 uur): 125 euro binnen en op de grote ring, 62,50 euro daarbuiten. Online betalen via link na goedkeuring.",
+      "borden": "De stad kan de parkeerverbodsborden plaatsen (25 euro). Plaats je ze zelf, dan ben je als aanvrager verantwoordelijk voor plaatsing en controle van de tijdelijke signalisatie.",
+      "opmerking": "Aanvragen via Spotbooking (https://hasselt.spotbooking.be/#/wizard/create/iod) of op afspraak bij de Verkeerswinkel in stadhuis 't Scheep. Situatieschets verplicht. Borden minstens 24 uur vooraf in de binnenstad of op de kleine ring, 48 uur vooraf daarbuiten. Buren minstens 7 dagen vooraf verwittigen. Enkel officiele parkeervakken reserveren. Op drukke locaties (toegangswegen, stationsomgeving, kleine ring) enkel werken tussen 9 en 15 uur; straatafsluitingen in de binnenstad bij voorkeur tussen 7 en 11 uur."
+    },
+    "adreswijzigingUrl": "https://www.hasselt.be/nl/aangifte-adreswijziging-verhuis",
+    "recyclagepark": {
+      "naam": "Recyclageparken Kuringen, Sint-Lambrechts-Herk en Kortessem (stad Hasselt)",
+      "adres": null,
+      "url": "https://www.hasselt.be/nl/recyclageparken-en-afvalpunten"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Wekelijkse markt elke dinsdag en vrijdag van 8 tot 12.30 uur op het Kolonel Dusartplein.",
+        "bron": "https://visit.hasselt.be/nl/naar-de-markt"
+      },
+      {
+        "tekst": "Laden en lossen in de binnenstad kan tussen 7 en 11 uur; enkel dan zijn de verzinkbare palen omlaag. Buiten die uren heb je een goedgekeurde inname openbaar domein nodig, die een doorlaatbewijs voor de palen geeft.",
+        "bron": "https://www.hasselt.be/nl/laden-en-lossen"
+      },
+      {
+        "tekst": "De retributie voor een inname hangt af van de zone: het duurst binnen en op de kleine ring (2,50 euro per m2 per dag).",
+        "bron": "https://www.hasselt.be/nl/inname-openbaar-domein"
+      },
+      {
+        "tekst": "Voor innames in de binnenstad geldt een lengtebeperking van 10 meter; bespreek dus vooraf de afmetingen van verhuiswagen en lift met je verhuisfirma.",
+        "bron": "https://www.hasselt.be/nl/inname-openbaar-domein"
+      },
+      {
+        "tekst": "Adreswijziging binnen 8 dagen melden, online of op het stadhuis; de aangifte is gratis.",
+        "bron": "https://www.hasselt.be/nl/aangifte-adreswijziging-verhuis"
+      }
+    ],
+    "bronnen": [
+      "https://www.hasselt.be/nl/inname-openbaar-domein",
+      "https://www.hasselt.be/nl/laden-en-lossen",
+      "https://www.hasselt.be/nl/bereikbaarheid-van-de-binnenstad",
+      "https://www.hasselt.be/nl/toegangsvergunning-verzinkbare-palen-of-slagboom",
+      "https://www.hasselt.be/nl/aangifte-adreswijziging-verhuis",
+      "https://www.hasselt.be/nl/recyclageparken-en-afvalpunten",
+      "https://visit.hasselt.be/nl/naar-de-markt",
+      "https://en.wikipedia.org/wiki/Hasselt",
+      "https://de.wikipedia.org/wiki/Hasselt_(Belgien)",
+      "https://dbpedia.org/page/Hasselt",
+      "https://dbpedia.org/page/Borgloon",
+      "https://dbpedia.org/page/Diepenbeek",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf",
+      "https://limburg.be/node/661",
+      "https://limburg.net/recyclageparken/adressen"
+    ]
+  },
+  {
+    "slug": "genk",
+    "naam": "Genk",
+    "officieleNaam": "Genk",
+    "postcodes": [
+      "3600"
+    ],
+    "deelgemeenten": [],
+    "wijken": [
+      "Genk-Centrum",
+      "Bokrijk",
+      "Termien",
+      "Vlakveld",
+      "Boxbergheide",
+      "Winterslag",
+      "Zwartberg",
+      "Waterschei",
+      "Driehoeven",
+      "Hoevenzavel",
+      "Nieuwe-Kempen",
+      "Nieuw-Texas",
+      "Sledderlo",
+      "Bret",
+      "Gelieren",
+      "Kolderbos",
+      "Langerlo"
+    ],
+    "buurgemeenten": [
+      "Zutendaal",
+      "Maasmechelen",
+      "Oudsbergen",
+      "As",
+      "Houthalen-Helchteren",
+      "Diepenbeek",
+      "Bilzen-Hoeselt",
+      "Hasselt",
+      "Zonhoven"
+    ],
+    "streek": "Kempen (Mijnstreek)",
+    "inwoners": {
+      "aantal": 68038,
+      "jaar": 2025,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    },
+    "woonprofiel": "Genk bestaat enkel uit de stad zelf, zonder deelgemeenten, en is ingedeeld in 30 wijken verspreid over 8 stadsdelen. De stad groeide rond drie steenkoolmijnen: Winterslag, Waterschei en Zwartberg. Het centrum heeft voetgangerszones met verzinkbare paaltjes en drie overdekte winkelcentra (Shopping 1, 2 en 3). Het Ziekenhuis Oost-Limburg (ZOL, campus Sint-Jan) ligt aan Synaps Park 1.",
+    "parkeerverbod": {
+      "procedure": "Openbaar domein innemen (verhuis/levering goederen)",
+      "url": "https://www.genk.be/verhuizen-leveringen-of-kleine-werken",
+      "termijn": "Minimum 10 werkdagen op voorhand.",
+      "kostprijs": "De eerste dag is gratis. Dag 2 tot en met 14: 10 euro per dag; vanaf dag 15: 25 euro per dag. Parkeerverbodsborden: eenmalige forfaitaire retributie van 50 euro voor plaatsing en verwijdering. Afsluiten van een rijrichting per dag: 300 euro (voetgangerszone centrum), 250 euro (overige straten centrum en bovenlokale handelsstraten), 125 euro (overige straten).",
+      "borden": "De stedelijke technische diensten plaatsen de parkeerverbodsborden en halen ze op (forfait 50 euro). Zelf borden plaatsen mag niet bij verhuizen, leveringen en kleine werken.",
+      "opmerking": "Aanvragen via het Eaglebe-formulier (https://www.genk.be/aanvraag-inname-openbaar-domein). Innames worden niet toegestaan op marktdagen of tijdens evenementen in het centrum. Je krijgt eerst een betaalverzoek; de vergunning wordt pas afgeleverd na betaling. Nieuw reglement geldig sinds 1 mei 2026."
+    },
+    "adreswijzigingUrl": "https://www.genk.be/adreswijziging",
+    "recyclagepark": {
+      "naam": "Recyclagepark Genk-Zuid (Limburg.net); ook Genk-Noord, Horizonlaan 7",
+      "adres": "Bosdel 36, 3600 Genk",
+      "url": "https://www.genk.be/recyclageparken"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Donderdagmarkt van 8 tot 13 uur in het stadscentrum en zaterdag versmarkt van 8 tot 13 uur in de Vennestraat. Op marktdagen worden geen innames in het centrum toegestaan.",
+        "bron": "https://www.genk.be/markten"
+      },
+      {
+        "tekst": "In de voetgangerszones van het centrum mag iedereen enkel tussen 7 en 12 uur laden en lossen; parkeren is er altijd verboden.",
+        "bron": "https://www.genk.be/voertuigen-toegang-tot-het-centrum-aanvraag-vergunning"
+      },
+      {
+        "tekst": "De eerste dag van een inname voor verhuis is gratis; enkel de plaatsing van parkeerverbodsborden door de stad kost 50 euro.",
+        "bron": "https://www.genk.be/verhuizen-leveringen-of-kleine-werken"
+      },
+      {
+        "tekst": "Parkeerverbodsborden mag je bij een verhuis niet zelf plaatsen; de stadsdiensten doen dat.",
+        "bron": "https://www.genk.be/FAQ-openbaar-domein-innemen"
+      },
+      {
+        "tekst": "Adreswijziging binnen 8 dagen melden, online, telefonisch of aan het loket in het stadhuis.",
+        "bron": "https://www.genk.be/adreswijziging"
+      }
+    ],
+    "bronnen": [
+      "https://www.genk.be/openbaar-domein-innemen",
+      "https://www.genk.be/verhuizen-leveringen-of-kleine-werken",
+      "https://www.genk.be/FAQ-openbaar-domein-innemen",
+      "https://www.genk.be/aanvraag-inname-openbaar-domein",
+      "https://www.genk.be/voertuigen-toegang-tot-het-centrum-aanvraag-vergunning",
+      "https://www.genk.be/adreswijziging",
+      "https://www.genk.be/recyclageparken",
+      "https://www.genk.be/wijkindeling",
+      "https://www.genk.be/markten",
+      "https://www.visitgenk.be/en/the-markets-and-market-shuttle",
+      "https://visitgenk.be/en/the-city-centre-of-genk",
+      "https://www.zol.be/contact",
+      "https://en.wikipedia.org/wiki/Genk",
+      "https://dbpedia.org/page/Genk",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf",
+      "https://limburg.be/node/661",
+      "https://limburg.net/recyclageparken/adressen"
+    ]
+  },
+  {
+    "slug": "sint-truiden",
+    "naam": "Sint-Truiden",
+    "officieleNaam": "Sint-Truiden",
+    "postcodes": [
+      "3800",
+      "3803",
+      "3806"
+    ],
+    "deelgemeenten": [
+      "Sint-Truiden",
+      "Aalst",
+      "Brustem",
+      "Duras",
+      "Engelmanshoven",
+      "Gelinden",
+      "Gorsem",
+      "Groot-Gelmen",
+      "Halmaal",
+      "Kerkom-bij-Sint-Truiden",
+      "Ordingen",
+      "Runkelen",
+      "Velm",
+      "Wilderen",
+      "Zepperen"
+    ],
+    "wijken": [
+      "Melveren",
+      "Metsteren",
+      "Kortenbos",
+      "Bevingen",
+      "Schurhoven",
+      "Guvelingen",
+      "Zerkingen"
+    ],
+    "buurgemeenten": [
+      "Nieuwerkerken",
+      "Alken",
+      "Wellen",
+      "Tongeren-Borgloon",
+      "Heers",
+      "Gingelom",
+      "Landen",
+      "Zoutleeuw"
+    ],
+    "streek": "Haspengouw",
+    "inwoners": {
+      "aantal": 41722,
+      "jaar": 2025,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    },
+    "woonprofiel": "Het stadscentrum ligt rond de Grote Markt, waar elke zaterdagvoormiddag de Haspengouw Markt staat (ook op Groenmarkt, Heilig Hartplein, Minderbroedersplein en Diesterstraat). In het kerngebied van de binnenstad geldt vanaf 1 oktober 2026 een venstertijd: voertuigen met een maximaal toegelaten massa boven 3,5 ton mogen er enkel tussen 6 en 10.30 uur in. Sinds 30 april 2026 is het centrum ingedeeld in betalende parkeerzones (paars en oranje) en een blauwe zone.",
+    "parkeerverbod": {
+      "procedure": "Inname openbaar domein (verhuis)",
+      "url": "https://www.sint-truiden.be/verhuis",
+      "termijn": "Minstens 10 werkdagen vooraf bij weinig of geen verkeershinder (bv. enkele parkeerplaatsen); minstens 20 werkdagen voor datum bij afsluiting van de rijbaan. Een spoedprocedure is mogelijk.",
+      "kostprijs": null,
+      "borden": "De stadsdiensten plaatsen de signalisatieborden ter plaatse, na goedkeuring en betaling, minstens 2 werkdagen voor de inname. De borden staan minimum 24 uur vooraf uit en worden de eerstvolgende werkdag opgehaald.",
+      "opmerking": "Online aanvragen via https://www.sint-truiden.be/aanvraag-inname-openbaar-domein. Betaling online na goedkeuring; vergunning en factuur volgen na betaling. Bedragen staan in het retributiereglement (herzien, van kracht sinds 1 januari 2026). Voor gewestwegen is een vergunning van het Agentschap Wegen en Verkeer nodig."
+    },
+    "adreswijzigingUrl": "https://www.sint-truiden.be/adres-wijzigen",
+    "recyclagepark": {
+      "naam": "Recyclagepark Sint-Truiden (stedelijk)",
+      "adres": "Nijverheidslaan 5410, 3800 Sint-Truiden",
+      "url": "https://www.sint-truiden.be/info-recyclagepark"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Elke zaterdag van 8 tot 12.30 uur Haspengouw Markt op Grote Markt, Groenmarkt, Heilig Hartplein, Minderbroedersplein en Diesterstraat; voertuigen zijn dan verboden in de marktzone.",
+        "bron": "https://www.sint-truiden.be/markten"
+      },
+      {
+        "tekst": "Elke zondag van 6.30 tot 13 uur Sunday Markt op de Veemarkt.",
+        "bron": "https://www.sint-truiden.be/markten"
+      },
+      {
+        "tekst": "Vanaf 1 oktober 2026 mogen voertuigen boven 3,5 ton (MTM) enkel tussen 6 en 10.30 uur het kerngebied van de binnenstad in. Voertuigen die nodig zijn voor een geldige vergunning inname openbaar domein krijgen een uitzondering.",
+        "bron": "https://www.sint-truiden.be/venstertijden"
+      },
+      {
+        "tekst": "Parkeerzones sinds 30 april 2026: paars (stadskern, 3 euro per uur, max. 2 uur), oranje (centrum, 2 euro per uur, max. 4 uur) en blauw (gratis, 2 uur met schijf), geldig maandag tot zaterdag van 9 tot 19 uur.",
+        "bron": "https://www.sint-truiden.be/parkeerzones"
+      },
+      {
+        "tekst": "Adreswijziging ten laatste 8 werkdagen na de verhuis melden, online of op afspraak.",
+        "bron": "https://www.sint-truiden.be/adres-wijzigen"
+      }
+    ],
+    "bronnen": [
+      "https://www.sint-truiden.be/inname-openbaar-domein",
+      "https://www.sint-truiden.be/verhuis",
+      "https://www.sint-truiden.be/aanvraag-inname-openbaar-domein",
+      "https://www.sint-truiden.be/reglement-en-retributiereglement-iod-verhuis-transport-werven",
+      "https://www.sint-truiden.be/bekendmakingen/detail/384/herziening-reglement-en-retributiereglement-betreffende-de-tijdelijke-inname-van-het-openbaar-domein",
+      "https://www.sint-truiden.be/adres-wijzigen",
+      "https://www.sint-truiden.be/info-recyclagepark",
+      "https://www.sint-truiden.be/markten",
+      "https://www.sint-truiden.be/venstertijden",
+      "https://www.sint-truiden.be/parkeerzones",
+      "https://en.wikipedia.org/wiki/Sint-Truiden",
+      "https://de.wikipedia.org/wiki/Sint-Truiden",
+      "https://fr.wikipedia.org/wiki/Saint-Trond",
+      "https://dbpedia.org/page/Sint-Truiden",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf",
+      "https://limburg.be/node/661"
+    ]
+  },
+  {
+    "slug": "maasmechelen",
+    "naam": "Maasmechelen",
+    "officieleNaam": "Maasmechelen",
+    "postcodes": [
+      "3630",
+      "3631"
+    ],
+    "deelgemeenten": [
+      "Mechelen-aan-de-Maas",
+      "Vucht",
+      "Leut",
+      "Meeswijk",
+      "Uikhoven",
+      "Eisden",
+      "Opgrimbie",
+      "Boorsem",
+      "Kotem"
+    ],
+    "wijken": [
+      "Eisden-Tuinwijk",
+      "Eisden-Dorp"
+    ],
+    "buurgemeenten": [
+      "Dilsen-Stokkem",
+      "As",
+      "Genk",
+      "Lanaken"
+    ],
+    "streek": "Maasland",
+    "inwoners": {
+      "aantal": 40449,
+      "jaar": 2025,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    },
+    "woonprofiel": "Maasmechelen ligt aan de Maas, die de grens met Nederland vormt. In Eisden ligt een tuinwijk uit de twintigste eeuw met cottagewoningen in een parkachtige omgeving, een overblijfsel van de steenkoolmijn die er van 1923 tot 1987 actief was. In winkelcentrum Eisden is parkeren betalend (maandag tot zaterdag, 9 tot 18 uur) en er is ook een blauwe zone met maximaal 2 uur parkeren.",
+    "parkeerverbod": {
+      "procedure": "Inname openbaar domein: leveringen en verhuizingen (verhuis/levering op parkeerplaats)",
+      "url": "https://www.maasmechelen.be/leveringen-en-verhuizingen",
+      "termijn": "Minstens 15 kalenderdagen voor de gewenste startdatum; te laat ingediende aanvragen kunnen niet meer ingediend worden.",
+      "kostprijs": "Gratis, behalve in betalende zones. Daar meld je je aan bij Cityparking Maasmechelen (Kruindersweg 7, info@cityparking.be).",
+      "borden": null,
+      "opmerking": "Een vergunning is enkel nodig als de verhuis een parkeerplaats inneemt; kies dan 'verhuis/levering op parkeerplaats' in de digitale aanvraag via Eaglebe (https://app.eaglebe.com/nl-be/new/man?client=22dce4007c8f73b8a2266c15463cfbaa). De vergunning komt per e-mail na goedkeuring door burgemeester en/of schepencollege. Contact: openbaardomein@maasmechelen.be, 089 76 96 87."
+    },
+    "adreswijzigingUrl": "https://www.maasmechelen.be/product/133/aangifte-van-een-adreswijziging-bij-uw-gemeente",
+    "recyclagepark": {
+      "naam": "Recyclagepark Maasmechelen (Limburg.net), gesloten voor renovatie sinds 20 januari 2026 voor ongeveer een jaar",
+      "adres": "Oude Bunders 1614, 3630 Maasmechelen",
+      "url": "https://www.maasmechelen.be/recyclagepark-maasmechelen"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Elke zaterdag van 8 tot 13 uur wekelijkse markt in Eisden-Dorp.",
+        "bron": "https://www.maasmechelen.be/ambulante-handel-markten-kermissen"
+      },
+      {
+        "tekst": "Een parkeerverbod voor een verhuis is gratis, behalve in de betalende zones; aanvragen minstens 15 kalenderdagen vooraf.",
+        "bron": "https://www.maasmechelen.be/leveringen-en-verhuizingen"
+      },
+      {
+        "tekst": "Betalend parkeren in winkelcentrum Eisden van maandag tot zaterdag tussen 9 en 18 uur (1 euro per uur, maximaal 3 uur, eerste 30 minuten gratis met ticket).",
+        "bron": "https://www.maasmechelen.be/parkeren"
+      },
+      {
+        "tekst": "Het recyclagepark van Maasmechelen is sinds 20 januari 2026 ongeveer een jaar gesloten voor renovatie; je kan terecht in Lanaken, Maaseik, Genk-Zuid en Oudsbergen.",
+        "bron": "https://www.maasmechelen.be/recyclagepark-maasmechelen"
+      },
+      {
+        "tekst": "Adreswijziging binnen 8 werkdagen doorgeven, online via het e-loket of bij de dienst burgerzaken; gratis.",
+        "bron": "https://www.maasmechelen.be/product/133/aangifte-van-een-adreswijziging-bij-uw-gemeente"
+      }
+    ],
+    "bronnen": [
+      "https://www.maasmechelen.be/inname-openbaar-domein",
+      "https://www.maasmechelen.be/leveringen-en-verhuizingen",
+      "https://www.maasmechelen.be/verhuizen",
+      "https://www.maasmechelen.be/product/133/aangifte-van-een-adreswijziging-bij-uw-gemeente",
+      "https://www.maasmechelen.be/ambulante-handel-markten-kermissen",
+      "https://www.maasmechelen.be/wekelijkse-zaterdagmarkt",
+      "https://www.maasmechelen.be/parkeren",
+      "https://www.maasmechelen.be/recyclagepark-maasmechelen",
+      "https://en.wikipedia.org/wiki/Maasmechelen",
+      "https://de.wikipedia.org/wiki/Maasmechelen",
+      "https://dbpedia.org/page/Genk",
+      "https://dbpedia.org/page/Lanaken",
+      "https://dbpedia.org/page/Dilsen-Stokkem",
+      "https://dbpedia.org/page/As,_Belgium",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf",
+      "https://limburg.be/node/661",
+      "https://limburg.net/recyclageparken/adressen"
+    ]
+  },
+  {
+    "slug": "tongeren",
+    "naam": "Tongeren",
+    "officieleNaam": "Tongeren-Borgloon",
+    "postcodes": [
+      "3700",
+      "3840"
+    ],
+    "deelgemeenten": [
+      "Tongeren",
+      "Berg",
+      "Diets-Heur",
+      "Henis",
+      "'s Herenelderen",
+      "Koninksem",
+      "Lauw",
+      "Mal",
+      "Neerrepen",
+      "Nerem",
+      "Overrepen",
+      "Piringen",
+      "Riksingen",
+      "Rutten",
+      "Sluizen",
+      "Vreren",
+      "Widooie",
+      "Borgloon",
+      "Bommershoven",
+      "Broekom",
+      "Gors-Opleeuw",
+      "Gotem",
+      "Groot-Loon",
+      "Hendrieken",
+      "Hoepertingen",
+      "Jesseren",
+      "Kerniel",
+      "Kuttekoven",
+      "Rijkel",
+      "Voort"
+    ],
+    "wijken": [],
+    "buurgemeenten": [
+      "Hasselt",
+      "Bilzen-Hoeselt",
+      "Riemst",
+      "Wellen",
+      "Sint-Truiden",
+      "Heers",
+      "Crisnée",
+      "Herstappe",
+      "Awans"
+    ],
+    "streek": "Haspengouw",
+    "inwoners": {
+      "aantal": 43956,
+      "jaar": 2025,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    },
+    "woonprofiel": "Tongeren en Borgloon vormen sinds 1 januari 2025 de fusiegemeente Tongeren-Borgloon. In het stadscentrum van Tongeren is er een voetgangerszone (Grote Markt, Stadhuisplein en Sint-Truiderstraat) met verzinkbare palen die van maandag tot zaterdag enkel tussen 6 en 11 uur en tussen 18 en 19 uur open zijn. De stad heeft een Romeinse en een middeleeuwse omwalling. Elke zondag vanaf 7 uur is er de antiekmarkt in de historische binnenstad.",
+    "parkeerverbod": {
+      "procedure": "Inname openbaar domein",
+      "url": "https://www.tongeren-borgloon.be/inname-openbaar-domein",
+      "termijn": "Minstens 7 kalenderdagen voor de start van de inname.",
+      "kostprijs": "15 euro administratiekost per vergunning. Daarnaast 0,20 euro per m2 per dag (eerste zes maanden), maar innames die beperkt blijven tot 24 uur vallen daar niet onder. Afsluiten van een straat: 15 euro per dag extra. Spoedprocedure: 100 euro administratiekost bovenop de andere bedragen.",
+      "borden": null,
+      "opmerking": "Online aanvragen via Eaglebe (https://app.eaglebe.com/nl-be/new/man?client=0135c8ae18664cab80b2e64391a89d08) of op afspraak bij de dienst Mobiliteit (012 80 00 00). Inname van parkeerplaatsen kan maximaal 14 dagen. Signalisatiemateriaal kan bij de stad ontleend worden: borden en bakens 1,50 euro per stuk per dag, transport 60 euro per rit voor particulieren. De gemeente heeft een infodocument 'Info plaatsing parkeerverbodsborden' (pdf op de pagina)."
+    },
+    "adreswijzigingUrl": "https://www.tongeren-borgloon.be/aangifte-adreswijziging",
+    "recyclagepark": {
+      "naam": "Recyclagepark Tongeren (Limburg.net); ook recyclagepark Borgloon, Industrieweg 24",
+      "adres": "Prinsenweg 67, 3700 Tongeren",
+      "url": "https://limburg.net/recyclagepark/recyclagepark-tongeren"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Donderdagmarkt van 8 tot 13 uur op de Grote Markt en dinsdagmarkt van 13 tot 18 uur op het Speelhof.",
+        "bron": "https://www.tongeren-borgloon.be/markt"
+      },
+      {
+        "tekst": "Elke zondag vanaf 7 uur antiekmarkt in de binnenstad van Tongeren.",
+        "bron": "https://www.tongeren-borgloon.be/antiekmarkt"
+      },
+      {
+        "tekst": "Voetgangerszone stadscentrum (Grote Markt, Stadhuisplein, Sint-Truiderstraat): laden en lossen van maandag tot zaterdag tussen 6 en 11 uur en tussen 18 en 19 uur; daarbuiten staan de verzinkbare palen omhoog.",
+        "bron": "https://www.tongeren-borgloon.be/toegangsbadge-verzinkbare-palen"
+      },
+      {
+        "tekst": "Van april tot en met oktober is de doorgang over de Grote Markt afgesloten op zaterdag, zondag en feestdagen van 13 uur tot middernacht (uitgebreide voetgangerszone).",
+        "bron": "https://www.tongeren-borgloon.be/toegangsbadge-verzinkbare-palen"
+      },
+      {
+        "tekst": "Een inname die beperkt blijft tot 24 uur kost enkel de administratiekost van 15 euro.",
+        "bron": "https://www.tongeren-borgloon.be/inname-openbaar-domein"
+      }
+    ],
+    "bronnen": [
+      "https://www.tongeren-borgloon.be/inname-openbaar-domein",
+      "https://www.tongeren-borgloon.be/verhuizen-en-adres",
+      "https://www.tongeren-borgloon.be/aangifte-adreswijziging",
+      "https://www.tongeren-borgloon.be/markt",
+      "https://www.tongeren-borgloon.be/antiekmarkt",
+      "https://www.tongeren-borgloon.be/parkerenantiekmarkt",
+      "https://www.tongeren-borgloon.be/toegangsbadge-verzinkbare-palen",
+      "https://en.wikipedia.org/wiki/Tongeren",
+      "https://en.wikipedia.org/wiki/Borgloon",
+      "https://en.wikipedia.org/wiki/Tongeren-Borgloon",
+      "https://fr.wikipedia.org/wiki/Tongres-Looz",
+      "https://dbpedia.org/page/Tongeren",
+      "https://dbpedia.org/page/Borgloon",
+      "https://dbpedia.org/page/Riemst",
+      "https://en.wikipedia.org/wiki/Bilzen",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf",
+      "https://limburg.be/node/661",
+      "https://limburg.net/recyclageparken/adressen"
+    ]
+  },
+  {
+    "slug": "lommel",
+    "naam": "Lommel",
+    "officieleNaam": "Lommel",
+    "postcodes": [
+      "3920"
+    ],
+    "deelgemeenten": [
+      "Lommel-Centrum",
+      "Lutlommel",
+      "Balendijk",
+      "Heide-Heuvel",
+      "Kerkhoven",
+      "Barrier",
+      "Kattenbos",
+      "Werkplaatsen",
+      "Heeserbergen",
+      "Stevensvennen",
+      "Kolonie"
+    ],
+    "wijken": [],
+    "buurgemeenten": [
+      "Mol",
+      "Balen",
+      "Hechtel-Eksel",
+      "Pelt"
+    ],
+    "streek": "Noord-Limburg (Kempen)",
+    "inwoners": {
+      "aantal": 35420,
+      "jaar": 2026,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    },
+    "woonprofiel": "Lommel is een stad zonder fusiedeelgemeenten, maar met een centrum en een reeks kerkdorpen en wijken zoals Kerkhoven, Kattenbos, Barrier, Heeserbergen en Kolonie. De stad grenst aan Nederland. In het centrum geldt een parkeerregime met blauwe zone (maximaal 2 uur, maandag tot zaterdag van 9 tot 18 uur), betalende parkings en een Shop & Go-zone van maximaal 30 minuten in en rond de Kerkstraat en het Dorp. Op woensdagnamiddag is er markt op het Hertog Janplein.",
+    "parkeerverbod": {
+      "procedure": "Tijdelijke inname openbaar domein",
+      "url": "https://www.lommel.be/inname-openbaar-domein",
+      "termijn": "Minstens 7 dagen vooraf (zonder grote hinder); minstens 21 dagen vooraf bij grote hinder",
+      "kostprijs": null,
+      "borden": "De vergunninghouder zorgt zelf voor de signalisatie. Parkeerverbodsborden kan je met de vergunning lenen bij Stadswerken (Maatheide 85).",
+      "opmerking": "Online aanvragen via Eaglebe: https://app.eaglebe.com/pre/nl-be/new/man?client=3e7d32c71d761c821aae5ecac027ecbd. Borden minstens 24 uur vooraf plaatsen en binnen 2 werkdagen terugbrengen. De vergunning moet ter plaatse aanwezig zijn, leesbaar achter de voorruit. Tarieven staan in het retributiereglement (geldig vanaf 20 april 2026), bedragen niet op de webpagina vermeld."
+    },
+    "adreswijzigingUrl": "https://www.lommel.be/adreswijziging-binnen-belgie",
+    "recyclagepark": {
+      "naam": "Recyclagepark Lommel (Limburg.net)",
+      "adres": "Maatheide 89, 3920 Lommel",
+      "url": "https://limburg.net/recyclagepark/recyclagepark-lommel"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Woensdagmarkt elke woensdag van 13.30 tot 17.30 uur op het Hertog Janplein.",
+        "bron": "https://www.lommel.be/woensdagmarkt"
+      },
+      {
+        "tekst": "Blauwe zone in het centrum: maximaal 2 uur met parkeerschijf, maandag tot zaterdag van 9 tot 18 uur (onder meer Vreyshorring, Koning Leopoldlaan, Molsekiezel, Stationsstraat, Ploegdries).",
+        "bron": "https://www.lommel.be/parkeren-in-lommel"
+      },
+      {
+        "tekst": "Shop & Go in en rond de Kerkstraat en het Dorp: maximaal 30 minuten parkeren, maandag tot zaterdag tussen 9 en 18 uur, gecontroleerd met sensoren.",
+        "bron": "https://www.lommel.be/parkeren-in-lommel"
+      },
+      {
+        "tekst": "Betalende parkings (onder meer Stadhuis 1 op het Hertog Janplein en Kerk op het Michiel Jansplein): eerste uur gratis met ticket, daarna 1,5 euro per uur tussen 9 en 18 uur.",
+        "bron": "https://www.lommel.be/parkeren-in-lommel"
+      },
+      {
+        "tekst": "Adreswijziging melden binnen 8 werkdagen na de verhuis, online via de stad.",
+        "bron": "https://www.lommel.be/adreswijziging-binnen-belgie"
+      }
+    ],
+    "bronnen": [
+      "https://www.lommel.be/inname-openbaar-domein",
+      "https://www.lommel.be/retributiereglement-op-het-privaat-gebruik-van-het-openbaar-domein-bij-bouw-onderhouds-en-instandhou",
+      "https://www.lommel.be/parkeren-in-lommel",
+      "https://www.lommel.be/woensdagmarkt",
+      "https://www.lommel.be/kermissen",
+      "https://www.lommel.be/grensverhalen",
+      "https://www.lommel.be/adreswijziging-binnen-belgie",
+      "https://limburg.net/recyclageparken/adressen",
+      "https://limburg.net/recyclagepark/recyclagepark-lommel",
+      "https://www.openingsurengids.be/limburg/lommel",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    ]
+  },
+  {
+    "slug": "bilzen",
+    "naam": "Bilzen",
+    "officieleNaam": "Bilzen-Hoeselt",
+    "postcodes": [
+      "3730",
+      "3732",
+      "3740",
+      "3742",
+      "3746"
+    ],
+    "deelgemeenten": [
+      "Bilzen",
+      "Beverst",
+      "Eigenbilzen",
+      "Grote-Spouwen",
+      "Hees",
+      "Hoelbeek",
+      "Kleine-Spouwen",
+      "Martenslinde",
+      "Mopertingen",
+      "Munsterbilzen",
+      "Rijkhoven",
+      "Rosmeer",
+      "Waltwilder",
+      "Hoeselt",
+      "Romershoven",
+      "Schalkhoven",
+      "Sint-Huibrechts-Hern",
+      "Werm"
+    ],
+    "wijken": [],
+    "buurgemeenten": [
+      "Genk",
+      "Diepenbeek",
+      "Tongeren-Borgloon",
+      "Riemst",
+      "Lanaken",
+      "Maastricht (NL)"
+    ],
+    "streek": "Haspengouw",
+    "inwoners": {
+      "aantal": 43046,
+      "jaar": 2025,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    },
+    "woonprofiel": "Bilzen en Hoeselt vormen sinds 1 januari 2025 de fusiegemeente Bilzen-Hoeselt. Het centrum van Bilzen is een blauwe zone met ongeveer 600 parkeerplaatsen waar je twee uur gratis parkeert met schijf; in het handelscentrum zijn er ook plaatsen voor kortparkeren van maximaal 30 minuten. Elke woensdagvoormiddag staat de wekelijkse markt in Bilzen-centrum.",
+    "parkeerverbod": {
+      "procedure": "Inname openbaar domein",
+      "url": "https://www.bilzenhoeselt.be/inname-openbaar-domein",
+      "termijn": "7 kalenderdagen vooraf voor een korte inname buiten de rijbaan zonder verkeershinder; 14 kalenderdagen bij inname van de rijbaan of verkeershinder; 30 kalenderdagen voor een inname van 14 dagen of langer.",
+      "kostprijs": "Binnen de blauwe zone 1 euro per m2 per dag, buiten de blauwe zone 0,75 euro per m2 per dag, met een minimum van 10 euro. Straat afsluiten: 50 euro voor de eerste dag, 25 euro per bijkomende dag.",
+      "borden": null,
+      "opmerking": "Online aanvragen via Eaglebe (https://app.eaglebe.com/nl-be/new/man?client=22ff89d23c25be8e3eb90f909f406cb2); wie dat niet kan, maakt een afspraak bij de dienst Mobiliteit. Beslissing in overleg met de politie op basis van verkeersveiligheid. Contact: 089 39 75 71 of iod@bilzenhoeselt.be."
+    },
+    "adreswijzigingUrl": "https://www.bilzenhoeselt.be/adreswijziging-belg",
+    "recyclagepark": {
+      "naam": "Recyclagepark Bilzen (Limburg.net); ook recyclagepark Hoeselt, Industrielaan 105A",
+      "adres": "Ooievaar 1, 3740 Bilzen-Hoeselt",
+      "url": "https://www.bilzenhoeselt.be/recyclageparken"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Elke woensdagvoormiddag van 8 tot 13 uur wekelijkse markt in Bilzen-centrum.",
+        "bron": "https://www.bilzenhoeselt.be/markten"
+      },
+      {
+        "tekst": "Blauwe zone in het centrum van Bilzen (ongeveer 600 plaatsen): twee uur gratis parkeren met parkeerschijf of bewonerskaart.",
+        "bron": "https://www.bilzenhoeselt.be/producten/detail/504/parkeren"
+      },
+      {
+        "tekst": "Een inname binnen de blauwe zone kost meer (1 euro per m2 per dag) dan daarbuiten (0,75 euro); het minimum is 10 euro.",
+        "bron": "https://www.bilzenhoeselt.be/inname-openbaar-domein"
+      },
+      {
+        "tekst": "Gratis en onbeperkt langparkeren op wandelafstand van het centrum, onder meer aan het station en De Kimpel.",
+        "bron": "https://www.bilzenhoeselt.be/producten/detail/504/parkeren"
+      },
+      {
+        "tekst": "Adreswijziging binnen acht werkdagen doorgeven aan de dienst Burgerzaken, online of schriftelijk.",
+        "bron": "https://www.bilzenhoeselt.be/adreswijziging-belg"
+      }
+    ],
+    "bronnen": [
+      "https://www.bilzenhoeselt.be/inname-openbaar-domein",
+      "https://www.bilzenhoeselt.be/adreswijziging-belg",
+      "https://www.bilzenhoeselt.be/recyclageparken",
+      "https://www.bilzenhoeselt.be/markten",
+      "https://www.bilzenhoeselt.be/producten/detail/504/parkeren",
+      "https://www.bilzenhoeselt.be/sitemap",
+      "https://en.wikipedia.org/wiki/Bilzen",
+      "https://en.wikipedia.org/wiki/Bilzen-Hoeselt",
+      "https://de.wikipedia.org/wiki/Bilzen-Hoeselt",
+      "https://dbpedia.org/page/Genk",
+      "https://dbpedia.org/page/Diepenbeek",
+      "https://dbpedia.org/page/Riemst",
+      "https://dbpedia.org/page/Lanaken",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf",
+      "https://limburg.be/node/661",
+      "https://limburg.net/recyclageparken/adressen"
+    ]
+  },
+  {
+    "slug": "maaseik",
+    "naam": "Maaseik",
+    "officieleNaam": "Maaseik",
+    "postcodes": [
+      "3680"
+    ],
+    "deelgemeenten": [
+      "Maaseik",
+      "Neeroeteren",
+      "Opoeteren"
+    ],
+    "wijken": [
+      "Aldeneik",
+      "Heppeneert",
+      "Wurfeld",
+      "'t Ven"
+    ],
+    "buurgemeenten": [
+      "Kinrooi",
+      "Bree",
+      "Oudsbergen",
+      "As",
+      "Dilsen-Stokkem",
+      "Echt-Susteren (NL)"
+    ],
+    "streek": "Maasland",
+    "inwoners": {
+      "aantal": 25881,
+      "jaar": 2026,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    },
+    "woonprofiel": "Maaseik ligt aan de Maas, die hier de grens met Nederland vormt; de Nederlandse gemeente Echt-Susteren ligt op wandelafstand. Het historische centrum heeft een planmatig stratenpatroon rond de centrale Markt, met veel Maaslandse renaissancegevels aan de Markt en de Bosstraat. De Markt, de Bleumerstraat en een deel van de Mgr. Koningsstraat zijn woonerf, waar je alleen in de met P aangeduide vakken mag parkeren. Op woensdag is er van 8 tot 13 uur markt op de Markt en de stad staat op marktdagen geen inname van het centrum toe.",
+    "parkeerverbod": {
+      "procedure": "Inname openbaar domein (parkeerverbodsborden)",
+      "url": "https://www.maaseik.be/aanvraag-huren-parkeerverbodsborden",
+      "termijn": "Minimum 10 dagen op voorhand",
+      "kostprijs": "100 euro waarborg in contanten voor de parkeerverbodsborden (terugbetaald bij inlevering); retributie voor de inname zelf niet vermeld",
+      "borden": "Zelf af te halen in de werkhal, Canadastraat 46, en na de inname terug te brengen; wie de borden plaatst staat niet vermeld",
+      "opmerking": "Online aanvragen via het e-loket: https://maaseik.powerappsportals.com/e-loket/vraag-inname-openbaar-domein-aanvragen. De vergunning hangt af van de omstandigheden: geen inname van het centrum op een marktdag of tijdens evenementen. De vergunning moet in orde zijn voor je de borden afhaalt."
+    },
+    "adreswijzigingUrl": "https://www.maaseik.be/afhaling-adreswijziging",
+    "recyclagepark": {
+      "naam": "Recyclagepark Maaseik (Neeroeteren, Limburg.net)",
+      "adres": "Klein Rootstraat 7, 3680 Maaseik",
+      "url": "https://www.maaseik.be/recyclagepark"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Wekelijkse markt elke woensdag van 8 tot 13 uur op de Markt in Maaseik; op vrijdag van 8 tot 13 uur is er een kleine markt op het Kerkplein in Opoeteren.",
+        "bron": "https://www.maaseik.be/nl/werk-ondernemen/ondernemen/ambulante-handel/markten/marktkalender"
+      },
+      {
+        "tekst": "Markt, Bleumerstraat en een deel van de Mgr. Koningsstraat zijn woonerf: uitsluitend parkeren in de met P aangeduide vakken.",
+        "bron": "https://www.maaseik.be/sites/default/files/2025-02/parkeerplan-centrum-maaseik_2.pdf"
+      },
+      {
+        "tekst": "Bovengronds betalend parkeren in het centrum van 9 tot 18 uur, behalve op zon- en feestdagen (op de Markt op zaterdag tot 20 uur); parkeerduur in het centrum maximaal 2 uur.",
+        "bron": "https://www.maaseik.be/sites/default/files/2025-02/parkeerplan-centrum-maaseik_2.pdf"
+      },
+      {
+        "tekst": "Parkings Bospoort en Kloosterbempden: eerste twee uur gratis, daarna 1 euro per begonnen uur (dagtarief 10 euro); parking Sportlaan is gratis.",
+        "bron": "https://www.maaseik.be/sites/default/files/2025-02/parkeerplan-centrum-maaseik_2.pdf"
+      },
+      {
+        "tekst": "Adreswijziging melden binnen 8 dagen, via e-formulier, aan de snelbalie, telefonisch (089 560 560) of per mail.",
+        "bron": "https://www.maaseik.be/afhaling-adreswijziging"
+      }
+    ],
+    "bronnen": [
+      "https://www.maaseik.be/aanvraag-huren-parkeerverbodsborden",
+      "https://www.maaseik.be/nl/aanvraagformulier-inname-openbaar-domein",
+      "https://www.maaseik.be/afhaling-adreswijziging",
+      "https://www.maaseik.be/recyclagepark",
+      "https://www.maaseik.be/nl/werk-ondernemen/ondernemen/ambulante-handel/markten/marktkalender",
+      "https://www.maaseik.be/sites/default/files/2025-02/parkeerplan-centrum-maaseik_2.pdf",
+      "https://www.maaseik.be/1406-parkeerbeleidsplan-definitief",
+      "https://www.maaseik.be/over-maaseik",
+      "https://www.visitmaaseik.be/sites/default/files/2022-11/Stadsplan%20Maaseik%20fusie%20met%20toeristische%20locaties.pdf",
+      "https://nl.wikipedia.org/wiki/Maaseik",
+      "https://limburg.net/recyclageparken/adressen",
+      "https://www.openingsurengids.be/limburg/maaseik",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    ]
+  },
+  {
+    "slug": "lanaken",
+    "naam": "Lanaken",
+    "officieleNaam": "Lanaken",
+    "postcodes": [
+      "3620",
+      "3621"
+    ],
+    "deelgemeenten": [
+      "Lanaken",
+      "Rekem",
+      "Neerharen",
+      "Gellik",
+      "Veldwezelt",
+      "Smeermaas",
+      "Kesselt"
+    ],
+    "wijken": [],
+    "buurgemeenten": [
+      "Maasmechelen",
+      "Zutendaal",
+      "Bilzen-Hoeselt",
+      "Riemst",
+      "Maastricht (NL)"
+    ],
+    "streek": "Maasland",
+    "inwoners": {
+      "aantal": 26490,
+      "jaar": 2026,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    },
+    "woonprofiel": "Lanaken ligt aan de Belgisch-Nederlandse grens en grenst rechtstreeks aan Maastricht. De gemeente bestaat uit Lanaken-centrum en de dorpen Rekem, Neerharen, Gellik, Veldwezelt, Smeermaas en Kesselt, en wordt doorsneden door kanalen zoals de Zuid-Willemsvaart. Parkeren is op het hele grondgebied gratis, met blauwe zones rond het Kerkplein, het Gemeenteplein en delen van de Stationsstraat, de Bessemerstraat en de Jan Rosierlaan. Op dinsdag is er van 8 tot 13 uur markt op het Kerkplein.",
+    "parkeerverbod": {
+      "procedure": "Inname openbaar domein",
+      "url": "https://www.lanaken.be/inname-openbaar-domein",
+      "termijn": "Minstens 5 werkdagen op voorhand",
+      "kostprijs": "Geen innamevergoeding voor werken of verhuizingen van een dag; anders 0,15 euro per m2 per kalenderdag. Huur signalisatie 1,50 euro per bord per dag. Dringende aanvraag (minder dan 5 werkdagen): 25 euro toeslag.",
+      "borden": "Signalisatie wordt gehuurd via de gemeente (1,50 euro per bord per dag); wie de borden plaatst staat niet vermeld",
+      "opmerking": "Online aanvragen via https://cloud.iod-evenementen.be/evenementen/inname/73042. Parkeerverbodsborden moeten 24 uur voor de start van de inname geplaatst zijn. De vergunning wordt pas verstuurd na betaling. Contact: Dienst Mobiliteit, 089 730 730, mobiliteit@lanaken.be."
+    },
+    "adreswijzigingUrl": "https://www.lanaken.be/adreswijziging-binnen-lanaken",
+    "recyclagepark": {
+      "naam": "Recyclagepark Lanaken (Limburg.net)",
+      "adres": "Europark 80, 3620 Lanaken",
+      "url": "https://www.lanaken.be/contact-recyclagepark"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Wekelijkse markt elke dinsdag van 8 tot 13 uur op het Kerkplein in Lanaken-centrum.",
+        "bron": "https://www.lanaken.be/wekelijkse-markt"
+      },
+      {
+        "tekst": "Tijdens de dinsdagmarkt (tussen 6 en 14.30 uur) mag je in de marktzone niet fietsen of met andere voertuigen op wielen rijden; afstappen is verplicht.",
+        "bron": "https://www.lanaken.be/nieuws/afstappen-tijdens-de-wekelijkse-dinsdagmarkt"
+      },
+      {
+        "tekst": "Parkeren is gratis op het hele grondgebied; in de blauwe zones in het centrum geldt maximaal 2 uur met parkeerschijf (soms 30 minuten), maandag tot zaterdag tussen 9 en 18 uur.",
+        "bron": "https://www.lanaken.be/gratis-parkeren-in-het-centrum"
+      },
+      {
+        "tekst": "Gratis centrumparkings: P1 Molenweideplein (313 plaatsen), P2 Aan de Engelse Hof (144) en P3 Europaplein (197).",
+        "bron": "https://www.lanaken.be/gratis-parkeren-in-het-centrum"
+      },
+      {
+        "tekst": "Adreswijziging meld je persoonlijk (op afspraak) bij de dienst Bevolking, binnen 8 werkdagen na je intrek.",
+        "bron": "https://www.lanaken.be/adreswijziging-binnen-lanaken"
+      }
+    ],
+    "bronnen": [
+      "https://www.lanaken.be/inname-openbaar-domein",
+      "https://www.lanaken.be/verhuis-werken-en-leveringen",
+      "https://www.lanaken.be/adreswijziging-binnen-lanaken",
+      "https://www.lanaken.be/adreswijziging",
+      "https://www.lanaken.be/contact-recyclagepark",
+      "https://www.lanaken.be/wekelijkse-markt",
+      "https://www.lanaken.be/nieuws/afstappen-tijdens-de-wekelijkse-dinsdagmarkt",
+      "https://www.lanaken.be/gratis-parkeren-in-het-centrum",
+      "https://en.wikipedia.org/wiki/Lanaken",
+      "https://limburg.net/recyclageparken/adressen",
+      "https://www.openingsurengids.be/limburg/lanaken",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    ]
+  },
+  {
+    "slug": "pelt",
+    "naam": "Pelt",
+    "officieleNaam": "Pelt",
+    "postcodes": [
+      "3900",
+      "3910"
+    ],
+    "deelgemeenten": [
+      "Neerpelt",
+      "Overpelt",
+      "Sint-Huibrechts-Lille",
+      "Lindel-Hoeven",
+      "Boseind",
+      "Haspershoven",
+      "Holheide",
+      "Overpelt-Fabriek",
+      "Grote Heide",
+      "Herent"
+    ],
+    "wijken": [],
+    "buurgemeenten": [
+      "Lommel",
+      "Hechtel-Eksel",
+      "Peer",
+      "Bocholt",
+      "Hamont-Achel"
+    ],
+    "streek": "Noord-Limburg (Kempen)",
+    "inwoners": {
+      "aantal": 34690,
+      "jaar": 2026,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    },
+    "woonprofiel": "Pelt is de fusiegemeente van Neerpelt en Overpelt (sinds 2019) en heeft twee centra, Neerpelt-Centrum en Overpelt-Centrum, met daarrond dorpen zoals Sint-Huibrechts-Lille, Boseind, Holheide en Grote Heide. De gemeente grenst in het noorden aan Nederland en ligt aan het kanaal Bocholt-Herentals. In beide centra gelden blauwe zones (maximaal 1 of 2 uur, van 9 tot 18 uur, behalve op zon- en feestdagen). Er is markt op zaterdagvoormiddag in Neerpelt-Centrum (Klooster- en Kerkstraat, Sooi Willemsplein en Marktplein) en op donderdagnamiddag op de Oude Markt in Overpelt.",
+    "parkeerverbod": {
+      "procedure": "Signalisatievergunning (inname openbare weg)",
+      "url": "https://www.gemeentepelt.be/inname-openbare-weg",
+      "termijn": "Minstens 10 dagen voor de gewenste datum (volgens Lokale Politie Noord-Limburg)",
+      "kostprijs": "Belasting van 0,20 euro per m2 per dag, minimum 50 euro per aangifte; vrijstelling voor innames van minder dan 14 kalenderdagen op eenzelfde locatie",
+      "borden": null,
+      "opmerking": "Aanvraagformulier en uitleg via de Lokale Politie Noord-Limburg: https://www.politie.be/5965/vragen/vergunningen/privaat-gebruik-openbaar-domein-aanvragen-bouwwerken-verhuis. De gemeente verwijst naar de politie, de politie zegt dat de dienst mobiliteit van de gemeente de aanvraag behandelt; inwoners van Pelt kunnen ook terecht op het commissariaat in de Energiestraat. Een aangifte bij de technische dienst is pas nodig bij innames van meer dan 14 opeenvolgende dagen."
+    },
+    "adreswijzigingUrl": "https://www.gemeentepelt.be/adreswijziging",
+    "recyclagepark": {
+      "naam": "Recyclagepark Pelt Nolimpark (Limburg.net); tweede park: Recyclagepark Hamont-Achel/Pelt Heikesveld, Heuvelerweg 26, 3910 Pelt",
+      "adres": "Lieven Bauwenslaan 5, 3900 Pelt",
+      "url": "https://limburg.net/recyclagepark/recyclagepark-pelt-nolimpark"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Zaterdagmarkt van 8 tot 13 uur in de Klooster- en Kerkstraat, op het Sooi Willemsplein en het Marktplein (Neerpelt-Centrum).",
+        "bron": "https://www.gemeentepelt.be/weekmarkten"
+      },
+      {
+        "tekst": "Donderdagmarkt van 14 tot 18 uur op het plein Oude Markt (Overpelt-Centrum).",
+        "bron": "https://www.gemeentepelt.be/weekmarkten"
+      },
+      {
+        "tekst": "Blauwe zones in Neerpelt-Centrum en Overpelt-Centrum: parkeerschijf verplicht van 9 tot 18 uur, alle dagen behalve zon- en feestdagen, maximaal 1 of 2 uur naargelang de locatie.",
+        "bron": "https://www.gemeentepelt.be/waar-parkeren-in-pelt"
+      },
+      {
+        "tekst": "Ondergrondse parkeergarage Forte in Neerpelt (inrit Norbertinessenlaan 5): eerste 2 uur gratis, daarna 1 euro per uur.",
+        "bron": "https://www.gemeentepelt.be/waar-parkeren-in-pelt"
+      },
+      {
+        "tekst": "Adreswijziging online melden binnen 8 werkdagen; daarna volgt een woonstcontrole door de wijkagent.",
+        "bron": "https://www.gemeentepelt.be/adreswijziging"
+      }
+    ],
+    "bronnen": [
+      "https://www.gemeentepelt.be/inname-openbare-weg",
+      "https://www.politie.be/5965/vragen/vergunningen/privaat-gebruik-openbaar-domein-aanvragen-bouwwerken-verhuis",
+      "https://www.gemeentepelt.be/verhuizen",
+      "https://www.gemeentepelt.be/adreswijziging",
+      "https://www.gemeentepelt.be/aardrijkskundige-situering",
+      "https://www.gemeentepelt.be/kloppende-dorpsharten",
+      "https://www.gemeentepelt.be/weekmarkten",
+      "https://www.gemeentepelt.be/waar-parkeren-in-pelt",
+      "https://www.gemeentepelt.be/toegangskaart-recyclagepark",
+      "https://limburg.net/recyclageparken/adressen",
+      "https://limburg.net/recyclagepark/recyclagepark-pelt-nolimpark",
+      "https://limburg.net/recyclagepark/recyclagepark-hamont-achelpelt-heikesveld",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    ]
+  },
+  {
+    "slug": "beringen",
+    "naam": "Beringen",
+    "officieleNaam": "Beringen",
+    "postcodes": [
+      "3580",
+      "3581",
+      "3582",
+      "3583"
+    ],
+    "deelgemeenten": [
+      "Beringen",
+      "Beverlo",
+      "Koersel",
+      "Paal"
+    ],
+    "wijken": [
+      "Beringen-Mijn",
+      "Korspel",
+      "Stal",
+      "Tervant",
+      "Steenveld",
+      "Baltisch Kamp"
+    ],
+    "buurgemeenten": [
+      "Leopoldsburg",
+      "Hechtel-Eksel",
+      "Houthalen-Helchteren",
+      "Heusden-Zolder",
+      "Lummen",
+      "Diest",
+      "Tessenderlo-Ham"
+    ],
+    "streek": "Mijnstreek (Kempen)",
+    "inwoners": {
+      "aantal": 49026,
+      "jaar": 2026,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    },
+    "woonprofiel": "Beringen is een voormalige mijnstad met vier deelgemeenten (Beringen, Beverlo, Koersel en Paal) en de kern Beringen-Mijn rond de vroegere steenkoolmijn. De mijncités in Koersel en Beverlo zijn deels als tuinwijk aangelegd, met woningen in cottagestijl langs vloeiende assen, en latere wijken met een rechtlijnig stratenpatroon. In vijf deelkernen (Beringen, Beringen-Mijn, Koersel-centrum, Paal-centrum en Beverlo-centrum) geldt een blauwe zone. Op woensdagvoormiddag is er markt in Beringen-centrum.",
+    "parkeerverbod": {
+      "procedure": "Vergunning inname openbaar domein (verhuis/levering goederen, werfinrichting)",
+      "url": "https://www.beringen.be/openbaar-domein-innemen-verhuis-levering-goederen-werfinrichting",
+      "termijn": "Minimaal 10 werkdagen op voorhand (gewestwegen: minimaal 1 maand)",
+      "kostprijs": "Geen kosten wanneer de eenmalige inname beperkt is tot maximaal 24 uur; daarna 0,40 euro per m2 per dag (tot en met 6 maanden), 0,80 euro per m2 per dag vanaf de 7de maand; afsluiten van (een deel van) de straat 100 euro per dag",
+      "borden": "Bij een particuliere verhuis haal je het signalisatiemateriaal na ontvangst van de vergunning af op de stedelijke werkplaatsen (Nijverheidspark 24, 3580 Beringen); aannemers plaatsen de signalisatie zelf",
+      "opmerking": "Online aanvragen via https://beringen.spotbooking.be/#/auth/welcome. Borden minimaal 24 uur voor de activiteit plaatsen. De vergunning hangt af van omstandigheden zoals marktdagen en evenementen. In schoolomgevingen geen werken of leveringen tijdens de begin- en einduren van de school (Charter Werfverkeer)."
+    },
+    "adreswijzigingUrl": "https://www.beringen.be/adreswijziging-aangifte",
+    "recyclagepark": {
+      "naam": "Recyclagepark Beringen (Limburg.net)",
+      "adres": "Nijverheidspark 14, 3580 Beringen",
+      "url": "https://limburg.net/recyclagepark/recyclagepark-beringen"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Wekelijkse markt in Beringen-centrum elke woensdagvoormiddag van 8 tot 12.30 uur op de Markt.",
+        "bron": "https://www.beringen.be/activiteiten/detail/7698/wekelijkse-markt"
+      },
+      {
+        "tekst": "Blauwe zone in Beringen, Beringen-Mijn, Koersel-centrum, Paal-centrum en Beverlo-centrum: maximaal 2 uur gratis met parkeerschijf, maandag tot zaterdag van 9 tot 18 uur; retributie van 25 euro bij overtreding.",
+        "bron": "https://www.beringen.be/blauwe-zone"
+      },
+      {
+        "tekst": "Een verhuis met een eenmalige inname van maximaal 24 uur is kosteloos, maar de vergunning moet minimaal 10 werkdagen vooraf aangevraagd worden.",
+        "bron": "https://www.beringen.be/openbaar-domein-innemen-verhuis-levering-goederen-werfinrichting"
+      },
+      {
+        "tekst": "Adreswijziging online melden via het Thuisloket binnen acht werkdagen na de verhuis.",
+        "bron": "https://www.beringen.be/adreswijziging-aangifte"
+      }
+    ],
+    "bronnen": [
+      "https://www.beringen.be/openbaar-domein-innemen-verhuis-levering-goederen-werfinrichting",
+      "https://www.beringen.be/adreswijziging-aangifte",
+      "https://www.beringen.be/blauwe-zone",
+      "https://www.beringen.be/marktkramers-beringen-centrum",
+      "https://www.beringen.be/activiteiten/detail/7698/wekelijkse-markt",
+      "https://www.beringen.be/begraafplaatsen",
+      "https://inventaris.onroerenderfgoed.be/themas/13849",
+      "https://inventaris.onroerenderfgoed.be/teksten/186749",
+      "https://en.wikipedia.org/wiki/Beringen,_Belgium",
+      "https://limburg.net/recyclageparken/adressen",
+      "https://limburg.net/recyclagepark/recyclagepark-beringen",
+      "https://www.openingsurengids.be/limburg/beringen",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    ]
+  },
+  {
+    "slug": "leopoldsburg",
+    "naam": "Leopoldsburg",
+    "officieleNaam": "Leopoldsburg",
+    "postcodes": [
+      "3970",
+      "3971"
+    ],
+    "deelgemeenten": [
+      "Leopoldsburg",
+      "Heppen"
+    ],
+    "wijken": [],
+    "buurgemeenten": [
+      "Beringen",
+      "Tessenderlo-Ham",
+      "Balen",
+      "Hechtel-Eksel"
+    ],
+    "streek": "Kempen",
+    "inwoners": {
+      "aantal": 16959,
+      "jaar": 2026,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    },
+    "woonprofiel": "Leopoldsburg is ontstaan rond het militaire Kamp van Beverlo en is volgens de gemeente met 3.500 militairen de belangrijkste garnizoenstad van het land. Het centrum heeft een rechthoekig, dambordvormig stratenpatroon. De gemeente bestaat uit Leopoldsburg en de deelgemeente Heppen. In het centrum geldt een blauwe zone en op zaterdagvoormiddag is er markt in de straten rond het Koningin Astridplein.",
+    "parkeerverbod": {
+      "procedure": "Inname openbaar domein / aanvraag tijdelijk parkeerverbod",
+      "url": "https://www.leopoldsburg.be/producten/detail/1132/inname-openbaar-domein",
+      "termijn": "Ten minste 5 werkdagen voor de aanvang (werfinrichting: ten minste 10 werkdagen vooraf)",
+      "kostprijs": null,
+      "borden": "De technische dienst plaatst de parkeerverbodsborden en haalt ze weer op",
+      "opmerking": "Online aanvragen via het digitaal loket: https://www.leopoldsburg.be/inname-openbaar-domein-aanvraag-via-thuisloket. Particulieren kunnen een parkeerverbod krijgen voor een verhuis, levering, container of kleine werken, voor maximaal 2 weken (verlengbaar). Bedragen staan niet op de pagina; die verwijst naar het retributiereglement 2026-2031. Contact: technische dienst, 011 29 39 70, technischedienst@leopoldsburg.be."
+    },
+    "adreswijzigingUrl": "https://www.leopoldsburg.be/aangifte-van-adreswijziging",
+    "recyclagepark": {
+      "naam": "Recyclagepark Leopoldsburg (gemeentelijk)",
+      "adres": "Aan 't Kanaal 3, 3970 Leopoldsburg",
+      "url": "https://www.leopoldsburg.be/recyclagepark"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Wekelijkse markt elke zaterdagmorgen tussen 8 en 12.30 uur in de straten in de buurt van het Koningin Astridplein, met meer dan 50 kramen.",
+        "bron": "https://www.leopoldsburg.be/markt"
+      },
+      {
+        "tekst": "Blauwe zone in het centrum: maandag tot en met zaterdag van 9 tot 18 uur maximaal 2 uur met parkeerschijf; op het Bevrijdingsplein en aan de post maximaal 30 minuten.",
+        "bron": "https://www.leopoldsburg.be/parkeren-in-leopoldsburg"
+      },
+      {
+        "tekst": "Vrachtwagens van meer dan 7,5 ton horen op Parking Reigersvliet; lang parkeren zonder tijdslimiet kan onder meer op de Stationsparking en het Koningin Astridplein.",
+        "bron": "https://www.leopoldsburg.be/parkeren-in-leopoldsburg"
+      },
+      {
+        "tekst": "Het recyclagepark werkt op afspraak en is enkel toegankelijk voor gezinnen; hou je nummerplaat bij de hand bij het boeken.",
+        "bron": "https://www.leopoldsburg.be/recyclagepark"
+      },
+      {
+        "tekst": "Bij een tijdelijk parkeerverbod voor een verhuis plaatst en verwijdert de technische dienst de borden.",
+        "bron": "https://www.leopoldsburg.be/producten/detail/1132/inname-openbaar-domein"
+      }
+    ],
+    "bronnen": [
+      "https://www.leopoldsburg.be/producten/detail/1132/inname-openbaar-domein",
+      "https://www.leopoldsburg.be/inname-openbaar-domein-aanvraag-via-thuisloket",
+      "https://www.leopoldsburg.be/adres-verhuizen",
+      "https://www.leopoldsburg.be/aangifte-van-adreswijziging",
+      "https://www.leopoldsburg.be/recyclagepark",
+      "https://www.leopoldsburg.be/markt",
+      "https://www.leopoldsburg.be/parkeren-in-leopoldsburg",
+      "https://www.leopoldsburg.be/producten/detail/29/over-leopoldsburg",
+      "https://inventaris.onroerenderfgoed.be/themas/13891",
+      "https://en.wikipedia.org/wiki/Leopoldsburg",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    ]
+  },
+  {
+    "slug": "tessenderlo",
+    "naam": "Tessenderlo",
+    "officieleNaam": "Tessenderlo-Ham",
+    "postcodes": [
+      "3980",
+      "3945"
+    ],
+    "deelgemeenten": [
+      "Tessenderlo",
+      "Oostham",
+      "Kwaadmechelen"
+    ],
+    "wijken": [
+      "Centrum",
+      "Berg",
+      "Hulst",
+      "Engsbergen",
+      "Schoot",
+      "Genendijk",
+      "Genebos"
+    ],
+    "buurgemeenten": [
+      "Beringen",
+      "Diest",
+      "Scherpenheuvel-Zichem",
+      "Laakdal",
+      "Meerhout",
+      "Balen",
+      "Leopoldsburg"
+    ],
+    "streek": "Kempen",
+    "inwoners": {
+      "aantal": 30818,
+      "jaar": 2026,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    },
+    "woonprofiel": "Tessenderlo-Ham is sinds 1 januari 2025 de fusiegemeente van Tessenderlo en Ham en telt volgens de gemeente negen dorpskernen: Centrum, Berg, Hulst, Engsbergen, Schoot, Oostham, Kwaadmechelen, Genendijk en Genebos. De gemeente ligt in de noordwesthoek van Limburg, tegen de grens met Vlaams-Brabant en Antwerpen, aan het Albertkanaal en de E313. In het centrum van Tessenderlo geldt een blauwe zone met parkeerschijf en elke maandagvoormiddag staat de wekelijkse markt op de Markt en in de Dekenijstraat.",
+    "parkeerverbod": {
+      "procedure": "Aanvraag voor inname openbaar domein, terrassen en signalisatievergunning",
+      "url": "https://www.tessenderlo-ham.be/aanvraag-inname-openbaar-domein-terrassen-signalisatievergunning",
+      "termijn": "Tenminste 5 werkdagen op voorhand voor kleine innames met weinig hinder; 15 werkdagen op voorhand voor grote innames met sterke hinder.",
+      "kostprijs": "De kostprijs hangt af van het aantal dagen en het aantal stuks signalisatie. Volgens het retributiereglement 'Tarieven huur signalisatie' (gemeenteraad Tessenderlo 27/11/2023, gelinkt op de huidige gemeentesite): 5 euro per verkeersbord per gewerkte dag, 10 euro per schraag; bij een verhuis of levering van goederen maximaal 50 euro, ongeacht de geleverde signalisatie.",
+      "borden": "Verkeersborden kunnen tegen betaling gehuurd worden bij het gemeentebestuur, dat de signalisatie ter plaatse aflevert en ophaalt.",
+      "opmerking": "Aanvragen kan alleen online (formulier via cloud.iod-evenementen.be). Bij een inname op een gewestweg moet je vooraf advies vragen aan AWV. Het tarievenreglement dateert van voor de fusie (Tessenderlo, 2023); controleer of het ook voor het grondgebied Ham geldt."
+    },
+    "adreswijzigingUrl": "https://www.tessenderlo-ham.be/aangifte-adreswijziging",
+    "recyclagepark": {
+      "naam": "Recyclagepark Tessenderlo (Limburg.net); tweede park: Recyclagepark Ham, Truibroek 16, 3945 Tessenderlo-Ham",
+      "adres": "Fabrieksstraat 10, 3980 Tessenderlo-Ham",
+      "url": "https://limburg.net/recyclagepark/recyclagepark-tessenderlo"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Wekelijkse markt elke maandagvoormiddag van 8.00 tot 12.30 uur op de Markt en in de Dekenijstraat in Tessenderlo.",
+        "bron": "https://www.tessenderlo-ham.be/maandagmarkt"
+      },
+      {
+        "tekst": "Blauwe zone in het centrum: gratis parkeren met parkeerschijf gedurende minstens 2 en maximaal 2,5 uur; bij overtreding een retributie van 30 euro per dag.",
+        "bron": "https://www.tessenderlo-ham.be/parkeren-in-tessenderlo"
+      },
+      {
+        "tekst": "Gratis en onbeperkt parkeren kan onder meer op langparkeerterrein Binnenhof, Vismarkt en Kolmen (centrum), het Heldenplein in Oostham en parking De Monade in Kwaadmechelen.",
+        "bron": "https://www.tessenderlo-ham.be/parkeren-in-tessenderlo"
+      },
+      {
+        "tekst": "Adreswijziging melden binnen de 8 werkdagen, online via het digitaal loket (tessenderloham.smartloket.be).",
+        "bron": "https://www.tessenderlo-ham.be/aangifte-adreswijziging"
+      },
+      {
+        "tekst": "De gemeente heeft twee Limburg.net recyclageparken: Fabrieksstraat 10 (Tessenderlo) en Truibroek 16 (Ham).",
+        "bron": "https://www.tessenderlo-ham.be/recyclageparken"
+      }
+    ],
+    "bronnen": [
+      "https://www.tessenderlo-ham.be",
+      "https://www.tessenderlo-ham.be/tessenderlo-ham-in-het-kort",
+      "https://www.tessenderlo-ham.be/openbaardomein",
+      "https://www.tessenderlo-ham.be/aanvraag-inname-openbaar-domein-terrassen-signalisatievergunning",
+      "https://raadpleeg-tessenderlo.onlinesmartcities.be/zittingen/22.1206.9363.3421/agendapunten/23.1114.8069.9547",
+      "https://www.tessenderlo-ham.be/parkeren-in-tessenderlo",
+      "https://www.tessenderlo-ham.be/maandagmarkt",
+      "https://www.tessenderlo-ham.be/verhuizen",
+      "https://www.tessenderlo-ham.be/aangifte-adreswijziging",
+      "https://www.tessenderlo-ham.be/recyclageparken",
+      "https://limburg.net/recyclageparken/adressen",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf",
+      "https://en.wikipedia.org/wiki/Tessenderlo-Ham",
+      "https://en.wikipedia.org/wiki/Tessenderlo",
+      "https://en.wikipedia.org/wiki/Ham,_Belgium",
+      "https://www.openingsurengids.be/limburg/tessenderlo",
+      "https://www.openingsurengids.be/limburg/ham"
+    ]
+  },
+  {
+    "slug": "heusden-zolder",
+    "naam": "Heusden-Zolder",
+    "officieleNaam": "Heusden-Zolder",
+    "postcodes": [
+      "3550"
+    ],
+    "deelgemeenten": [
+      "Heusden",
+      "Zolder"
+    ],
+    "wijken": [
+      "Berkenbos",
+      "Eversel",
+      "Boekt",
+      "Viversel",
+      "Bolderberg",
+      "Lindeman"
+    ],
+    "buurgemeenten": [
+      "Beringen",
+      "Hasselt",
+      "Houthalen-Helchteren",
+      "Lummen",
+      "Zonhoven"
+    ],
+    "streek": "Mijnstreek (Midden-Limburg)",
+    "inwoners": {
+      "aantal": 35029,
+      "jaar": 2026,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    },
+    "woonprofiel": "Heusden-Zolder bestaat uit de vroegere gemeenten Heusden en Zolder met de kerkdorpen Berkenbos, Eversel, Boekt, Viversel, Bolderberg en Lindeman. Zowel Heusden-Centrum als Zolder-Centrum hebben een blauwe zone waar je van maandag tot en met zaterdag tussen 9 en 19 uur maximaal 2 uur mag parkeren. Op de 2de en 4de woensdag van de maand staat MijnMarkt tussen 12 en 17 uur op het Marktplein.",
+    "parkeerverbod": {
+      "procedure": "Vergunning Inname Openbaar Domein",
+      "url": "https://www.heusden-zolder.be/inname-openbaar-domein",
+      "termijn": "Ten laatste 6 werkdagen voor je de stoep, fietspad, berm of parkeerplaats inneemt; 10 werkdagen als je de straat wilt afsluiten.",
+      "kostprijs": "Geen belasting als de inname maximum 24 uur duurt (aanvraag blijft verplicht). Voor innames langer dan 24 uur heft de gemeente een belasting; het tarief staat in het belastingreglement en niet op de pagina zelf.",
+      "borden": "De aanvrager staat zelf in voor de verplichte wettelijke signalisatie en verlichting; het lokaal bestuur komt hier niet in tussen.",
+      "opmerking": "Aanvragen via het webportaal Spotbooking (heusden-zolder.spotbooking.be). Na goedkeuring krijg je een betalingslink die 24 uur geldig is. De vergunning moet zichtbaar hangen op de plaats van de inname. Let op: de pagina over de belasting vermeldt een afwijkende termijn van minstens 10 kalenderdagen (14 kalenderdagen bij hinder, met signalisatieplan). Bij inname zonder vergunning wordt de belasting verdubbeld."
+    },
+    "adreswijzigingUrl": "https://www.heusden-zolder.be/adreswijziging",
+    "recyclagepark": {
+      "naam": "Recyclagepark Heusden-Zolder (Limburg.net)",
+      "adres": "Terrillaan 14, 3550 Heusden-Zolder",
+      "url": "https://limburg.net/recyclagepark/recyclagepark-heusden-zolder"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "MijnMarkt: elke 2de en 4de woensdag van de maand tussen 12 en 17 uur op het Marktplein. Gratis parkeren kan dan op de Brancardiersparking, het Schachtplein en de Koolmijnlaan.",
+        "bron": "https://www.heusden-zolder.be/MijnMarkt"
+      },
+      {
+        "tekst": "Blauwe zone Heusden-Centrum (onder meer Sint-Willibrordusplein, Kapelanijstraat, Rectorstraat en delen van de G. Gezellelaan en Koerselsebaan): maximum 2 uur, maandag tot en met zaterdag tussen 9 en 19 uur.",
+        "bron": "https://www.heusden-zolder.be/blauwe-zone-heusden"
+      },
+      {
+        "tekst": "Blauwe zone Zolder-Centrum (delen van onder meer Dorpsstraat, Inakker, Pironlaan en Ringlaan): maximum 2 uur, maandag tot en met zaterdag tussen 9 en 19 uur; aan de apotheek in de Dorpsstraat maximum 30 minuten.",
+        "bron": "https://www.heusden-zolder.be/blauwe-zone-zolder-centrum"
+      },
+      {
+        "tekst": "Een verhuis die het openbaar domein maximum 24 uur inneemt is vrij van belasting, maar je moet wel een vergunning aanvragen.",
+        "bron": "https://www.heusden-zolder.be/belasting-op-inname-openbaar-domein"
+      },
+      {
+        "tekst": "Adreswijziging melden binnen de 8 werkdagen, online via het digitaal loket (heusden-zolder.smartloket.be).",
+        "bron": "https://www.heusden-zolder.be/adreswijziging"
+      }
+    ],
+    "bronnen": [
+      "https://www.heusden-zolder.be",
+      "https://www.heusden-zolder.be/vergunningen-attesten",
+      "https://www.heusden-zolder.be/inname-openbaar-domein",
+      "https://www.heusden-zolder.be/belasting-op-inname-openbaar-domein",
+      "https://www.heusden-zolder.be/MijnMarkt",
+      "https://www.heusden-zolder.be/blauwe-zones",
+      "https://www.heusden-zolder.be/blauwe-zone-heusden",
+      "https://www.heusden-zolder.be/blauwe-zone-zolder-centrum",
+      "https://www.heusden-zolder.be/verhuizen",
+      "https://www.heusden-zolder.be/adreswijziging",
+      "https://www.heusden-zolder.be/afval-recyclage",
+      "https://limburg.net/recyclageparken/adressen",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf",
+      "https://en.wikipedia.org/wiki/Heusden-Zolder",
+      "https://www.openingsurengids.be/limburg/heusden-zolder"
+    ]
+  },
+  {
+    "slug": "diepenbeek",
+    "naam": "Diepenbeek",
+    "officieleNaam": "Diepenbeek",
+    "postcodes": [
+      "3590"
+    ],
+    "deelgemeenten": [
+      "Diepenbeek"
+    ],
+    "wijken": [
+      "Bijenberg",
+      "Crijt",
+      "Dorpheide",
+      "Keizel",
+      "Lutselus",
+      "Pampert",
+      "Piannesberg",
+      "Reitje",
+      "Rooierheide",
+      "Rozendaal",
+      "Zwartveld"
+    ],
+    "buurgemeenten": [
+      "Hasselt",
+      "Genk",
+      "Bilzen-Hoeselt"
+    ],
+    "streek": "Midden-Limburg",
+    "inwoners": {
+      "aantal": 19850,
+      "jaar": 2026,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    },
+    "woonprofiel": "Diepenbeek is een gemeente zonder deelgemeenten, met rond het centrum gehuchten als Lutselus, Rooierheide, Dorpheide en Rozendaal. De campus van de Universiteit Hasselt en het Limburg Science Park liggen in Diepenbeek. In het centrum geldt een blauwe zone (maximaal twee uur) en op het Marktplein betalend parkeren na de eerste twee gratis uren; elke maandagvoormiddag staat daar tussen 8 en 12 uur de wekelijkse markt.",
+    "parkeerverbod": {
+      "procedure": "Aanvraag parkeerverbod (tijdelijk parkeerverbod, maximaal 48 uur); voor een verhuislift: Inname openbaar domein voor werfinrichting & verhuis",
+      "url": "https://www.diepenbeek.be/Aanvraag-parkeerverbod",
+      "termijn": "Tijdelijk parkeerverbod: minstens 2 werkdagen op voorhand (aanvraag en betaling). Verhuislift of andere inname van het openbaar domein: minstens 14 dagen op voorhand.",
+      "kostprijs": "Parkeerverbod: retributie van 30 euro per aanvraag. Inname openbaar domein (verhuislift, container, werf): belasting van 0,75 euro per begonnen vierkante meter per dag, minimum 50,00 euro per belastbaar feit, jaarlijks geindexeerd.",
+      "borden": null,
+      "opmerking": "Aanvragen via het loket inname openbaar domein (cloud.iod-evenementen.be/evenementen/inname/71011). Een tijdelijk parkeerverbod is maximaal 48 uren geldig en de vergunning wordt pas afgeleverd na betaling van de retributie. Vraag tijdig aan, want er geldt een sperperiode. Aparte pagina voor de verhuislift: https://www.diepenbeek.be/Werfinrichting"
+    },
+    "adreswijzigingUrl": "https://www.diepenbeek.be/adreswijziging",
+    "recyclagepark": {
+      "naam": "Recyclagepark Diepenbeek (Limburg.net)",
+      "adres": "Demerstraat 173, 3590 Diepenbeek",
+      "url": "https://limburg.net/recyclagepark/recyclagepark-diepenbeek"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Wekelijkse markt elke maandagvoormiddag tussen 8 en 12 uur op het Marktplein in het centrum.",
+        "bron": "https://www.diepenbeek.be/Markten-kermissen"
+      },
+      {
+        "tekst": "Blauwe zone in het centrum: van maandag tot en met zaterdag (9 tot 18 uur) maximaal twee uur gratis parkeren met parkeerschijf; op zon- en feestdagen en 's nachts vrij parkeren.",
+        "bron": "https://www.diepenbeek.be/parkeren"
+      },
+      {
+        "tekst": "Marktplein: betalend parkeren van maandag tot en met zaterdag van 9 tot 18 uur, eerste twee uur gratis, daarna 1 euro per bijkomend uur. Sinds 1 juni 2026 enkel digitaal betalen via QR-code.",
+        "bron": "https://www.diepenbeek.be/parkeren"
+      },
+      {
+        "tekst": "Vrij parkeren kan op negen parkings, waaronder de parking van shopping Diepenbeek aan de Wijkstraat (453 plaatsen).",
+        "bron": "https://www.diepenbeek.be/parkeren"
+      },
+      {
+        "tekst": "Adreswijziging melden binnen de 8 werkdagen, online via het e-loket van de gemeente.",
+        "bron": "https://www.diepenbeek.be/adreswijziging"
+      }
+    ],
+    "bronnen": [
+      "https://www.diepenbeek.be",
+      "https://www.diepenbeek.be/inname-openbaar-domein",
+      "https://www.diepenbeek.be/werven-en-verhuis",
+      "https://www.diepenbeek.be/Werfinrichting",
+      "https://www.diepenbeek.be/Aanvraag-parkeerverbod",
+      "https://www.diepenbeek.be/signalisatievergunning",
+      "https://cloud.iod-evenementen.be/evenementen/inname/71011",
+      "https://www.diepenbeek.be/Markten-kermissen",
+      "https://www.diepenbeek.be/parkeren",
+      "https://www.diepenbeek.be/adreswijziging",
+      "https://www.diepenbeek.be/producten/detail/286/recyclagepark---containerpark",
+      "https://limburg.net/recyclageparken/adressen",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf",
+      "https://en.wikipedia.org/wiki/Diepenbeek",
+      "https://www.openingsurengids.be/limburg/diepenbeek"
+    ]
+  },
+  {
+    "slug": "zonhoven",
+    "naam": "Zonhoven",
+    "officieleNaam": "Zonhoven",
+    "postcodes": [
+      "3520"
+    ],
+    "deelgemeenten": [
+      "Zonhoven"
+    ],
+    "wijken": [
+      "Centrum",
+      "Halveweg",
+      "Termolen",
+      "Terdonk"
+    ],
+    "buurgemeenten": [
+      "Hasselt",
+      "Genk",
+      "Heusden-Zolder",
+      "Houthalen-Helchteren"
+    ],
+    "streek": "Midden-Limburg",
+    "inwoners": {
+      "aantal": 22027,
+      "jaar": 2026,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    },
+    "woonprofiel": "Zonhoven is een gemeente zonder deelgemeenten, met naast het centrum de kernen Halveweg, Termolen en Terdonk. Door de gemeente lopen meerdere gewestwegen (onder meer Houthalenseweg, Dorpsstraat, Heuvenstraat, Halveweg, Beringersteenweg en de N74), waar voor een inname langere aanvraagtermijnen gelden. In de Dorpsstraat, een deel van de Heuvenstraat en een deel van de Rode Kruisweg geldt een blauwe zone, en elke zondag staat de wekelijkse markt van 8 tot 13 uur op en rond het Kerkplein.",
+    "parkeerverbod": {
+      "procedure": "Inname openbaar domein en aanvraag signalisatie",
+      "url": "https://www.zonhoven.be/inname-openbaar-domein",
+      "termijn": "Gemeentewegen: minstens 5 werkdagen op voorhand zonder hinder, minstens 10 werkdagen bij hinderlijke innames. Gewestwegen: minstens 10 werkdagen zonder hinder, minstens 12 werkdagen bij hinderlijke innames.",
+      "kostprijs": null,
+      "borden": "De gemeente plaatst enkel de verkeersborden die de parkeerruimte voorbehouden aan de aanvrager.",
+      "opmerking": "Online aanvragen via het e-loket (zonhoven.spotbooking.be) of op afspraak bij de dienst. De pagina vermeldt geen kostprijs voor gemeentewegen; langs een gewestweg ben je mogelijk een retributie verschuldigd aan het Agentschap Wegen en Verkeer. Bij hinderlijke innames voeg je een signalisatieplan toe. Een verlenging vraag je uiterlijk 5 werkdagen voor de vervaldag aan."
+    },
+    "adreswijzigingUrl": "https://www.zonhoven.be/verhuis",
+    "recyclagepark": {
+      "naam": "Recyclagepark Zonhoven (Limburg.net)",
+      "adres": "Industrieweg-Zuid 1432, 3520 Zonhoven",
+      "url": "https://www.zonhoven.be/recyclagepark"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Wekelijkse markt elke zondag van 8 tot 13 uur op en rond het Kerkplein in Zonhoven-Centrum.",
+        "bron": "https://www.zonhoven.be/standplaats-markt"
+      },
+      {
+        "tekst": "Blauwe zone in de Dorpsstraat, de Heuvenstraat (vanaf de Donkweg richting centrum) en een deel van de Rode Kruisweg: maximaal twee uur, op werkdagen en zaterdag tussen 9 en 18 uur.",
+        "bron": "https://www.zonhoven.be/parkeren"
+      },
+      {
+        "tekst": "Vrij parkeren kan onder meer op het Kerkplein, het Dorpsplein, de Kleine Eggestraat en het Kapelhof.",
+        "bron": "https://www.zonhoven.be/parkeren"
+      },
+      {
+        "tekst": "Gewestwegen in Zonhoven (langere aanvraagtermijn voor een inname): Houthalenseweg, Dorpsstraat, Heuvenstraat en Heuveneindeweg, Vogelsancklaan, Halveweg, Wijerstraat, Beringersteenweg en N74.",
+        "bron": "https://www.zonhoven.be/inname-openbaar-domein"
+      },
+      {
+        "tekst": "Adreswijziging melden binnen de 8 werkdagen, bij voorkeur eerst via het digitaal loket.",
+        "bron": "https://www.zonhoven.be/verhuis"
+      }
+    ],
+    "bronnen": [
+      "https://www.zonhoven.be",
+      "https://www.zonhoven.be/thema/2754/verhuizen",
+      "https://www.zonhoven.be/inname-openbaar-domein",
+      "https://zonhoven.spotbooking.be/#/auth/welcome",
+      "https://www.zonhoven.be/verhuis",
+      "https://www.zonhoven.be/standplaats-markt",
+      "https://www.zonhoven.be/parkeren",
+      "https://www.zonhoven.be/recyclagepark",
+      "https://limburg.net/recyclageparken/adressen",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf",
+      "https://en.wikipedia.org/wiki/Zonhoven",
+      "https://www.openingsurengids.be/limburg/zonhoven"
+    ]
+  },
+  {
+    "slug": "peer",
+    "naam": "Peer",
+    "officieleNaam": "Peer",
+    "postcodes": [
+      "3990"
+    ],
+    "deelgemeenten": [
+      "Peer",
+      "Grote-Brogel",
+      "Kleine-Brogel",
+      "Wijchmaal",
+      "Wauberg",
+      "Erpekom"
+    ],
+    "wijken": [],
+    "buurgemeenten": [
+      "Pelt",
+      "Bocholt",
+      "Oudsbergen",
+      "Houthalen-Helchteren",
+      "Hechtel-Eksel"
+    ],
+    "streek": "Kempen (Noord-Limburg)",
+    "inwoners": {
+      "aantal": 16784,
+      "jaar": 2026,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    },
+    "woonprofiel": "Peer is een stad met een compact centrum rond de Markt, omsloten door de Noordervest en de Zuidervest, en met de dorpen Grote-Brogel, Kleine-Brogel, Wijchmaal, Wauberg en Erpekom eromheen. In het centrum geldt een blauwe zone (2 uur gratis met parkeerschijf, maandag tot en met zaterdag tussen 9 en 18 uur), terwijl je aan de Vesten en op meerdere parkings onbeperkt gratis parkeert. Bewoners van straten met parkeerschijfplicht kunnen een bewonerskaart aanvragen.",
+    "parkeerverbod": {
+      "procedure": "Signalisatievergunning (aanvraag inname openbaar domein en signalisatievergunning)",
+      "url": "https://www.peer.be/parkeerverbod",
+      "termijn": "Minimum 10 dagen voor aanvang voor het innemen van parkeerplaatsen; minimum 3 weken voor aanvang bij werken. Laattijdige aanvragen kunnen geweigerd worden.",
+      "kostprijs": "De signalisatievergunning zelf is gratis. Het leveren en plaatsen van signalisatie door de stad kost 50 euro (prijs op de pagina vermeld voor 2020 tot en met 2025). De retributie op inname van het openbaar domein bedraagt 0 euro bij minder dan 10 opeenvolgende kalenderdagen, daarna 0,65 euro per m2 per dag in de eerste 6 maanden.",
+      "borden": "De gemeente plaatst enkel parkeerverbodsborden. Alle andere signalisaties (wegomlegging, wegversmalling) moet je zelf voorzien.",
+      "opmerking": "Online aanvragen via https://peer.onlinesmartcities.be/eloket/aanvraag-inname-openbaar-domein (kan met of zonder aanmelden). Het bedrag van 50 euro staat op de pagina met de periode 2020-2025; vraag het actuele tarief na bij de stad (011 61 07 00)."
+    },
+    "adreswijzigingUrl": "https://www.peer.be/adreswijziging",
+    "recyclagepark": {
+      "naam": "Recyclagepark Peer (Limburg.net)",
+      "adres": "Industrieweg 6, 3990 Peer",
+      "url": "https://www.peer.be/recyclagepark"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Blauwe zone in Peer-centrum: 2 uur gratis met parkeerschijf, van maandag tot en met zaterdag tussen 9 en 18 uur. Onder meer Markt (P7), A. Preud'hommeplein (P3) en Kloosterstraat (P5) vallen eronder.",
+        "bron": "https://www.peer.be/gratis-parkeren-peer-centrum"
+      },
+      {
+        "tekst": "Onbeperkt gratis parkeren kan aan de Noordervest en Zuidervest en op parkings als Bomerstraat en Collegelaan.",
+        "bron": "https://www.peer.be/gratis-parkeren-peer-centrum"
+      },
+      {
+        "tekst": "Wekelijkse markt op maandag van 8 tot 12.30 uur op het Marktplein en de omliggende straten (bron is markten.be; niet teruggevonden op de site van de stad).",
+        "bron": "https://markten.be/limburg/"
+      },
+      {
+        "tekst": "Adreswijziging doorgeven binnen de acht werkdagen, online of aan de burgerbalie.",
+        "bron": "https://www.peer.be/adreswijziging"
+      },
+      {
+        "tekst": "Voor het recyclagepark heb je je elektronische identiteitskaart of een gemeentekaart nodig.",
+        "bron": "https://www.peer.be/recyclagepark"
+      }
+    ],
+    "bronnen": [
+      "https://www.peer.be",
+      "https://www.peer.be/parkeren",
+      "https://www.peer.be/gratis-parkeren-peer-centrum",
+      "https://www.peer.be/parkeerverbod",
+      "https://www.peer.be/retributie-op-de-inname-van-het-openbaar-domein",
+      "https://peer.onlinesmartcities.be/eloket/aanvraag-inname-openbaar-domein",
+      "https://www.peer.be/eloket",
+      "https://www.peer.be/adreswijziging",
+      "https://www.peer.be/recyclagepark",
+      "https://www.peer.be/sitemap",
+      "https://limburg.net/recyclageparken/adressen",
+      "https://markten.be/limburg/",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf",
+      "https://en.wikipedia.org/wiki/Peer,_Belgium",
+      "https://www.openingsurengids.be/limburg/peer"
+    ]
+  },
+  {
+    "slug": "lummen",
+    "naam": "Lummen",
+    "officieleNaam": "Lummen",
+    "postcodes": [
+      "3560"
+    ],
+    "deelgemeenten": [
+      "Lummen",
+      "Linkhout",
+      "Meldert"
+    ],
+    "wijken": [
+      "Geneiken",
+      "Genenbos",
+      "Gestel",
+      "Goeslaar",
+      "Groenlaren",
+      "Laren",
+      "Mellaar",
+      "Molem",
+      "Oostereinde",
+      "Rekhoven",
+      "Schalbroek",
+      "Thiewinkel"
+    ],
+    "buurgemeenten": [
+      "Beringen",
+      "Heusden-Zolder",
+      "Hasselt",
+      "Herk-de-Stad",
+      "Halen",
+      "Diest"
+    ],
+    "streek": "West-Limburg",
+    "inwoners": {
+      "aantal": 15447,
+      "jaar": 2026,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf"
+    },
+    "woonprofiel": "Lummen bestaat uit de deelgemeenten Lummen, Linkhout en Meldert en een reeks gehuchten zoals Genenbos, Geneiken, Gestel en Thiewinkel. De gemeente is bekend om het verkeersknooppunt waar de E313 en de E314 elkaar kruisen. Het heraangelegde Gemeenteplein vormt het centrum; daar staat op zaterdag de wekelijkse markt.",
+    "parkeerverbod": {
+      "procedure": "Inname openbaar domein",
+      "url": "https://www.lummen.be/inname-openbaar-domein",
+      "termijn": null,
+      "kostprijs": null,
+      "borden": null,
+      "opmerking": "De gemeentesite lummen.be kon niet automatisch geopend worden (robots-blokkade), dus termijn, kostprijs en bordenregeling zijn niet geverifieerd. Zoekresultaten tonen dat Lummen met een EagleBe-aanvraagformulier werkt (pagina 'Hoe het aanvraagformulier EagleBe invullen?', https://www.lummen.be/node/2212). Handmatig nakijken."
+    },
+    "adreswijzigingUrl": "https://www.lummen.be/wonen-en-werken/verhuizen/adreswijziging",
+    "recyclagepark": {
+      "naam": "Recyclagepark Lummen (Limburg.net)",
+      "adres": "Sint-Jakobusstraat 8, 3560 Lummen",
+      "url": "https://limburg.net/recyclagepark/recyclagepark-lummen"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Zaterdagmarkt op het Gemeenteplein, van 8 tot 13 uur (bron is markten.be; de gemeente heeft een pagina 'Zaterdagmarkt Lummen' die niet geopend kon worden).",
+        "bron": "https://markten.be/limburg/"
+      },
+      {
+        "tekst": "Lummen ligt aan het knooppunt van de E313 en de E314.",
+        "bron": "https://fr.wikipedia.org/wiki/Lummen"
+      },
+      {
+        "tekst": "Het recyclagepark van Limburg.net ligt in de Sint-Jakobusstraat 8.",
+        "bron": "https://limburg.net/recyclageparken/adressen"
+      }
+    ],
+    "bronnen": [
+      "https://www.lummen.be/inname-openbaar-domein",
+      "https://www.lummen.be/node/2212",
+      "https://www.lummen.be/wonen-en-werken/verhuizen/adreswijziging",
+      "https://www.lummen.be/zaterdagmarkt-lummen",
+      "https://www.vlaanderen.be/organisaties/gemeente-lummen",
+      "https://limburg.net/recyclageparken/adressen",
+      "https://markten.be/limburg/",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20260101.pdf",
+      "https://en.wikipedia.org/wiki/Lummen",
+      "https://fr.wikipedia.org/wiki/Lummen",
+      "https://www.openingsurengids.be/limburg/lummen",
+      "https://www.vrt.be/vrtnws/nl/2024/08/30/gemeenteplein-in-lummen-officieel-open-na-herinrichting/"
+    ]
+  },
+  {
+    "slug": "riemst",
+    "naam": "Riemst",
+    "officieleNaam": "Riemst",
+    "postcodes": [
+      "3770"
+    ],
+    "deelgemeenten": [
+      "Riemst",
+      "Genoelselderen",
+      "Herderen",
+      "Kanne",
+      "Membruggen",
+      "Millen",
+      "Val-Meer",
+      "Vlijtingen",
+      "Vroenhoven",
+      "Zichen-Zussen-Bolder",
+      "Heukelom",
+      "Elst",
+      "Lafelt"
+    ],
+    "wijken": [],
+    "buurgemeenten": [
+      "Tongeren-Borgloon",
+      "Bilzen-Hoeselt",
+      "Lanaken",
+      "Bitsingen (Bassenge)",
+      "Wezet (Visé)",
+      "Maastricht (NL)"
+    ],
+    "streek": "Haspengouw (Droog-Haspengouw, Mergelland)",
+    "inwoners": {
+      "aantal": 16921,
+      "jaar": 2025,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    },
+    "woonprofiel": "Riemst ligt in het zuiden van Limburg, tegen de grens met het Nederlandse Maastricht, en bestaat volgens de gemeente uit 12 kerkdorpen. De gemeente noemt zichzelf het hart van het Mergelland: eeuwenlang werden mergelblokken ontgonnen die gebruikt zijn voor woningen, kerken en hoeves. Het landschap is glooiend en open (Droog-Haspengouw) met vooral landbouwgrond, akkers, wijngaarden en boomgaarden.",
+    "parkeerverbod": {
+      "procedure": "Inname openbaar domein",
+      "url": "https://www.riemst.be/inname-openbaar-domein",
+      "termijn": "Minimaal 10 werkdagen vóór de startdatum; later ingediende aanvragen vallen onder de spoedprocedure",
+      "kostprijs": "Eerste twee weken gratis; daarna € 0,25/m² per dag voor de eerste zes maanden en € 0,50/m² per dag vanaf de zevende maand. Spoedprocedure: € 50 administratieve kost bovenop de retributie.",
+      "borden": "De aanvrager zelf. De gemeente voorziet sinds 1 juni geen signalisatie meer voor particulieren; uitlenen kan enkel nog aan Riemstse verenigingen voor evenementen.",
+      "opmerking": "Online aanvragen via het Eaglebe-platform: https://app.eaglebe.com/nl-be/new/man?client=e3796e161947afed1b66fb2795e136f2. Een verlenging van een goedgekeurde inname geldt niet als nieuwe aanvraag. Contact: dienst mobiliteit, mobiliteit@riemst.be, 012 44 03 36."
+    },
+    "adreswijzigingUrl": "https://www.riemst.be/aangifte-van-adreswijziging",
+    "recyclagepark": {
+      "naam": "Recyclagepark Riemst (Limburg.net)",
+      "adres": "Spaalderweg 5, 3770 Riemst",
+      "url": "https://limburg.net/recyclagepark/recyclagepark-riemst"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "De gemeente plaatst geen parkeerverbodsborden meer voor particulieren: je moet zelf voor correcte signalisatie zorgen (huren of kopen).",
+        "bron": "https://www.riemst.be/inname-openbaar-domein"
+      },
+      {
+        "tekst": "Een inname van het openbaar domein is de eerste twee weken gratis, maar wie minder dan 10 werkdagen vooraf aanvraagt betaalt € 50 spoedkost.",
+        "bron": "https://www.riemst.be/inname-openbaar-domein"
+      },
+      {
+        "tekst": "Riemst grenst aan Maastricht (Nederland) en aan de Waalse gemeenten Bitsingen en Wezet.",
+        "bron": "https://nl.wikipedia.org/wiki/Riemst"
+      },
+      {
+        "tekst": "Het recyclagepark van Limburg.net ligt aan de Spaalderweg 5.",
+        "bron": "https://limburg.net/recyclageparken/adressen"
+      }
+    ],
+    "bronnen": [
+      "https://www.riemst.be/",
+      "https://www.riemst.be/inname-openbaar-domein",
+      "https://www.riemst.be/over-riemst",
+      "https://www.riemst.be/Verhuizen",
+      "https://www.riemst.be/aangifte-van-adreswijziging",
+      "https://limburg.net/recyclageparken/adressen",
+      "https://limburg.net/recyclagepark/recyclagepark-riemst",
+      "https://nl.wikipedia.org/wiki/Riemst",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    ]
+  },
+  {
+    "slug": "houthalen-helchteren",
+    "naam": "Houthalen-Helchteren",
+    "officieleNaam": "Houthalen-Helchteren",
+    "postcodes": [
+      "3530"
+    ],
+    "deelgemeenten": [
+      "Houthalen",
+      "Helchteren"
+    ],
+    "wijken": [
+      "Houthalen-Centrum",
+      "Houthalen-Oost",
+      "Meulenberg",
+      "Laak",
+      "Lillo",
+      "Kwalaak",
+      "Sonnis"
+    ],
+    "buurgemeenten": [
+      "Hechtel-Eksel",
+      "Peer",
+      "Oudsbergen",
+      "Genk",
+      "Zonhoven",
+      "Heusden-Zolder",
+      "Beringen"
+    ],
+    "streek": "Kempen (Mijnstreek)",
+    "inwoners": {
+      "aantal": 30924,
+      "jaar": 2025,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    },
+    "woonprofiel": "Houthalen-Helchteren bestaat uit de deelgemeenten Houthalen en Helchteren, met rond het centrum van Houthalen de kernen Laak, Lillo, Meulenberg en Houthalen-Oost. Meulenberg is gekend om zijn mijnwerkerstuinwijken en is vergroeid met het centrum; Houthalen-Oost bestaat uit recentere verkavelingen en sluit aan op het Genkse Zwartberg. In Houthalen-Centrum zijn er rotatieparkings aan het John Cuppensplein, het Sint-Martinusplein en de Hekkelaar en laad- en loszones op het Sint-Martinusplein en in de Rode Kruislaan. Op woensdagvoormiddag is er markt op het plein voor het NAC.",
+    "parkeerverbod": {
+      "procedure": "Inname openbaar domein (bij verhuis, ...)",
+      "url": "https://www.houthalen-helchteren.be/inname-openbaar-domein-bij-verhuis",
+      "termijn": "Ten laatste 10 werkdagen voor je de stoep, fietspad, berm of parkeerplaats inneemt; bij een afsluiting of zware hinder kan het langer duren",
+      "kostprijs": "Retributie geldt voor innames langer dan 24 uur: € 12 basisbedrag per aanvraag plus per m² per dag € 0 (maximaal 1 dag), € 0,20 (1 tot 14 dagen), € 0,30 (langer dan 14 dagen, eerste 3 maanden), € 0,40 (volgende 3 maanden), € 0,60 (vanaf de zevende maand). Afsluiting voor doorgaand verkeer: € 250 per halve dag of € 500 per dag extra.",
+      "borden": "De aanvrager of verantwoordelijke zorgt zelf voor de verplichte wettelijke signalisatie en verlichting",
+      "opmerking": "Aanvragen via het Spotbooking-portaal: https://houthalen-helchteren.spotbooking.be/. Een container op openbaar domein moet wit-rode striping, een D1-bord en verlichting hebben. Na afloop moet het ingenomen domein netjes opgeruimd worden; herstelkosten kunnen doorgerekend worden."
+    },
+    "adreswijzigingUrl": "https://www.houthalen-helchteren.be/adreswijziging",
+    "recyclagepark": {
+      "naam": "Recyclagepark Houthalen-Helchteren (Limburg.net)",
+      "adres": "Europark 2014, 3530 Houthalen-Helchteren",
+      "url": "https://www.limburg.net/recyclagepark/recyclagepark-houthalen-helchteren"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Wekelijkse markt op woensdag van 8.00 tot 13.30 uur op het plein voor het NAC in Houthalen-Centrum.",
+        "bron": "https://www.houthalen-helchteren.be/agenda-markten-kermissen-braderieen"
+      },
+      {
+        "tekst": "Bestel- en vrachtwagens kunnen in Houthalen-Centrum terecht op twee laad- en loszones: Sint-Martinusplein en Rode Kruislaan.",
+        "bron": "https://www.houthalen-helchteren.be/parkeren"
+      },
+      {
+        "tekst": "Een inname van maximaal 1 dag (bv. een verhuis) valt buiten de retributie; het reglement geldt voor innames langer dan 24 uur.",
+        "bron": "https://www.houthalen-helchteren.be/inname-openbaar-domein-bij-verhuis"
+      },
+      {
+        "tekst": "Je adreswijziging meld je binnen 8 werkdagen na de verhuis, online via het digitaal loket of op afspraak bij Burgerzaken.",
+        "bron": "https://www.houthalen-helchteren.be/adreswijziging"
+      },
+      {
+        "tekst": "Er geldt een aanvullend reglement blauwe zone (goedgekeurd op 23 februari 2026); raadpleeg het reglement voor de exacte straten.",
+        "bron": "https://www.houthalen-helchteren.be/aanvullend-reglement-blauwe-zone"
+      }
+    ],
+    "bronnen": [
+      "https://www.houthalen-helchteren.be/",
+      "https://www.houthalen-helchteren.be/producten",
+      "https://www.houthalen-helchteren.be/inname-openbaar-domein-bij-verhuis",
+      "https://www.houthalen-helchteren.be/parkeren",
+      "https://www.houthalen-helchteren.be/agenda-markten-kermissen-braderieen",
+      "https://www.houthalen-helchteren.be/aanvullend-reglement-blauwe-zone",
+      "https://www.houthalen-helchteren.be/adreswijziging",
+      "https://limburg.net/recyclageparken/adressen",
+      "https://nl.wikipedia.org/wiki/Houthalen-Helchteren",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    ]
+  },
+  {
+    "slug": "bree",
+    "naam": "Bree",
+    "officieleNaam": "Bree",
+    "postcodes": [
+      "3960"
+    ],
+    "deelgemeenten": [
+      "Bree",
+      "Beek",
+      "Gerdingen",
+      "Opitter",
+      "Tongerlo"
+    ],
+    "wijken": [
+      "Vostert",
+      "Eetseveld",
+      "Panhoven",
+      "'t Hasselt"
+    ],
+    "buurgemeenten": [
+      "Kinrooi",
+      "Weert (NL)"
+    ],
+    "streek": "Kempen (Noord-Limburg)",
+    "inwoners": {
+      "aantal": 17199,
+      "jaar": 2025,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    },
+    "woonprofiel": "Bree is een stad met een historisch centrum binnen de kleine ring, aangevuld met de dorpen Beek, Gerdingen, Opitter en Tongerlo en historische gehuchten zoals de Vostert, het Eetseveld, de Panhoven en 't Hasselt. Bovengronds parkeren is overal gratis maar beperkt in tijd: 60 minuten in de centrumzone binnen de kleine ring (sensoren, geen bewonersvergunningen) en 2 uur met parkeerschijf in de blauwe zone tussen de kleine en de grote ring. Elke vrijdag is er markt in het centrum en geldt er in de centrumstraten een zonaal parkeerverbod van 6 tot 14 uur. De ondergrondse Centrumparking is 12 uur gratis.",
+    "parkeerverbod": {
+      "procedure": "Inname openbaar domein (met signalisatievergunning en/of parkeerverbod)",
+      "url": "https://www.bree.be/mobiliteit/vergunningen/inname-openbaar-domein-aanvragen",
+      "termijn": "In de meeste gevallen minstens 7 werkdagen vóór de geplande werken; minstens 10 werkdagen bij grotere verkeersimpact (straatafsluiting, eenrichtingsverkeer, omleiding); minstens 14 werkdagen als een buslijn van De Lijn moet omrijden",
+      "kostprijs": null,
+      "borden": "De aanvrager: je leent, huurt of koopt de signalisatiematerialen bij gespecialiseerde firma's, plaatst ze tijdig volgens plan en onderhoudt ze zolang de inname loopt",
+      "opmerking": "Online formulier: https://www.bree.be/online-aanvragen-inname-van-het-openbaar-domein (type aanvraag 'Verhuiswagen'; 1 parkeerplaats = 12 m²). Na goedkeuring ontvang je de vergunning en, indien van toepassing, een betaalverzoek en signalisatieplan volgens het retributiereglement. Voor een gewestweg moet je eerst een goedkeuring van het Agentschap Wegen en Verkeer hebben. Het afsluiten van de rijweg vereist een politiereglement en volgens het formulier een aanvraag minstens 3 weken vooraf. Contact: signalisatie@bree.be, 089 84 85 23."
+    },
+    "adreswijzigingUrl": "https://www.bree.be/wonen-en-welzijn/wonen/verhuizen/aangifte-van-adreswijziging",
+    "recyclagepark": {
+      "naam": "Geen eigen recyclagepark: inwoners kunnen terecht op alle recyclageparken van Limburg.net (bv. Peer, Kinrooi, Maaseik, Oudsbergen, Bocholt)",
+      "adres": null,
+      "url": "https://www.bree.be/wonen-en-welzijn/milieu/afval-en-materialen/recyclage/recyclageparken-limburgnet"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Vrijdagmarkt in het centrum van 8.00 tot 12.00 uur met ongeveer 85 vaste kramen.",
+        "bron": "https://www.bree.be/werken-en-ondernemen/ondernemers/markt/vrijdagmarkt"
+      },
+      {
+        "tekst": "Op vrijdag geldt in de centrumstraten een zonaal parkeerverbod van 6.00 tot en met 14.00 uur voor de markt; plan je verhuis in het centrum dus niet op vrijdagvoormiddag.",
+        "bron": "https://www.bree.be/nieuws/let-op-wijziging-signalisatie-parkeerverbod-op-wekelijkse-markt"
+      },
+      {
+        "tekst": "Centrumzone binnen de kleine ring: maximaal 60 minuten gratis parkeren, gecontroleerd met sensoren; overschrijding kost een parkeerretributie van € 20.",
+        "bron": "https://www.bree.be/mobiliteit/parkeren/bovengronds-parkeren"
+      },
+      {
+        "tekst": "Blauwe zone tussen de kleine en de grote ring: 2 uur parkeren met parkeerschijf.",
+        "bron": "https://www.bree.be/mobiliteit/parkeren/bovengronds-parkeren"
+      },
+      {
+        "tekst": "Het recyclagepark van Bree (Voortbemdenstraat) is sinds 4 september 2022 definitief gesloten; je kan naar elk park van Limburg.net.",
+        "bron": "https://www.bree.be/wonen-en-welzijn/milieu/afval-en-materialen/recyclage/recyclageparken-limburgnet"
+      }
+    ],
+    "bronnen": [
+      "https://www.bree.be/mobiliteit/vergunningen/inname-openbaar-domein-aanvragen",
+      "https://www.bree.be/online-aanvragen-inname-van-het-openbaar-domein",
+      "https://www.bree.be/wonen-en-welzijn/bouwloket/inname-openbaar-terrein-signalisatievergunning-enof-parkeerverbod",
+      "https://www.bree.be/wonen-en-welzijn/wonen/verhuizen/inname-openbaar-domein",
+      "https://www.bree.be/sites/default/files/2022-01/Retributiereglement%20-%20Inname%20van%20het%20openbaar%20domein%20-%20Reglement.pdf",
+      "https://www.bree.be/mobiliteit/parkeren/bovengronds-parkeren",
+      "https://www.bree.be/werken-en-ondernemen/ondernemers/markt/vrijdagmarkt",
+      "https://www.bree.be/nieuws/let-op-wijziging-signalisatie-parkeerverbod-op-wekelijkse-markt",
+      "https://www.bree.be/wonen-en-welzijn/wonen/verhuizen/aangifte-van-adreswijziging",
+      "https://www.bree.be/wonen-en-welzijn/milieu/afval-en-materialen/recyclage/recyclageparken-limburgnet",
+      "https://nl.wikipedia.org/wiki/Bree_(Belgi%C3%AB)",
+      "https://nl.wikipedia.org/wiki/Weert_(gemeente)",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    ]
+  },
+  {
+    "slug": "dilsen-stokkem",
+    "naam": "Dilsen-Stokkem",
+    "officieleNaam": "Dilsen-Stokkem",
+    "postcodes": [
+      "3650"
+    ],
+    "deelgemeenten": [
+      "Dilsen",
+      "Elen",
+      "Lanklaar",
+      "Rotem",
+      "Stokkem"
+    ],
+    "wijken": [],
+    "buurgemeenten": [
+      "Maaseik",
+      "As",
+      "Maasmechelen",
+      "Echt-Susteren (NL)",
+      "Sittard-Geleen (NL)",
+      "Stein (NL)"
+    ],
+    "streek": "Maasland",
+    "inwoners": {
+      "aantal": 21476,
+      "jaar": 2025,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    },
+    "woonprofiel": "Dilsen-Stokkem is een stad in het oosten van Limburg, tegen de Nederlandse grens die hier door de Maas wordt gevormd. De fusiegemeente telt vijf deelgemeenten (Dilsen, Elen, Lanklaar, Rotem en Stokkem); het stadhuis staat in de centrale kern Dilsen en Stokkem heeft al stadsrechten sinds 1244. Een deel van het Nationaal Park Hoge Kempen ligt op het grondgebied.",
+    "parkeerverbod": {
+      "procedure": "Signalisatievergunning / inname openbaar domein",
+      "url": "https://www.dilsen-stokkem.be/signalisatievergunning--inname-openbaar-domein",
+      "termijn": null,
+      "kostprijs": null,
+      "borden": null,
+      "opmerking": "Nodig voor onder meer 'een inname van parkeerplaatsen, stoepen en fietspaden voor plaatsen van verhuiswagen en -lift'. Online aanvragen via het e-loket: https://www.dilsen-stokkem.be/eloket/formulier/49/signalisatievergunning. De vergunning bepaalt welke verkeersborden en welk waarschuwingsmateriaal je moet plaatsen en hoe; de signalisatie moet de volledige duur in stand blijven. Contact: technische dienst, Europalaan 25, 089 79 08 27, td@dilsen-stokkem.be."
+    },
+    "adreswijzigingUrl": "https://www.dilsen-stokkem.be/adreswijziging",
+    "recyclagepark": {
+      "naam": "Containerpark Dilsen-Stokkem (stedelijk)",
+      "adres": "Heulentakstraat 22, 3650 Dilsen-Stokkem",
+      "url": "https://www.dilsen-stokkem.be/producten/detail/205/containerpark"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Voor een verhuiswagen of verhuislift op parkeerplaatsen, stoep of fietspad heb je een signalisatievergunning nodig, aan te vragen via het e-loket van de stad.",
+        "bron": "https://www.dilsen-stokkem.be/signalisatievergunning--inname-openbaar-domein"
+      },
+      {
+        "tekst": "Dilsen-Stokkem heeft een eigen stedelijk containerpark aan de Heulentakstraat 22 (geen Limburg.net-park).",
+        "bron": "https://www.dilsen-stokkem.be/producten/detail/205/containerpark"
+      },
+      {
+        "tekst": "Een adreswijziging kan je online doorgeven via het smartloket van de stad.",
+        "bron": "https://www.dilsen-stokkem.be/adreswijziging"
+      },
+      {
+        "tekst": "De Maas vormt de grens met Nederland; tussen Meeswijk en Berg is er een veerdienst.",
+        "bron": "https://nl.wikipedia.org/wiki/Dilsen-Stokkem"
+      }
+    ],
+    "bronnen": [
+      "https://www.dilsen-stokkem.be/",
+      "https://www.dilsen-stokkem.be/mobiliteit-and-openbare-werken",
+      "https://www.dilsen-stokkem.be/signalisatievergunning--inname-openbaar-domein",
+      "https://www.dilsen-stokkem.be/adreswijziging",
+      "https://www.dilsen-stokkem.be/producten/detail/205/containerpark",
+      "https://www.dilsen-stokkem.be/ambulante-activiteiten",
+      "https://nl.wikipedia.org/wiki/Dilsen-Stokkem",
+      "https://nl.wikipedia.org/wiki/Sittard-Geleen",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    ]
+  },
+  {
+    "slug": "kinrooi",
+    "naam": "Kinrooi",
+    "officieleNaam": "Kinrooi",
+    "postcodes": [
+      "3640"
+    ],
+    "deelgemeenten": [
+      "Kinrooi",
+      "Kessenich",
+      "Molenbeersel",
+      "Ophoven",
+      "Geistingen"
+    ],
+    "wijken": [],
+    "buurgemeenten": [
+      "Bree",
+      "Maaseik",
+      "Weert (NL)"
+    ],
+    "streek": "Maasland",
+    "inwoners": {
+      "aantal": 12515,
+      "jaar": 2025,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    },
+    "woonprofiel": "Kinrooi is de meest noordoostelijke gemeente van België en bestaat uit de deelgemeenten Kinrooi, Kessenich, Molenbeersel en Ophoven, met Geistingen als kerkdorp van Ophoven. De Maasplassen, ontstaan door grindwinning vanaf de jaren 1950, zijn ingericht voor watersport, natuur en landbouw; in Ophoven ligt jachthaven De Spaanjerd. Vanuit Kinrooi loopt de N762 naar het Nederlandse Weert en naar Maaseik en de N73 naar Bree en Kessenich.",
+    "parkeerverbod": {
+      "procedure": "Tijdelijk politiereglement particulieren (parkeerverbod voor het opstellen van verhuiswagen, kraan, ...)",
+      "url": "https://www.kinrooi.be/tijdelijk-politiereglement",
+      "termijn": "Zes weken op voorhand",
+      "kostprijs": null,
+      "borden": null,
+      "opmerking": "Particulieren vragen het per mail aan via technischedienst@kinrooi.be. Voor werken die het verkeer of het openbaar domein hinderen bestaat daarnaast de 'signalisatievergunning voor werken' (https://www.kinrooi.be/signalisatievergunning-werken): minstens 10 werkdagen vooraf met aanvraagformulier en signalisatieplan, en de aanvrager zorgt zelf voor de signalisatie. Contact dienst ruimte: Breeërsteenweg 146, 089 70 03 00."
+    },
+    "adreswijzigingUrl": "https://www.kinrooi.be/adreswijziging-aanvraag",
+    "recyclagepark": {
+      "naam": "Recyclagepark Kinrooi (Limburg.net)",
+      "adres": "Breeërsteenweg 132, 3640 Kinrooi",
+      "url": "https://www.kinrooi.be/recyclagepark"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Een parkeerverbod voor een verhuiswagen vraag je als particulier per mail aan bij de technische dienst, zes weken op voorhand.",
+        "bron": "https://www.kinrooi.be/tijdelijk-politiereglement"
+      },
+      {
+        "tekst": "Op donderdag (8 tot 15 uur) is er een vaste standplaats voor ambulante handel op het Dorpsplein.",
+        "bron": "https://www.kinrooi.be/ambulante-handel"
+      },
+      {
+        "tekst": "Adreswijziging kan online via het e-loket van de gemeente (https://kinrooi.egovflow.be/new/BV-A-019).",
+        "bron": "https://www.kinrooi.be/thema/detail/2942/verhuizen"
+      },
+      {
+        "tekst": "Het recyclagepark aan de Breeërsteenweg 132 wordt uitgebaat door Limburg.net.",
+        "bron": "https://www.kinrooi.be/recyclagepark"
+      }
+    ],
+    "bronnen": [
+      "https://www.kinrooi.be/",
+      "https://www.kinrooi.be/veiligheid_verkeer",
+      "https://www.kinrooi.be/tijdelijk-politiereglement",
+      "https://www.kinrooi.be/signalisatievergunning-werken",
+      "https://www.kinrooi.be/thema/detail/2942/verhuizen",
+      "https://www.kinrooi.be/adreswijziging-aanvraag",
+      "https://www.kinrooi.be/recyclagepark",
+      "https://www.kinrooi.be/ambulante-handel",
+      "https://limburg.net/recyclageparken/adressen",
+      "https://nl.wikipedia.org/wiki/Kinrooi",
+      "https://nl.wikipedia.org/wiki/Weert_(gemeente)",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    ]
+  },
+  {
+    "slug": "alken",
+    "naam": "Alken",
+    "officieleNaam": "Alken",
+    "postcodes": [
+      "3570"
+    ],
+    "deelgemeenten": [
+      "Alken-Centrum",
+      "Sint-Joris",
+      "Terkoest"
+    ],
+    "wijken": [
+      "Stationsbuurt",
+      "Blekkenberg",
+      "Buls",
+      "Hemelsveld",
+      "Hulzen",
+      "Nachtegaal",
+      "Paradijs",
+      "Plein",
+      "Rozenkrans",
+      "Ter Linden",
+      "Waterkant",
+      "Wolfke",
+      "Zwarte Winning"
+    ],
+    "buurgemeenten": [
+      "Hasselt",
+      "Wellen",
+      "Sint-Truiden",
+      "Nieuwerkerken"
+    ],
+    "streek": "Haspengouw (Vochtig-Haspengouw, fruitstreek)",
+    "inwoners": {
+      "aantal": 11934,
+      "jaar": 2025,
+      "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    },
+    "woonprofiel": "Alken ligt net ten zuiden van Hasselt in de Haspengouwse fruitstreek en heeft geen deelgemeenten, wel drie dorpskernen: Alken-Centrum, Sint-Joris en Terkoest. Ongeveer de helft van de inwoners woont in Alken-Centrum, waar ook het gemeentehuis en de meeste winkels liggen. Op vrijdagnamiddag is er markt op het Laagdorp.",
+    "parkeerverbod": {
+      "procedure": "Vergunning voor inname gemeentelijk domein en (bijhorende) signalisatievergunning",
+      "url": "https://www.alken.be/inname-gemeentelijk-domein-signalisatievergunning",
+      "termijn": "Minstens 14 werkdagen vóór de aanvang van de inname",
+      "kostprijs": "Per dag volgens oppervlakte: € 1 (tot 5 m²), € 5 (meer dan 5 tot 25 m²), € 10 (meer dan 25 tot 50 m²), € 15 (meer dan 50 tot 75 m²), € 20 (meer dan 75 m²). Minimumbedrag van € 25 voor onder meer verhuis, werfinrichting, containers en leveringen. Innames van maximaal 24 uur zijn vrijgesteld.",
+      "borden": "Bij een verhuis plaatsen de gemeentediensten de parkeerverbodsborden en halen ze na afloop weer op; alle andere signalisatie voorziet de aanvrager zelf",
+      "opmerking": "Online formulier inname: https://cloud.iod-evenementen.be/webformulier_iod/Index.aspx?niscode=73001. Voeg een situatie- of schetsplan en signalisatieplan toe. Na goedkeuring krijg je een betaalverzoek; de vergunning volgt na betaling. Verwittig de buren minstens 7 dagen vooraf. Contact: deskundige mobiliteit, 011 88 88 42."
+    },
+    "adreswijzigingUrl": "https://www.alken.be/adreswijziging",
+    "recyclagepark": {
+      "naam": "Recyclagepark Alken (Limburg.net)",
+      "adres": "Groenmolenstraat 24b, 3570 Alken",
+      "url": "https://www.alken.be/recyclagepark"
+    },
+    "bijzonderheden": [
+      {
+        "tekst": "Wekelijkse markt elke vrijdag van 13 tot 17 uur op het Laagdorp.",
+        "bron": "https://www.alken.be/wekelijkse-markt"
+      },
+      {
+        "tekst": "Bij een verhuis plaatst de gemeente zelf de parkeerverbodsborden en haalt ze nadien weer op.",
+        "bron": "https://www.alken.be/inname-gemeentelijk-domein-signalisatievergunning"
+      },
+      {
+        "tekst": "De aanvraag voor een inname moet minstens 14 werkdagen vooraf binnen zijn en je moet de buren minstens 7 dagen vooraf verwittigen.",
+        "bron": "https://www.alken.be/inname-gemeentelijk-domein-signalisatievergunning"
+      },
+      {
+        "tekst": "Het recyclagepark van Limburg.net ligt aan de Groenmolenstraat 24b.",
+        "bron": "https://www.alken.be/openingsurenrecyclagepark"
+      }
+    ],
+    "bronnen": [
+      "https://www.alken.be/",
+      "https://www.alken.be/inname-gemeentelijk-domein-signalisatievergunning",
+      "https://www.alken.be/burgerzaken-",
+      "https://www.alken.be/adreswijziging-beroepswijziging",
+      "https://www.alken.be/adreswijziging",
+      "https://www.alken.be/recyclagepark",
+      "https://www.alken.be/openingsurenrecyclagepark",
+      "https://www.alken.be/wekelijkse-markt",
+      "https://limburg.net/recyclageparken/adressen",
+      "https://nl.wikipedia.org/wiki/Alken_(Belgi%C3%AB)",
+      "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+    ]
+  }
+]
