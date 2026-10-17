@@ -106,7 +106,57 @@
       "https://dbpedia.org/page/Diepenbeek",
       "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf",
       "https://limburg.be/node/661",
-      "https://limburg.net/recyclageparken/adressen"
+      "https://limburg.net/recyclageparken/adressen",
+      "https://www.hasselt.be/nl/bewonersparkeren",
+      "https://www.vlaanderen.be/lage-emissiezones-lez",
+      "https://www.rijksregister.fgov.be/sites/default/files/documents/nl/bevolking/statistieken/stat-2-1_n.pdf",
+      "https://www.vrt.be/vrtnws/nl/2024/09/18/hasselt-betaalbaar-wonen/",
+      "https://blauweboulevard.hasselt.be/nl",
+      "https://www.vrt.be/vrtnws/nl/2025/05/27/sociale-huisvestingsmaatschappij-wil-55-sociale-huurwoningen-bou/",
+      "https://www.vrt.be/vrtnws/nl/2023/11/28/gelatinewijk/",
+      "https://documentserver.uhasselt.be/bitstream/1942/47778/1/Jaarverslag%20Studentenvoorzieningen%202024.pdf",
+      "https://www.uhasselt.be/en/about-hasselt-university/contact/campus-hasselt",
+      "https://citypopulation.de/en/belgium/places/limburg/71072__hasselt"
+    ],
+    "lokaal": [
+      {
+        "kop": "Een verhuiswagen in de binnenstad van Hasselt",
+        "alineas": [
+          "Binnen de kleine ring (Groene Boulevard) kan je alleen tussen 7 en 11 uur laden en lossen: dan staan de verzinkbare palen omlaag. Moet de verhuiswagen er buiten die uren staan, dan vraag je een inname openbaar domein aan en krijg je bij goedkeuring een doorlaatbewijs voor de palen. In een aantal straten geldt bovendien een tonnagebeperking of vrachtwagenverbod, en voor innames in de binnenstad is de lengte beperkt tot 10 meter. Bespreek dus vooraf met je verhuisfirma welke wagen ze meebrengen.",
+          "De aanvraag loopt via Spotbooking of via de Verkeerswinkel in stadhuis 't Scheep. Reken op 5 werkdagen voor het reserveren van parkeerplaatsen en 10 werkdagen zodra stoep, fietspad of rijbaan gehinderd worden. De stad plaatst de parkeerverbodsborden zelf: in de binnenstad minstens 24 uur vooraf, daarbuiten 48 uur. De retributie hangt af van de zone: € 2,50 per m² per dag binnen en op de kleine ring, € 1 tussen de kleine en de grote ring en € 0,50 daarbuiten, plus € 25 voor de borden. Een verhuiswagen van 25 m² op een parkeerplaats in het centrum kost zo € 87,50 voor één dag."
+        ],
+        "bron": "https://www.hasselt.be/nl/laden-en-lossen"
+      },
+      {
+        "kop": "Parkeren na je verhuis",
+        "alineas": [
+          "Hasselt heeft geen lage-emissiezone; in Vlaanderen hebben alleen Antwerpen en Gent er een. Woon je binnen de grote ring, dan vraag je een bewonersparkeervergunning aan om onbeperkt op straat te parkeren in de parkeerzone bij je woning. Daarnaast krijgt elk gezin een parkeerbudget van 100 gratis uren per jaar op de parkings Cultuurcentrum, Astrid en Dusartplein. De parking onder de Blauwe Boulevard is volgens de stad de goedkoopste ondergrondse parking vlak aan de binnenstad."
+        ],
+        "bron": "https://www.hasselt.be/nl/bewonersparkeren"
+      },
+      {
+        "kop": "Wonen in Hasselt sinds de fusie met Kortessem",
+        "alineas": [
+          "Sinds 1 januari 2025 vormen Hasselt en Kortessem één gemeente; op 1 augustus 2026 telde die 91.607 inwoners. Het zwaartepunt ligt in de stad zelf met ongeveer 52.000 inwoners, gevolgd door Kuringen (11.500), Sint-Lambrechts-Herk en Kermt (elk rond 4.700), Kortessem en Stevoort (elk rond 3.700). De kleinste kernen, Wimmertingen en Wintershoven, tellen minder dan duizend inwoners. Een verhuis binnen de gemeente kan dus evengoed van een appartement in het centrum naar een vrijstaande woning in Haspengouw zijn, en dat verschil zie je in de offerte: de rijtijd van het depot telt mee.",
+          "Hasselt telt ongeveer 42.000 woningen. In 2024 lag de mediaanprijs van een huis op € 321.500 en van een appartement op € 250.375; een appartement huren kostte gemiddeld € 811 per maand. Het grootste nieuwe woongebied is de Blauwe Boulevard rond de kanaalkom, de vroegere industriële zone met de kolenhaven, de gasfabriek en de gelatinefabriek. De wijk Quartier Bleu is er grotendeels bewoond, de Gelatinewijk met ongeveer honderd appartementen volgt in fasen en Wonen in Limburg bouwt er vanaf eind 2026 een blok met 55 sociale huurappartementen. Verhuis je naar zo'n nieuwbouwappartement, vraag dan vooraf bij de syndicus of beheerder waar een verhuislift of wagen mag staan."
+        ],
+        "bron": "https://blauweboulevard.hasselt.be/nl"
+      },
+      {
+        "kop": "Studentenstad: druk in september",
+        "alineas": [
+          "UHasselt telde in 2024-2025 7.654 studenten, waarvan 2.405 op kot. In Hasselt zelf zijn er 858 geregistreerde kamers en studio's, in buurgemeente Diepenbeek 1.721. Een kamer kostte in 2024 gemiddeld € 362 per maand, een studio € 482. Daarbij komen de studenten van PXL met campussen aan de Elfde Linie, de Vildersstraat en de Guffenslaan. Eind juni en in september verhuizen honderden studenten tegelijk; wie dan een verhuisfirma of lift nodig heeft, boekt best een maand vooraf."
+        ],
+        "bron": "https://documentserver.uhasselt.be/bitstream/1942/47778/1/Jaarverslag%20Studentenvoorzieningen%202024.pdf"
+      },
+      {
+        "kop": "Adreswijziging, afval en vervoer in Hasselt",
+        "alineas": [
+          "Je adreswijziging meld je binnen 8 dagen, online via het e-loket of de MijnHasselt-app. De wijkagent komt gemiddeld binnen twee weken onaangekondigd langs, daarna laat je binnen de maand je identiteitskaart aanpassen in stadhuis 't Scheep aan het Limburgplein. Voor afval heeft Hasselt eigen stedelijke recyclageparken in Kuringen en Sint-Lambrechts-Herk en een minirecyclagepark aan de Industrieweg in Kortessem voor kleine hoeveelheden. Herbruikbare meubels gaan naar De Kringwinkel Okazi aan de Sint-Truidersteenweg 150.",
+          "Verhuis je zonder auto, dan is het station de spil: er rijden elk uur rechtstreekse treinen naar Antwerpen, Brugge, Brussel, Gent, Leuven en Luik, en het stadsnet van De Lijn (lijnen 1 tot 7) rijdt de hele dag om het halfuur, met de Boulevardpendel om de 5 minuten tussen het station en het Kolonel Dusartplein."
+        ],
+        "bron": "https://www.hasselt.be/nl/aangifte-adreswijziging-verhuis"
+      }
     ]
   },
   {
@@ -207,7 +257,48 @@
       "https://dbpedia.org/page/Genk",
       "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf",
       "https://limburg.be/node/661",
-      "https://limburg.net/recyclageparken/adressen"
+      "https://limburg.net/recyclageparken/adressen",
+      "https://www.genk.be/parkeren-bewoners",
+      "https://www.genk.be/met-de-wagen",
+      "https://www.genk.be/openbaar-vervoer",
+      "https://www.genk.be/onthaalloket",
+      "https://www.vlaanderen.be/lage-emissiezones-lez",
+      "https://www.vrt.be/vrtnws/nl/2026/06/15/genk-verkoopt-voor-1-2-miljoen-euro-strategische-gronden-voor-wo/",
+      "https://www.vrt.be/vrtnws/nl/2026/09/28/nmbs-voert-vanaf-december-extra-treinen-in-tussen-hasselt-genk/",
+      "https://documentserver.uhasselt.be/bitstream/1942/47778/1/Jaarverslag%20Studentenvoorzieningen%202024.pdf",
+      "https://en.wikipedia.org/wiki/List_of_protected_heritage_sites_in_Genk"
+    ],
+    "lokaal": [
+      {
+        "kop": "Een verhuiswagen in het centrum van Genk",
+        "alineas": [
+          "De voetgangerszones in het centrum zijn afgesloten met verzinkbare palen. Laden en lossen mag er voor iedereen alleen tussen 7 en 12 uur; daarbuiten is het verboden en parkeren mag er nooit. Komt de verhuiswagen of de lift op straat te staan, dan vraag je de inname openbaar domein minstens 10 werkdagen vooraf aan via het online formulier. De stad maakt de vergunning bij een tijdige aanvraag binnen twee à drie werkdagen in orde, maar levert ze pas af na betaling. Te laat aanvragen kost een vaste regularisatiekost van € 100.",
+          "De eerste dag van de inname is gratis, van dag 2 tot 14 betaal je € 10 per dag. De parkeerverbodsborden plaatst de technische dienst van de stad voor een forfait van € 50; zelf borden zetten mag niet. Op donderdag (markt in het centrum) en zaterdag (versmarkt in de Vennestraat) worden geen innames in het centrum toegestaan. Komt de verhuiswagen van Antwerpen of Brussel, neem dan afrit 31 (Genk-Centrum); vanuit Nederland afrit 32 (Genk-Oost); vanuit Luik via de E313 afrit 30 (Diepenbeek)."
+        ],
+        "bron": "https://www.genk.be/FAQ-openbaar-domein-innemen"
+      },
+      {
+        "kop": "Parkeren als bewoner",
+        "alineas": [
+          "In de rode betalende zone in het centrum kan je als bewoner niet voor je eigen deur parkeren, maar in vier toegewezen zones: de Nieuwstraat (nummers 20 tot 26), de Winterslagstraat aan het Lourdeskapelpark, de Reinpadstraat (10 tot 14) en de grindparking aan de Europalaan. Een eerste bewonersvergunning kost er € 200 per jaar, een tweede € 250. In de blauwe zone is de eerste vergunning gratis en de tweede € 250. Per adres zijn maximaal twee vergunningen mogelijk; ze staan op de nummerplaat en je verlengt ze jaarlijks. Genk heeft geen lage-emissiezone."
+        ],
+        "bron": "https://www.genk.be/parkeren-bewoners"
+      },
+      {
+        "kop": "Wonen in Genk: één stad, dertig wijken",
+        "alineas": [
+          "Genk telde op 1 januari 2025 68.038 inwoners, verdeeld over dertig wijken en geen enkele deelgemeente. De stad groeide rond de drie steenkoolmijnen van Winterslag, Waterschei en Zwartberg; het hoofdgebouw van de mijn van Winterslag aan de Evence Coppéelaan is beschermd erfgoed. De stad verkocht in 2026 gronden aan de André Dumontlaan voor een nieuw woonproject met 40 tot 45 woningen, een mix van sociale huur, koopwoningen en private appartementen. Studenten zijn er weinig: het Limburgse kamerbestand telt 201 kamers en studio's in Genk, tegenover 858 in Hasselt."
+        ],
+        "bron": "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf"
+      },
+      {
+        "kop": "Adreswijziging, afval en vervoer in Genk",
+        "alineas": [
+          "Je adreswijziging meld je binnen 8 dagen, bij voorkeur online via het e-loket, maar het kan ook telefonisch of aan de snelbalie in het stadhuis aan het Stadsplein 1. Na het bezoek van de wijkinspecteur wacht je minstens 3 werkdagen en laat je je identiteitskaart aanpassen aan de snelbalie, zonder afspraak. Anderstalige nieuwkomers kunnen op woensdagnamiddag op afspraak terecht bij het onthaalloket in het stadhuis.",
+          "Genk heeft twee recyclageparken: Genk-Zuid aan Bosdel 36 en Genk-Noord aan de Horizonlaan 7, allebei gesloten op maandag. Op hetzelfde adres als Genk-Zuid vind je kringloopwinkel Reset, handig om een rit te combineren. Het station van Genk is het eindpunt van de IC-lijn uit Blankenberge, Brugge, Gent, Brussel en Leuven; dagelijks stappen er een kleine 2.000 reizigers op. De stadslijnen 1 tot 7 van De Lijn verbinden het centrum met de woonwijken. Vanaf december 2026 rijdt de laatste trein van Genk naar Hasselt om 22.06 uur."
+        ],
+        "bron": "https://www.genk.be/adreswijziging"
+      }
     ]
   },
   {
@@ -314,7 +405,49 @@
       "https://fr.wikipedia.org/wiki/Saint-Trond",
       "https://dbpedia.org/page/Sint-Truiden",
       "https://www.ibz.rrn.fgov.be/sites/default/files/documents/fr/population/statistiques/population-bevolking-20250101.pdf",
-      "https://limburg.be/node/661"
+      "https://limburg.be/node/661",
+      "https://www.sint-truiden.be/parkeerbeleid",
+      "https://www.sint-truiden.be/parkeren-bewoners",
+      "https://www.sint-truiden.be/burgerzaken",
+      "https://www.vlaanderen.be/lage-emissiezones-lez",
+      "https://www.vrt.be/vrtnws/nl/2025/11/21/parkeerbeleid-sint-truiden/",
+      "https://www.vrt.be/vrtnws/nl/2026/01/24/provincie-keurt-project-dellingweide-goed-180-woningen-aan-de-r/",
+      "https://www.vrt.be/vrtnws/nl/2026/04/21/stadskantoor-sluit-definitief-sint-truiden-gazo-site/",
+      "https://www.vrt.be/vrtnws/nl/2026/09/28/nmbs-voert-vanaf-december-extra-treinen-in-tussen-hasselt-genk/",
+      "https://citypopulation.de/en/belgium/places/limburg/"
+    ],
+    "lokaal": [
+      {
+        "kop": "Een verhuiswagen in de binnenstad van Sint-Truiden",
+        "alineas": [
+          "Sinds 1 oktober 2026 mogen goederenvoertuigen boven 3,5 ton het kerngebied van de binnenstad alleen inrijden tussen 6 en 10.30 uur. Voor kleinere bestelwagens verandert er niets. Heb je een geldige vergunning voor een inname openbaar domein voor je verhuis, dan krijg je een uitzondering en kan de nummerplaat van de verhuiswagen aan die vergunning gekoppeld worden. Zeg dus bij je aanvraag welke wagen komt.",
+          "De inname vraag je online aan: minstens 10 werkdagen vooraf als je alleen enkele parkeerplaatsen nodig hebt, minstens 20 werkdagen als de rijbaan afgesloten moet worden. Een spoedprocedure is mogelijk. Na online betaling volgen de vergunning en de factuur automatisch, en de stadsdiensten plaatsen de borden uiterlijk 2 werkdagen vooraf. Ligt je straat op een gewestweg, dan heb je een vergunning van het Agentschap Wegen en Verkeer nodig in plaats van de stad. Op zaterdagvoormiddag staat de Haspengouw Markt op de Grote Markt en de pleinen errond; voertuigen zijn dan verboden in de marktzone."
+        ],
+        "bron": "https://www.sint-truiden.be/venstertijden"
+      },
+      {
+        "kop": "Parkeren na je verhuis",
+        "alineas": [
+          "Sinds 30 april 2026 is het centrum ingedeeld in drie zones. In de paarse zone in het hart van de stad betaal je € 3 per uur en mag je maximaal 2 uur per dagdeel staan; daar kan je ook met een bewonerskaart niet parkeren. In de oranje zone is het € 2 per uur voor maximaal 4 uur, in de blauwe zone parkeer je gratis met de schijf voor 2 uur. Betalend parkeren geldt van 9 tot 19 uur. Een bewonerskaart voor de blauwe zone kost € 75 per jaar (tweede kaart € 200), voor de oranje zone € 150 (tweede € 300); met een oranje kaart mag je ook onbeperkt in de blauwe zone staan. Gratis parkeren kan op de randparkings Veemarkt, Begijnhof en Schurhoven. De stad telt ongeveer 3.800 parkeerplaatsen, waarvan zo'n 2.000 gratis. Sint-Truiden heeft geen lage-emissiezone."
+        ],
+        "bron": "https://www.sint-truiden.be/parkeren-bewoners"
+      },
+      {
+        "kop": "Wonen in Sint-Truiden en de deelgemeenten",
+        "alineas": [
+          "Sint-Truiden telde op 1 januari 2025 41.722 inwoners. Ongeveer 24.600 daarvan wonen in de stad zelf; de grootste deelgemeenten zijn Zepperen (rond 3.600 inwoners), Brustem (2.750) en Velm (2.500), gevolgd door Gelinden en Wilderen met elk rond 1.500. De kleinste kernen, zoals Duras, Gorsem, Runkelen en Halmaal, tellen rond 400 inwoners. Het nieuwste grote woonproject is Dellingweide, met 180 woongelegenheden tussen de Aalsterweg en de Brukskensweg, vlak bij het centrum, goedgekeurd begin 2026.",
+          "Let op als je naar het stadskantoor moet: het gebouw in de Kazernestraat is in 2026 definitief gesloten. De dienstverlening, met een snelloket voor je identiteitskaart, zit tijdelijk op de GAZO-site aan de Gazometerstraat 9, op wandelafstand van het station en het centrum, met één uur gratis parkeren in de ondergrondse parking."
+        ],
+        "bron": "https://www.sint-truiden.be/burgerzaken"
+      },
+      {
+        "kop": "Adreswijziging, afval en vervoer in Sint-Truiden",
+        "alineas": [
+          "Je adreswijziging meld je ten laatste 8 werkdagen na de verhuis, online via het e-loket of op afspraak bij Burgerzaken aan de Gazometerstraat 9 (011 70 14 24). De wijkagent komt binnen twee weken langs. Het recyclagepark aan de Nijverheidslaan 5410 is een stedelijk park, geen park van Limburg.net: het is gesloten op maandag, op dinsdag, donderdag en vrijdag kom je enkel op afspraak, op woensdag en zaterdag is er vrije toegang. Herbruikbare spullen gaan naar De Kringwinkel Okazi aan de Naamsesteenweg 239.",
+          "Het station ligt op de lijn Landen-Hasselt en wordt bediend door de IC-trein van de kust over Brussel en Leuven naar Hasselt en Genk. De NMBS bouwt er een nieuwe onderdoorgang met hellingen naar elk perron, zodat het station ook zonder hulp toegankelijk wordt voor wie slecht te been is."
+        ],
+        "bron": "https://www.sint-truiden.be/adres-wijzigen"
+      }
     ]
   },
   {

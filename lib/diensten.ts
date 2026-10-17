@@ -85,7 +85,7 @@ export const diensten: Dienst[] = [
       },
       {
         vraag: "Wat als er iets beschadigd raakt?",
-        antwoord: `Zichtbare schade meld je meteen bij de aflevering. Schade die je pas later ziet, meld je volgens de sectorvoorwaarden binnen 2 werkdagen per e-mail of aangetekende brief.`,
+        antwoord: `Zichtbare schade meld je meteen bij de aflevering. Schade die je pas later ziet, meld je volgens de BKV-voorwaarden binnen 3 werkdagen per e-mail of aangetekende brief.`,
       },
     ],
   },
