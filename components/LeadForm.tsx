@@ -13,11 +13,11 @@ type Props = {
 };
 
 /**
- * Offerteformulier zonder JavaScript: het post rechtstreeks naar FormSubmit.co
+ * Offerteformulier zonder JavaScript: het post rechtstreeks naar Formspree
  * en stuurt door naar /bedankt. Alleen naam en telefoon zijn verplicht.
  */
 export function LeadForm({ bron, titel = "Vraag een vrijblijvende offerte aan", gemeente, dienst, id = "offerte" }: Props) {
-  const actie = site.leadEmail ? `https://formsubmit.co/${site.leadEmail}` : "/bedankt";
+  const actie = site.formspreeId ? `https://formspree.io/f/${site.formspreeId}` : "/bedankt";
   return (
     <form id={id} action={actie} method="POST" className="rounded-xl border-2 border-ink bg-white p-5 shadow-[6px_6px_0_0_#132238] sm:p-7">
       <p className="etiket">Gratis en vrijblijvend</p>
@@ -28,11 +28,10 @@ export function LeadForm({ bron, titel = "Vraag een vrijblijvende offerte aan", 
 
       <input type="hidden" name="_subject" value={`Offerteaanvraag verhuis via ${bron}`} />
       <input type="hidden" name="_next" value={`${site.url}/bedankt`} />
-      <input type="hidden" name="_template" value="table" />
-      <input type="hidden" name="_captcha" value="false" />
+      <input type="hidden" name="_language" value="nl" />
       <input type="hidden" name="pagina" value={bron} />
       {/* Honeypot tegen spam: echte bezoekers zien dit veld niet. */}
-      <input type="text" name="_honey" tabIndex={-1} autoComplete="off" className="hidden" aria-hidden="true" />
+      <input type="text" name="_gotcha" tabIndex={-1} autoComplete="off" className="hidden" aria-hidden="true" />
 
       <div className="mt-5 grid gap-4 sm:grid-cols-2">
         <div>

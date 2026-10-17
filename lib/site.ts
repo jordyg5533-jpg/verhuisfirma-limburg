@@ -10,9 +10,9 @@ export const site = {
   land: "BE",
   taal: "nl-BE",
 
-  // Waar offerteaanvragen naartoe gaan (FormSubmit.co). Bevestig het adres
-  // één keer via de activatiemail van FormSubmit voor je live gaat.
-  leadEmail: "info@jgscale.be",
+  // Formspree-formulier "verhuisfirma limburg" (formspree.io). De aanvragen
+  // komen aan op het e-mailadres dat in Formspree bij dit formulier staat.
+  formspreeId: "mnpjwrna",
 
   // Vul in zodra er een eigen oproepnummer is. Leeg = nergens getoond.
   telefoon: "",

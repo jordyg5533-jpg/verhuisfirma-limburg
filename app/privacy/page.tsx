@@ -41,7 +41,7 @@ export default function Privacy() {
 
           <h2 className="mt-10">Wie ontvangt je gegevens?</h2>
           <p className="mt-3">
-            De verhuisfirma die je offerte maakt, en de dienst FormSubmit die het formulier technisch verwerkt en
+            De verhuisfirma die je offerte maakt, en de dienst Formspree die het formulier technisch verwerkt en
             naar ons doormailt.
           </p>
 

@@ -5,7 +5,7 @@ Gids en aanvraagsite over verhuizen in Belgisch Limburg. Next.js (app router), a
 - 24 gemeentepagina's (`/hasselt`, `/genk`, ...) met de regels van de gemeente voor het parkeerverbod
 - 9 dienstpagina's (`/diensten/...`) met richtprijzen
 - 9 gidsen (`/kennis/...`)
-- Offerteformulier zonder JavaScript, via FormSubmit.co
+- Offerteformulier zonder JavaScript, via Formspree
 
 ## Starten
 
@@ -19,7 +19,7 @@ npm run build    # controle: 55 statische pagina's
 
 | Bestand | Inhoud |
 | --- | --- |
-| `lib/site.ts` | Naam, domein, e-mail voor leads, telefoon, uitgever. Alles wat je moet invullen staat hier. |
+| `lib/site.ts` | Naam, domein, Formspree-id, telefoon, uitgever. Alles wat je moet invullen staat hier. |
 | `lib/data/gemeenten.json` | Feiten per gemeente, met bron per feit. |
 | `lib/prijzen.ts` | Alle prijstabellen, met bron per tabel. |
 | `lib/diensten.ts` | Tekst van de dienstpagina's. |
@@ -39,7 +39,7 @@ Niet live zetten voor deze punten in orde zijn.
 1. **Een verhuisfirma die de aanvragen krijgt.** De site belooft dat een aanvraag bij een verhuisfirma terechtkomt. Zonder partner klopt die belofte niet.
 2. **Domein registreren** en `url` aanpassen in `lib/site.ts`. Nu staat er `www.verhuisfirmalimburg.be`, dat nog niet geregistreerd is.
 3. **Uitgever invullen** in `lib/site.ts` (naam, ondernemingsnummer, adres, e-mail). Dat is wettelijk verplicht en de privacyverklaring verwijst ernaar.
-4. **FormSubmit activeren.** De eerste aanvraag naar `leadEmail` stuurt een activatiemail. Bevestig die, en doe daarna een echte testaanvraag.
+4. **Formspree testen.** Het formulier post naar het Formspree-formulier met id `formspreeId` in `lib/site.ts`. Doe één testaanvraag en controleer dat de mail aankomt en dat je op /bedankt uitkomt.
 5. **Privacyverklaring laten nalezen.** De tekst is een degelijk vertrekpunt, geen juridisch advies.
 6. **Lummen, Dilsen-Stokkem en Kinrooi nakijken.** Voor die gemeenten ontbreekt de termijn of de kostprijs van het parkeerverbod. De site zegt dat eerlijk ("staat niet op de website van de gemeente"), maar een telefoontje naar de gemeente maakt de pagina sterker.
 7. **Telefoonnummer** (liefst een eigen oproepnummer per site) invullen in `lib/site.ts`. Zolang het leeg is, toont de site nergens een nummer.
