@@ -2,6 +2,9 @@ import data from "./data/gemeenten.json";
 
 export type Bijzonderheid = { tekst: string; bron: string | null };
 
+/** Extra lokale uitleg voor grotere gemeenten: elk blok heeft een kop, alinea's en een bron. */
+export type LokaalBlok = { kop: string; alineas: string[]; bron: string | null };
+
 export type Gemeente = {
   slug: string;
   naam: string;
@@ -24,6 +27,7 @@ export type Gemeente = {
   adreswijzigingUrl: string | null;
   recyclagepark: { naam: string | null; adres: string | null; url: string | null } | null;
   bijzonderheden: Bijzonderheid[];
+  lokaal?: LokaalBlok[];
   bronnen: string[];
 };
 

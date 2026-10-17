@@ -92,7 +92,7 @@ export default function GemeentePagina({ params }: { params: { gemeente: string 
       <div className="wrap grid gap-12 py-12 lg:grid-cols-[1fr_20rem]">
         <article className="min-w-0">
           {/* Lokaal */}
-          {(g.woonprofiel || g.bijzonderheden.length > 0) && (
+          {(g.woonprofiel || g.bijzonderheden.length > 0 || (g.lokaal && g.lokaal.length > 0)) && (
             <section>
               <p className="etiket">Lokaal</p>
               <h2 className="mt-3">Verhuizen in {g.naam}: dit moet je weten</h2>
@@ -115,6 +115,24 @@ export default function GemeentePagina({ params }: { params: { gemeente: string 
                   ))}
                 </ul>
               )}
+              {g.lokaal?.map((blok) => (
+                <div key={blok.kop} className="mt-8">
+                  <h3>{blok.kop}</h3>
+                  <div className="lees mt-3">
+                    {blok.alineas.map((a) => (
+                      <p key={a.slice(0, 40)}>{a}</p>
+                    ))}
+                  </div>
+                  {blok.bron && (
+                    <p className="mt-2 text-sm text-ink-500">
+                      Bron:{" "}
+                      <a href={blok.bron} target="_blank" rel="nofollow noopener" className="underline hover:text-ink">
+                        {hostnaam(blok.bron)}
+                      </a>
+                    </p>
+                  )}
+                </div>
+              ))}
             </section>
           )}
 
