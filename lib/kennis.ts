@@ -281,45 +281,92 @@ export const artikels: Artikel[] = [
     metaDescription:
       "Meld je adreswijziging binnen 8 werkdagen bij je nieuwe gemeente. Zo verloopt de aangifte, de controle door de wijkagent en de aanpassing van je eID.",
     intro: [
-      `Na een verhuis meld je je nieuwe adres binnen 8 werkdagen bij de dienst Burgerzaken van je nieuwe gemeente. Dat kan in de meeste gemeenten online.`,
+      `Na een verhuis meld je je nieuwe adres binnen 8 werkdagen bij de dienst Burgerzaken van je nieuwe gemeente. Dat geldt ook als je binnen dezelfde gemeente verhuist. In de meeste gemeenten kan het online en het is gratis.`,
+      `De aangifte is alleen het begin. Daarna volgt een controle van de wijkagent, je inschrijving in het bevolkingsregister en een bezoek aan het gemeentehuis om de chip van je identiteitskaart aan te passen. Zo verloopt het stap voor stap.`,
     ],
     secties: [
       {
+        titel: "Wanneer en waar doe je de aangifte?",
+        alineas: [
+          `De termijn van 8 werkdagen start op de dag dat je de nieuwe woning effectief betrekt. Vroeger aangeven kan niet: je moet er al wonen. De regel staat in het koninklijk besluit van 16 juli 1992 over de bevolkingsregisters.`,
+          `Je doet de aangifte bij de gemeente van je nieuwe adres, niet bij je oude gemeente. Dat kan via het digitale loket van de gemeente of aan het loket van Burgerzaken. Je hebt een geldig identiteitsbewijs met rijksregisternummer nodig. Op onze gemeentepagina's staat de rechtstreekse link naar de aangifte van elke Limburgse gemeente.`,
+          `Eén meerderjarig gezinslid volstaat om de aangifte voor het hele gezin te doen. Verhuist het hele gezin, dan doet de referentiepersoon van het gezin de aangifte.`,
+        ],
+      },
+      {
         titel: "De aangifte in vier stappen",
         stappen: [
-          `Doe de aangifte online via het digitale loket van je nieuwe gemeente, of aan het loket. Eén meerderjarig gezinslid kan het voor het hele gezin doen.`,
-          `Een wijkagent of ambtenaar komt controleren of je werkelijk op het adres woont.`,
-          `Na de vaststelling word je ingeschreven en uitgenodigd om de chip van je identiteitskaart aan te passen.`,
-          `Ga langs met je eID en je pincode. Het adres staat alleen op de chip, niet op de kaart zelf.`,
+          `Doe de aangifte online of aan het loket. Geef daarbij de momenten op waarop je thuis bereikbaar bent voor de controle.`,
+          `Een wijkagent of bevoegde ambtenaar komt ter plaatse controleren of je er werkelijk je hoofdverblijfplaats hebt. Volgens de omzendbrief van Binnenlandse Zaken moet dat onderzoek binnen 15 werkdagen na je aangifte afgerond zijn. Een telefoontje volstaat niet; de controle gebeurt op het adres zelf.`,
+          `Na een positieve vaststelling word je ingeschreven. De inschrijvingsdatum is de datum van je aangifte, nooit later dan de datum van de vaststelling. Dat is belangrijk voor je belastingen en premies.`,
+          `Je krijgt een uitnodiging om de chip van je identiteitskaart te laten aanpassen. Ga langs met je eID en je pincode, voor elk gezinslid met een kaart. Het adres staat alleen op de chip, niet op de kaart zelf. Laat je dat na binnen de termijn die de gemeente oplegt, dan kan de gemeente dat melden aan het parket.`,
         ],
       },
       {
-        titel: "Wat moet je zelf nog melden?",
+        titel: "Verhuis je met kinderen?",
         alineas: [
-          `Overheidsdiensten krijgen je nieuwe adres automatisch door. Je werkgever, bank, verzekeraar, energie- en waterleverancier en telecomoperator verwittig je zelf.`,
-          `Op het inschrijvingsbewijs van je auto hoeft de adreswijziging niet meer aangebracht te worden.`,
+          `Vermeld bij de aangifte of er voor de kinderen een rechterlijke beslissing, een notariële akte of een onderlinge overeenkomst over het verblijf bestaat, en breng die mee. Bij co-ouderschap moet de gemeente weten bij welke ouder het kind ingeschreven wordt.`,
+          `Een minderjarige die voor het eerst het ouderlijke huis verlaat, bijvoorbeeld om alleen te gaan wonen, moet voor de aangifte vergezeld zijn van iemand die het ouderlijk gezag uitoefent.`,
         ],
       },
       {
-        titel: "Wat als je te laat bent?",
+        titel: "Wie wordt automatisch verwittigd en wie niet?",
         alineas: [
-          `Een laattijdige aangifte kan een gemeentelijke boete opleveren. Wacht dus niet tot alles uitgepakt is.`,
+          `Overheidsinstellingen krijgen je nieuwe adres automatisch via het Rijksregister: je ziekenfonds en het RIZIV, de belastingadministratie, het kinderbijslagfonds, de uitbetalingsinstelling voor werkloosheidsuitkeringen, het OCMW en de Federale Pensioendienst. Ook de DIV past het adres van je voertuig automatisch aan; je oude adres mag gewoon op het papieren inschrijvingsbewijs blijven staan.`,
+          `Zelf verwittig je je werkgever, de VDAB als je werkzoekend bent, je bank en verzekeraar, je energieleverancier, De Watergroep, je telecomoperator en je abonnementen. Die krijgen je nieuwe adres niet door.`,
+        ],
+      },
+      {
+        titel: "Wat als je te laat bent of niet aangeeft?",
+        alineas: [
+          `Wie niet of te laat aangeeft, overtreedt de wet op de bevolkingsregisters. De gemeente kan de politie een proces-verbaal laten opmaken en de zaak naar het parket sturen. Een vast boetebedrag staat niet in de regelgeving, dus laat je niet afschrikken door websites die een exact bedrag noemen, maar wacht ook niet tot alles uitgepakt is.`,
+          `Weigert de gemeente je inschrijving, dan moet ze dat motiveren. Je kan binnen 30 kalenderdagen beroep aantekenen bij de FOD Binnenlandse Zaken.`,
+        ],
+      },
+      {
+        titel: "Bijzondere situaties",
+        lijst: [
+          `Verhuis naar het buitenland: meld je vertrek uiterlijk de dag vóór je vertrekt bij je huidige gemeente. Daarna regel je je documenten via de Belgische ambassade of het consulaat.`,
+          `Tijdelijk weg, bijvoorbeeld voor werk of een lange reis: meld een tijdelijke afwezigheid bij Burgerzaken. Die mag maximaal 1 jaar duren en kan eenmalig met 1 jaar verlengd worden. Wie meer dan 6 maanden onafgebroken weg is zonder melding, riskeert van ambtswege afgevoerd te worden.`,
+          `Geen vaste woning: in strikt omschreven gevallen kan je een referentieadres nemen bij een particulier of het OCMW. Dat is gratis en mag nooit een adres poste restante zijn.`,
         ],
       },
     ],
     faq: [
       {
         vraag: "Kan ik mijn adreswijziging online doen?",
-        antwoord: `In de meeste gemeenten wel, via het digitale loket. Op onze gemeentepagina's staat de link naar de aangifte van je gemeente.`,
+        antwoord: `In de meeste gemeenten wel, via het digitale loket van je nieuwe gemeente. Het kan niet via Mijn Burgerprofiel; daar zie je alleen welke gegevens het Rijksregister over je heeft. Op onze gemeentepagina's staat de link naar de aangifte van je gemeente.`,
       },
       {
         vraag: "Moet ik iets melden bij mijn oude gemeente?",
-        antwoord: `Nee. Je doet de aangifte bij je nieuwe gemeente, die de rest regelt. Alleen bij een verhuis naar het buitenland meld je je vertrek bij je huidige gemeente.`,
+        antwoord: `Nee. Je doet de aangifte bij je nieuwe gemeente, die de uitschrijving op je oude adres regelt. Alleen bij een verhuis naar het buitenland meld je je vertrek bij je huidige gemeente.`,
+      },
+      {
+        vraag: "Hoe lang duurt het voor de wijkagent langskomt?",
+        antwoord: `De gemeente moet het woonstonderzoek binnen 15 werkdagen na je aangifte afronden. Geef bij je aangifte op wanneer je thuis bent, dan verloopt het sneller.`,
+      },
+      {
+        vraag: "Kost een adreswijziging iets?",
+        antwoord: `De aangifte zelf is gratis. Voor het aanpassen van de chip van je eID heb je je pincode nodig; neem die mee voor elk gezinslid.`,
+      },
+      {
+        vraag: "Moet ik mijn rijbewijs of inschrijvingsbewijs laten aanpassen?",
+        antwoord: `Het inschrijvingsbewijs van je voertuig hoeft niet aangepast te worden: de DIV krijgt je nieuwe adres automatisch. Over het rijbewijs hebben we geen officiële regel gevonden; vraag het na bij je gemeente.`,
       },
     ],
     bronnen: [
       { naam: "Vlaanderen.be: aangifte van adreswijziging", url: "https://www.vlaanderen.be/aangifte-van-adreswijziging" },
-      { naam: "Belgium.be: adreswijziging", url: "https://www.belgium.be/nl/huisvesting/verhuizen/adreswijziging" },
+      {
+        naam: "FOD Binnenlandse Zaken: omzendbrief inschrijving bevolkingsregisters (2025)",
+        url: "https://www.ibz.rrn.fgov.be/sites/default/files/documents/nl/bevolking/omzendbrieven/20250613_Omzendbrief-herrinnering-inschrijving-bevolkingsregisters.pdf",
+      },
+      {
+        naam: "Wikifin: wat moet je doen bij een verhuis binnen België",
+        url: "https://www.wikifin.be/nl/woning-en-hypothecaire-lening/adreswijziging-verhuizen/wat-moet-je-doen-als-je-binnen-belgie",
+      },
+      { naam: "Belgium.be: adreswijziging DIV automatisch", url: "https://news.belgium.be/nl/node/21499/pdf" },
+      { naam: "Vlaanderen.be: melding van tijdelijke afwezigheid", url: "https://www.vlaanderen.be/melding-van-tijdelijke-afwezigheid" },
+      { naam: "Vlaanderen.be: referentieadres", url: "https://www.vlaanderen.be/referentieadres" },
     ],
   },
   {
@@ -447,47 +494,101 @@ export const artikels: Artikel[] = [
     metaDescription:
       "Er bestaat in België geen wettelijk verhuisverlof. Sommige sectoren en werkgevers geven wel een verhuisdag. Zo ga je na waar je recht op hebt.",
     intro: [
-      `Kort antwoord: nee, in België bestaat geen algemeen wettelijk recht op verlof voor een verhuis. Verhuizen staat niet in de wettelijke lijst van klein verlet.`,
+      `Kort antwoord: nee, in België bestaat geen algemeen wettelijk recht op verlof voor een verhuis. Verhuizen staat niet in de wettelijke lijst van klein verlet, en ook niet in de lijst van het verlof om dwingende redenen.`,
+      `Toch krijgen sommige werknemers wel een verhuisdag. Dat komt dan uit een sector-cao, een bedrijfsakkoord, het arbeidsreglement of je eigen contract. Hieronder lees je wat de wet zegt, waar je een eventuele verhuisdag terugvindt en wat je opties zijn als je er geen hebt.`,
     ],
     secties: [
       {
-        titel: "Waarom denken veel mensen van wel?",
+        titel: "Wat zegt de wet over klein verlet?",
         alineas: [
-          `Klein verlet, ook omstandigheidsverlof genoemd, geeft je betaald verlof bij gebeurtenissen zoals een huwelijk, geboorte of overlijden. Een verhuis hoort daar wettelijk niet bij.`,
-          `Sectoren en bedrijven mogen wel gunstigere regels hebben. Daardoor krijgen sommige werknemers een verhuisdag en andere niet.`,
+          `Klein verlet, officieel omstandigheidsverlof, geeft je het recht om met behoud van loon afwezig te blijven voor een beperkte lijst van familiale en burgerlijke gebeurtenissen. Die lijst staat in het koninklijk besluit van 28 augustus 1963 en wordt gepubliceerd door de FOD Werkgelegenheid.`,
+          `In die lijst staan onder meer je eigen huwelijk (2 dagen), het huwelijk van een kind, broer, zus of ouder (1 dag), het overlijden van je partner of kind (10 dagen), het overlijden van een ouder of schoonouder (3 dagen), de plechtige communie of het feest van de vrijzinnige jeugd van een kind (1 dag), en de tijd die je nodig hebt als jurylid, getuige of bijzitter in een stembureau.`,
+          `Een verhuis komt in die lijst niet voor. Een werkgever is dus wettelijk niet verplicht om je een betaalde dag te geven om te verhuizen.`,
+        ],
+      },
+      {
+        titel: "Waar een verhuisdag wél vandaan kan komen",
+        alineas: [
+          `Sectoren en bedrijven mogen gunstiger zijn dan de wet. De sociale secretariaten raden werkgevers daarom aan om altijd na te kijken of hun paritair comité een voordeligere regeling heeft. Zo geven sommige sectoren drie dagen voor een huwelijk in plaats van twee.`,
+          `Voor een verhuisdag hebben we in de publiek raadpleegbare cao-teksten geen sector gevonden die er standaard één toekent. Websites die tabellen tonen met sectoren en aantallen verhuisdagen, baseren zich vaak op Nederlandse cao's, die in België niet gelden. Neem die cijfers dus niet over.`,
+          `Een verhuisdag bestaat in België dus alleen als hij uitdrukkelijk is opgenomen in een cao van je sector, een akkoord op bedrijfsniveau, het arbeidsreglement of je arbeidsovereenkomst. Ook bij de Vlaamse overheid staat verhuizen niet in de lijst van het omstandigheidsverlof uit het personeelsstatuut.`,
         ],
       },
       {
         titel: "Zo ga je het na",
         stappen: [
-          `Kijk in je arbeidsreglement onder klein verlet of omstandigheidsverlof.`,
-          `Vraag het aan je personeelsdienst.`,
-          `Vraag je vakbond wat de cao van je sector voorziet.`,
+          `Lees je arbeidsreglement onder klein verlet, omstandigheidsverlof of bijzonder verlof. Daar staat wat je bedrijf toekent bovenop de wet.`,
+          `Vraag het aan je personeelsdienst of sociaal secretariaat. Zij kennen de regeling van je paritair comité.`,
+          `Ben je lid van een vakbond, vraag dan wat de sector-cao voorziet. De vakbonden benadrukken zelf dat veel regels afhangen van de sector waarin je werkt.`,
+          `Werk je bij een lokaal bestuur of de overheid, kijk dan in de rechtspositieregeling. Bij sommige provinciebesturen krijg je 2 werkdagen bij een verandering van standplaats die de dienst oplegt, maar niet bij een verhuis op eigen initiatief.`,
+        ],
+      },
+      {
+        titel: "Verlof om dwingende redenen: niet voor een geplande verhuis",
+        alineas: [
+          `Het verlof om dwingende redenen (cao nr. 45) geeft je maximaal 10 arbeidsdagen per jaar voor een onvoorzienbare gebeurtenis die los van het werk staat en je dringende tussenkomst vraagt: ziekte of ongeval van een huisgenoot, ernstige schade aan je woning door brand of een natuurramp, of een verplichte verschijning voor de rechtbank. Die dagen zijn onbetaald, tenzij je sector of werkgever anders beslist.`,
+          `Een verhuis die je weken op voorhand plant, is geen onvoorzienbare gebeurtenis. De cao laat wel toe dat werkgever en werknemer in onderling akkoord een andere gebeurtenis als dwingende reden beschouwen. Dat is dus bespreekbaar, maar geen recht.`,
         ],
       },
       {
         titel: "Geen verhuisdag? Dit zijn je opties",
         lijst: [
-          `Neem een gewone vakantiedag of recuperatie.`,
-          `Verhuis op zaterdag. Reken dan wel op een toeslag bij de verhuisfirma.`,
-          `Laat de verhuisfirma werken terwijl jij maar een halve dag vrij neemt voor de sleuteloverdracht.`,
+          `Neem een gewone vakantiedag. Vraag hem tijdig aan: je werkgever mag een verlofaanvraag weigeren, maar wie niet reageert op een tijdige aanvraag, wordt geacht akkoord te gaan.`,
+          `Gebruik inhaalrust of recuperatie als je die hebt opgebouwd.`,
+          `Vraag een dag onbetaald verlof. Dat kan alleen in onderling akkoord.`,
+          `Verhuis op zaterdag. Reken dan wel op een toeslag bij de verhuisfirma, vaak tot 25%.`,
+          `Laat de verhuisfirma inpakken en laden terwijl jij maar een halve dag vrij neemt voor de sleuteloverdracht en de meterstanden.`,
+        ],
+      },
+      {
+        titel: "Wat je wel kan inplannen rond je verhuis",
+        alineas: [
+          `Ook zonder verhuisdag kan je de administratie spreiden. Het parkeerverbod vraag je in de meeste Limburgse gemeenten 5 tot 15 dagen vooraf aan, in Kinrooi zelfs zes weken. Je adreswijziging meld je binnen 8 werkdagen na de verhuis, meestal online, dus daarvoor hoef je geen verlof te nemen. Alleen het bezoek van de wijkagent en het aanpassen van je identiteitskaart vragen dat je even thuis of op het gemeentehuis bent.`,
         ],
       },
     ],
     faq: [
       {
         vraag: "Hoeveel dagen verhuisverlof krijg je in België?",
-        antwoord: `Wettelijk geen. Of je een dag krijgt, hangt af van je sector, je cao of je werkgever. Websites die één wettelijke verhuisdag vermelden, worden tegengesproken door de wettelijke lijst van klein verlet.`,
+        antwoord: `Wettelijk geen. Of je een dag krijgt, hangt af van je sector, je cao of je werkgever. Websites die één of meer wettelijke verhuisdagen vermelden, worden tegengesproken door de wettelijke lijst van klein verlet, waarin verhuizen niet voorkomt.`,
+      },
+      {
+        vraag: "Mag mijn werkgever een verhuisdag weigeren?",
+        antwoord: `Staat de verhuisdag in je cao, arbeidsreglement of contract, dan kan je werkgever hem niet weigeren, net zoals bij het wettelijke klein verlet. Staat hij nergens, dan is het een gunst. Een gewone vakantiedag mag je werkgever weigeren, maar niet zonder reden en niet door te zwijgen op een tijdige aanvraag.`,
+      },
+      {
+        vraag: "Is een verhuis een dwingende reden?",
+        antwoord: `Nee. Het verlof om dwingende redenen is bedoeld voor onvoorzienbare gebeurtenissen. Een geplande verhuis valt er alleen onder als jij en je werkgever dat samen zo afspreken.`,
+      },
+      {
+        vraag: "Krijgen ambtenaren verhuisverlof?",
+        antwoord: `In het Vlaams personeelsstatuut staat verhuizen niet bij het omstandigheidsverlof. Voor federale ambtenaren konden we de officiële lijst niet nakijken. Vraag het na bij je personeelsdienst en neem geen cijfers over van websites zonder bron.`,
       },
     ],
     bronnen: [
       {
-        naam: "Securex: wat is klein verlet",
-        url: "https://www.securex.be/nl/lex4you/werkgever/themas/vakantie-afwezigheid/tijd-voor-de-werknemer/wat-is-klein-verlet",
+        naam: "FOD Werkgelegenheid: klein verlet",
+        url: "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/oorzaken-van-schorsing-hoofde-12",
       },
       {
-        naam: "Vlaanderen.be: omstandigheidsverlof",
-        url: "https://www.vlaanderen.be/werken/verlof-en-tijdelijk-minder-werken/omstandigheidsverlof-klein-verlet",
+        naam: "FOD Werkgelegenheid: verlof om dwingende redenen",
+        url: "https://werk.belgie.be/nl/themas/arbeidsovereenkomsten/schorsing-van-de-arbeidsovereenkomst/oorzaken-van-schorsing-hoofde-7",
+      },
+      {
+        naam: "Securex: overzichtstabel klein verlet",
+        url: "https://www.securex.be/nl/lex4you/werkgever/themas/vakantie-afwezigheid/tijd-voor-de-werknemer/overzichtstabel",
+      },
+      {
+        naam: "SD Worx: veelgestelde vragen klein verlet",
+        url: "https://www.sdworx.be/nl-be/nieuws-inspiratie/afwezigheden/veelgestelde-vragen-klein-verlet",
+      },
+      {
+        naam: "ACV: klein verlet",
+        url: "https://www.hetacv.be/je-rechten/werken-in-de-prive-sector/vakantie/klein-verlet",
+      },
+      {
+        naam: "Vlaams personeelsstatuut: omstandigheidsverlof",
+        url: "https://www.vlaanderen.be/vlaams-personeelsstatuut/inhoudstafel-statuut/inhoudstafel-deel-x-de-verloven-en-dienstvrijstellingen/deel-x-de-verloven-en-dienstvrijstellingen-6",
       },
     ],
   },
