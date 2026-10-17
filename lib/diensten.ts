@@ -306,7 +306,7 @@ export const diensten: Dienst[] = [
     icoon: "office",
     metaTitle: "Bedrijfsverhuizing in Limburg: kantoor of praktijk verhuizen",
     metaDescription:
-      "Een kantoor, praktijk of winkel verhuizen in Limburg? Zo plan je een bedrijfsverhuizing zonder onnodige stilstand, met een checklist voor IT, archief en personeel.",
+      "Een kantoor, praktijk of winkel verhuizen in Limburg? Zo plan je een bedrijfsverhuizing zonder stilstand, met een checklist voor IT, archief en personeel.",
     h1: "Bedrijfsverhuizing in Limburg: plan het zonder stilstand",
     intro: [
       `Bij een bedrijfsverhuizing telt vooral de stilstand. Elk uur dat je team niet kan werken kost geld, dus de planning is belangrijker dan bij een particuliere verhuis.`,

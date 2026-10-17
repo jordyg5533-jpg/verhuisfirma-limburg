@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   title: "Verhuisfirma Limburg: prijzen, verhuislift en offerte",
   description:
-    "Gids over verhuizen in Limburg: richtprijzen voor een verhuisfirma en verhuislift, de regels voor het parkeerverbod in 24 gemeenten en een vrijblijvende offerte.",
+    "Gids over verhuizen in Limburg: richtprijzen voor verhuisfirma en verhuislift, de regels voor het parkeerverbod in 24 gemeenten en een vrijblijvende offerte.",
   alternates: { canonical: "/" },
   openGraph: { type: "website", locale: "nl_BE", siteName: site.naam, url: site.url },
   robots: { index: true, follow: true },

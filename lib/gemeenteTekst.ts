@@ -12,15 +12,25 @@ export function eersteZin(tekst: string | null, max = 150): string | null {
 }
 
 export function metaTitle(g: Gemeente): string {
-  return `Verhuisfirma ${g.naam}: prijzen en parkeerverbod (2026)`;
+  const metJaar = `Verhuisfirma ${g.naam}: prijzen en parkeerverbod (2026)`;
+  return metJaar.length <= 60 ? metJaar : `Verhuisfirma ${g.naam}: prijzen en parkeerverbod`;
+}
+
+/** Korte termijn voor in de meta description: eerste zin, zonder haakjes, niet afgebroken. */
+function termijnKort(tekst: string | null): string | null {
+  const zin = eersteZin(tekst, 999);
+  if (!zin) return null;
+  const schoon = zin.replace(/\s*\([^)]*\)/g, "").replace(/[,:;]\s*$/, "").trim();
+  if (!schoon || schoon.length > 60) return null;
+  return `${schoon.charAt(0).toLowerCase()}${schoon.slice(1)}`;
 }
 
 export function metaDescription(g: Gemeente): string {
-  const termijn = eersteZin(g.parkeerverbod.termijn, 62);
   const basis = `Verhuizen in ${g.naam}? Richtprijzen voor een verhuisfirma en verhuislift`;
-  return termijn
-    ? `${basis}, plus de regels voor het parkeerverbod: ${termijn.charAt(0).toLowerCase()}${termijn.slice(1)}.`
-    : `${basis}, plus de regels van de gemeente voor het parkeerverbod en je adreswijziging.`;
+  const termijn = termijnKort(g.parkeerverbod.termijn);
+  const met = termijn ? `${basis}, plus de regels voor het parkeerverbod: ${termijn}.` : null;
+  if (met && met.length <= 155) return met;
+  return `${basis}, plus de regels van de gemeente voor het parkeerverbod.`;
 }
 
 export function introAlineas(g: Gemeente): string[] {

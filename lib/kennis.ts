@@ -383,7 +383,7 @@ export const artikels: Artikel[] = [
     kort: "Wat het label garandeert, hoe de aansprakelijkheid zit en hoe je schade meldt.",
     metaTitle: "Erkende verhuizer (BKV): wat betekent het label?",
     metaDescription:
-      "Het label BKV Erkend Verhuizer is van de Belgische Kamer der Verhuizers. Lees wat het garandeert, hoe de aansprakelijkheid van € 125 per m³ werkt en hoe je schade meldt.",
+      "Wat het label BKV Erkend Verhuizer van de Belgische Kamer der Verhuizers garandeert, hoe de aansprakelijkheid van € 125 per m³ werkt en hoe je schade meldt.",
     intro: [
       `Iedereen met een bestelwagen kan zich verhuizer noemen. Het label BKV Erkend Verhuizer helpt je het kaf van het koren te scheiden.`,
     ],

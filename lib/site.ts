@@ -21,10 +21,10 @@ export const site = {
 
   // Verplichte identificatie van de uitgever (Belgisch recht). Vul in voor livegang.
   uitgever: {
-    naam: "",
-    ondernemingsnummer: "",
-    adres: "",
-    email: "",
+    naam: "JG Scale",
+    ondernemingsnummer: "BTW BE 1031.863.828",
+    adres: "Meytersveld 94, 3640 Kinrooi",
+    email: "info@jgscale.be",
   },
 
   // Datum waarop de richtprijzen en gemeentegegevens zijn nagekeken.
